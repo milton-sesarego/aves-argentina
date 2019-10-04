@@ -1,0 +1,35 @@
+/* Add application styles & imports to this file! */
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+body{
+  font-family: Lato !important;
+}
+
+a{
+  color:#405065 !important;
+  text-decoration: none !important;
+}
+
+.titulo {
+  font-size: 2em !important;
+  font-weight: bold !important;
+}
+
+mat-card {
+  margin: 10px;
+}
+
+.mat-card-avatar {
+    height: auto !important;
+    width: 200px !important;
+    border-radius: 0px 0px !important;
+    object-fit: contain !important;
+}
+
+.material-icons{
+  vertical-align: middle;
+}
+
+.material-icons{
+  user-select: none;
+}

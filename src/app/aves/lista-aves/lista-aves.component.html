@@ -1,0 +1,22 @@
+<div class="container text-center">
+    <br/>
+    <h4 *ngIf="aves$ | async; let aves">
+      Se han encontrado {{aves.length}} especies de aves en Argentina
+    </h4>
+</div>
+
+
+<div class="container">
+  <div class="filter">
+    <input class="form-control" type="text" name="search"
+    [(ngModel)]="searchText" autocomplete="off" placeholder="Filtrar">
+  </div>
+  
+  <ng-container>
+  <vista-ave
+    *ngFor="let ave of aves$ | async | filter:searchText"
+    [ave]="ave">
+  </vista-ave>
+  
+  </ng-container>
+</div>

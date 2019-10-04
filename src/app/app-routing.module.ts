@@ -1,11 +1,24 @@
 import { NgModule } from '@angular/core';
-import { Routes, RouterModule } from '@angular/router';
+import { RouterModule, Routes } from '@angular/router';
 
+const avesRoutes: Routes = [
+  {
+    path: '',
+    loadChildren: './aves/aves.module#AvesModule'
+  }
+]
 
-const routes: Routes = [];
+const routes: Routes = [
+  {
+    path: 'aves',
+    children: avesRoutes
+  }
+];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  imports: [ RouterModule.forRoot(routes, 
+                {useHash: false , enableTracing: false}) 
+            ],
+  exports: [ RouterModule ]
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}

@@ -1,0 +1,31 @@
+<div *ngIf="ave">
+      <mat-card>
+        <mat-card-header>
+          <img mat-card-avatar src="{{ave.thumbnail}}"/>
+          <mat-card-title-group>
+            <mat-card-title>
+              <i>{{ave.nombrecient}}</i>
+            </mat-card-title>
+            <mat-card-title>
+              {{ave.nombrecomun}}      
+            </mat-card-title>
+            <mat-card-title>
+              {{ave.familia.toLowerCase()}}
+            </mat-card-title>
+            <mat-card-title>
+              {{ave.estado}}
+            </mat-card-title>
+            <mat-card-subtitle>
+              <p>{{ave.descripcion}} <a href="{{ave.link}}" target="_blank">Wikipedia</a></p>
+            </mat-card-subtitle>
+          </mat-card-title-group>
+        
+      </mat-card-header>
+      <mat-toolbar-row>
+        <!--<a mat-raised-button class="button" href="{{ave.imagen}}" target="_blank">Imagen</a>-->
+        <button mat-raised-button  class="optionButton button"
+        ><fa-icon [icon]="faEye"></fa-icon></button>
+      </mat-toolbar-row>
+    
+   </mat-card>
+</div>
