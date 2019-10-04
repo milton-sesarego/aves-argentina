@@ -11,7 +11,7 @@ export class FirebaseService {
   constructor( private afs: AngularFirestore ) { }
 
   getCategoriasTest() {
-    this.categoriasTest = this.afs.collection('avistajes').valueChanges()
+    this.categoriasTest = this.afs.collection('avistajes').valueChanges();
     return this.categoriasTest;
   }
 }
