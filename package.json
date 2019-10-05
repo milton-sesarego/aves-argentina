@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@angular-devkit/build-angular": "^0.803.8",
     "@angular/cdk": "latest",
     "@angular/common": "latest",
     "@angular/compiler": "latest",
@@ -34,6 +33,7 @@
     "e2e": "ng e2e"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "latest",
     "@angular/cli": "latest",
     "@angular/compiler-cli": "latest",
     "@angular/language-service": "latest",
