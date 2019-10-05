@@ -43,8 +43,8 @@
 
 // tslint:disable-next-line: jsdoc-format
 /** Evergreen browsers require these. **/
-import 'core-js/es6/reflect';
-import 'core-js/es7/reflect';
+import 'core-js/es/reflect';
+// import 'core-js/es7/reflect';
 
 
 // tslint:disable-next-line: jsdoc-format
