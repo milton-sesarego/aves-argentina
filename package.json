@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@angular/animations": "latest",
     "@angular/cdk": "latest",
     "@angular/common": "latest",
     "@angular/compiler": "latest",
@@ -51,6 +52,6 @@
     "protractor": "latest",
     "ts-node": "latest",
     "tslint": "latest",
-    "typescript": "latest"
+    "typescript": "3.5.3"
   }
 }

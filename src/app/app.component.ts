@@ -4,7 +4,7 @@ import { Observable, from, Subject } from 'rxjs';
 import { mergeMap, switchMap, map } from 'rxjs/operators';
 import { Ave } from './aves/ave';
 import { FirebaseService } from './firebase.service';
-import { AngularFirestore, AngularFirestoreDocument } from 'angularfire2/firestore';
+import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
 
 @Component({
   selector: 'my-app',
@@ -28,7 +28,7 @@ export class AppComponent implements OnInit  {
     descripcion: "Estudiante de Licenciatura en Informática en la Universidad Nacional del Oeste.",
     link: "https://www.linkedin.com/in/milton-sesarego/"
   }
-  
+
   searchText;
   constructor(
     private router: Router,
