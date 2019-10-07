@@ -17,17 +17,17 @@ export class AppComponent implements OnInit  {
   titulo = 'Aves de Argentina';
   categoriasTest: Observable<any[]>;
 
-  @ViewChild('Explorar', {static: false})
+  @ViewChild('Explorar', {static: true})
   Explorar: TemplateRef<any>;
 
-  @ViewChild('MisAvistajes', {static: false})
+  @ViewChild('MisAvistajes', {static: true})
   MisAvistajes: TemplateRef<any>;
 
-  @ViewChild('AcercaDe', {static: false})
+  @ViewChild('AcercaDe', {static: true})
   AcercaDe: TemplateRef<any>;
 
   allTabs: any;
-  searchText;
+
   profile = {
     thumbnail: 'https://media.licdn.com/dms/image/C4E03AQHACwpKQTs-PA/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=iE35UXxn0Jf4t6VCR7WC42tGu_EnLec_2ctnmxAY4u0' ,
     nombrecient: 'H. sapiens',
@@ -37,13 +37,10 @@ export class AppComponent implements OnInit  {
     link: 'https://www.linkedin.com/in/milton-sesarego/'
   };
 
-  getCategoriasTest() {
-    this.categoriasTest = this.fs.getCategoriasTest();
-  }
-
   constructor(
     private router: Router,
-    private fs: FirebaseService, private afs: AngularFirestore) {}
+    private fs: FirebaseService,
+    private afs: AngularFirestore) {}
 
   ngOnInit() {
     this.allTabs = [
@@ -53,9 +50,12 @@ export class AppComponent implements OnInit  {
     ];
   }
 
-  navegarAAves(e) {
-
+  navegarAAves() {
     this.router.navigate(['/aves/buscar']);
     this.getCategoriasTest();
+  }
+
+  getCategoriasTest() {
+    this.categoriasTest = this.fs.getCategoriasTest();
   }
 }
