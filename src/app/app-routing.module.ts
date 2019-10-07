@@ -6,7 +6,7 @@ const avesRoutes: Routes = [
     path: '',
     loadChildren: './aves/aves.module#AvesModule'
   }
-]
+];
 
 const routes: Routes = [
   {
@@ -16,8 +16,8 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [ RouterModule.forRoot(routes, 
-                {useHash: false , enableTracing: false}) 
+  imports: [ RouterModule.forRoot(routes,
+                {useHash: false , enableTracing: false})
             ],
   exports: [ RouterModule ]
 })

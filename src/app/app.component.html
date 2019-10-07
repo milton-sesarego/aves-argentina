@@ -13,7 +13,7 @@
     <mat-toolbar>
       <mat-toolbar-row>
         <button mat-raised-button  class="optionButton center"
-        (click)="navegarAAves()">Explorar</button>
+        type="button" (click)="navegarAAves()">Explorar</button>
       </mat-toolbar-row>
     </mat-toolbar>
 
@@ -21,11 +21,6 @@
 
   <ng-template #MisAvistajes>
     <h1>...</h1>
-    <div class="container">
-        <div *ngFor="let categoria of categoriasTest | async">
-          {{ categoria.nombrecient }}
-        </div>
-    </div>
   </ng-template>
 
   <ng-template #AcercaDe>

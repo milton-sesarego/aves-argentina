@@ -14,7 +14,6 @@ import { environment } from '../environments/environment';
 import { AngularFireModule } from '@angular/fire';
 import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { AngularFirestore } from '@angular/fire/firestore';
-import { FirebaseService } from './firebase.service';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule, AppRoutingModule, HttpClientModule, MaterialModule, BrowserAnimationsModule,
@@ -23,7 +22,7 @@ import { FirebaseService } from './firebase.service';
   AngularFirestoreModule],
   declarations: [ AppComponent, HelloComponent, TabComponent],
   bootstrap:    [ AppComponent ],
-  providers: [ AngularFirestore, FirebaseService ]
+  providers: [ AngularFirestore ]
 })
 export class AppModule { }
 

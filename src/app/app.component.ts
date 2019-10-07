@@ -3,8 +3,6 @@ import { Router } from '@angular/router';
 import { Observable, from, Subject } from 'rxjs';
 import { mergeMap, switchMap, map } from 'rxjs/operators';
 import { Ave } from './aves/ave';
-import { FirebaseService } from './firebase.service';
-import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -15,7 +13,6 @@ import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firest
 
 export class AppComponent implements OnInit  {
   titulo = 'Aves de Argentina';
-  categoriasTest: Observable<any[]>;
 
   @ViewChild('Explorar', {static: true})
   Explorar: TemplateRef<any>;
@@ -38,9 +35,7 @@ export class AppComponent implements OnInit  {
   };
 
   constructor(
-    private router: Router,
-    private fs: FirebaseService,
-    private afs: AngularFirestore) {}
+    private router: Router) {}
 
   ngOnInit() {
     this.allTabs = [
@@ -52,10 +47,5 @@ export class AppComponent implements OnInit  {
 
   navegarAAves() {
     this.router.navigate(['/aves/buscar']);
-    this.getCategoriasTest();
-  }
-
-  getCategoriasTest() {
-    this.categoriasTest = this.fs.getCategoriasTest();
   }
 }

@@ -12,30 +12,32 @@ export class WikiSearchService {
   constructor(
     private http: HttpClient) {}
 
-  fetchWiki(term:string): Observable<WikiSummary> {
+  fetchWiki(term: string): Observable<WikiSummary> {
     const tempTitle = term.replace(' ', '_') + '?redirect=true';
-    return this.http.get<WikiSummary>(this.baseUrl+tempTitle)
+    return this.http.get<WikiSummary>(this.baseUrl + tempTitle);
   }
 }
 
 export class WikiSummary {
-  type?:          string;
-  title?:         string;
-  displaytitle?:  string;
-  //namespace?:     Namespace;
+  type?: string;
+  title?: string;
+  displaytitle?: string;
+  // namespace?:     Namespace;
+  // tslint:disable-next-line: variable-name
   wikibase_item?: string;
-  //titles?:        Titles;
-  pageid?:        number;
-  //thumbnail?:     Originalimage;
-  //originalimage?: Originalimage;
-  lang?:          string;
-  dir?:           string;
-  revision?:      string;
-  tid?:           string;
-  timestamp?:     Date;
-  description?:   string;
-  //content_urls?:  ContentUrls;
-  //api_urls?:      APIUrls;
-  extract?:       string;
-  extract_html?:  string;
+  // titles?:        Titles;
+  pageid?: number;
+  // thumbnail?:     Originalimage;
+  // originalimage?: Originalimage;
+  lang?: string;
+  dir?: string;
+  revision?: string;
+  tid?: string;
+  timestamp?: Date;
+  description?: string;
+  // content_urls?:  ContentUrls;
+  // api_urls?:      APIUrls;
+  extract?: string;
+  // tslint:disable-next-line: variable-name
+  extract_html?: string;
 }
