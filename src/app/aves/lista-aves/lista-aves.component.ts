@@ -10,6 +10,7 @@ import { Ave } from '../ave';
 export class ListaAvesComponent implements OnInit {
 
   @Input() aves$: Observable<Ave[]>;
+
   constructor() { }
 
   ngOnInit() {
