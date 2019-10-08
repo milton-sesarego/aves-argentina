@@ -36,7 +36,7 @@ export class AvesSearchService {
   }
 
   fetchAves(): Observable<Ave[]> {
-    const avesRef = this.afs.collection('aves', ref => ref.orderBy('Nombre_Cientifico', 'desc').limit(1)).valueChanges();
+    const avesRef = this.afs.collection('aves', ref => ref.orderBy('Nombre_Cientifico', 'desc').limit(5)).valueChanges();
     const aves: Ave[] = [];
 
     return avesRef.pipe(
