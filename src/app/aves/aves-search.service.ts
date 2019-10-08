@@ -20,6 +20,21 @@ export class AvesSearchService {
     return 'https://es.wikipedia.org/wiki/' + tempTitle;
   }
 
+  addAvistaje() {
+    this.afs.collection('avistajes').add(
+      {
+        id: this.afs.createId(),
+        name: "nombretest",
+        place: "placetest",
+        timestamp: new Date().getTime()
+      }
+    ).then(response => {
+      console.log(response);
+    }).catch(error => {
+      console.log(error);
+    });
+  }
+
   fetchAves(): Observable<Ave[]> {
     const avesRef = this.afs.collection('aves', ref => ref.orderBy('Nombre_Cientifico', 'desc').limit(1)).valueChanges();
     const aves: Ave[] = [];

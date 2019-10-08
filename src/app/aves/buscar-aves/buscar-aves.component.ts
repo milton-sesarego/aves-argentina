@@ -21,5 +21,6 @@ export class BuscarAvesComponent implements OnInit {
 
   fetchAves(){
     this.aves$ = this.avesSearchService.fetchAves();
+    //this.avesSearchService.addAvistaje();
   }
 }

@@ -3,7 +3,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
-import { HelloComponent } from './hello.component';
 import { AppRoutingModule } from './app-routing.module';
 import { MaterialModule } from './material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -20,7 +19,7 @@ import { AngularFirestore } from '@angular/fire/firestore';
   MatTabsModule, FontAwesomeModule ,
   AngularFireModule.initializeApp(environment.firebase),
   AngularFirestoreModule],
-  declarations: [ AppComponent, HelloComponent, TabComponent],
+  declarations: [ AppComponent, TabComponent],
   bootstrap:    [ AppComponent ],
   providers: [ AngularFirestore ]
 })
