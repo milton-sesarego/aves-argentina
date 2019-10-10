@@ -1,6 +1,10 @@
 /* Add application styles & imports to this file! */
 @import '@angular/material/prebuilt-themes/indigo-pink.css';
 
+agm-map {
+  height: 300px;
+}
+
 a{
   color:#405065 !important;
   text-decoration: none !important;

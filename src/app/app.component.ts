@@ -2,8 +2,10 @@ import { Component, OnInit , ViewChild, TemplateRef, Output} from '@angular/core
 import { Observable, from, Subject } from 'rxjs';
 import { mergeMap, switchMap, map } from 'rxjs/operators';
 import { Ave } from './aves/ave';
+import { Avistaje } from './avistajes/avistaje';
 import { AvesSearchService } from './aves/aves-search.service';
 import { AvesComponent } from './aves/aves.component';
+import { AvistajesSearchService } from './avistajes/avistajes-search.service';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -16,6 +18,7 @@ export class AppComponent implements OnInit  {
   titulo = 'Aves de Argentina';
 
   aves$: Observable<Ave[]>;
+  avistajes$: Observable<Avistaje[]>;
 
   @ViewChild('Explorar', {static: true})
   Explorar: TemplateRef<any>;
@@ -38,7 +41,8 @@ export class AppComponent implements OnInit  {
   };
 
   constructor(
-    private avesSearchService: AvesSearchService) {}
+    private avesSearchService: AvesSearchService,
+    private avistajesSearchService: AvistajesSearchService) {}
 
   ngOnInit() {
     this.allTabs = [
@@ -46,9 +50,14 @@ export class AppComponent implements OnInit  {
       {name: 'Mis Avistajes', template: this.MisAvistajes},
       {name: 'Acerca De', template: this.AcercaDe}
     ];
+    this.avistajes$ = this.avistajesSearchService.fetchAvistajes();
   }
 
   navegarAAves() {
     this.aves$ = this.avesSearchService.fetchAves();
   }
+  addAvistaje() {
+    this.avistajesSearchService.addAvistaje();
+  }
+
 }

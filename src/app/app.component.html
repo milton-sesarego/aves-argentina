@@ -5,13 +5,20 @@
     </mat-toolbar-row>
 </mat-toolbar>-->
 
-<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
   <a class="navbar-brand" href="#">{{ titulo }}</a>
   <div class="collapse" id="navbarsExampleDefault">
   </div>
 </nav>
 
 <tabs [tabsName]="allTabs"></tabs>
+
+<mat-toolbar>
+  <mat-toolbar-row>
+    <button mat-raised-button  class="optionButton center"
+    type="button" (click)="addAvistaje()">Crear Avistaje</button>
+  </mat-toolbar-row>
+</mat-toolbar>
 
 <ng-template #Explorar>
     <lista-aves [aves$]="aves$"></lista-aves>
@@ -24,7 +31,7 @@
 </ng-template>
 
 <ng-template #MisAvistajes>
-  <mapa-avistajes></mapa-avistajes>
+  <mapa-avistajes [avistajes$]="avistajes$"></mapa-avistajes>
 </ng-template>
 
 <ng-template #AcercaDe>

@@ -1,4 +1,6 @@
 <main role="main" class="container">
+
+
   <div class="row">
     <div class="col-md-12">
       <div class="mapa">
@@ -8,29 +10,20 @@
       [zoom]="zoom"
       [zoomControl]="false">
 
-      <agm-marker
-      *ngFor="let p of (parques$ | async); index as i"
+        <agm-marker
+        *ngFor="let a of (avistajes$ | async); index as i"
+        [latitude]="a.latitud"
+        [longitude]="a.longitud">
 
-      (parqueClick)="parqueCliqueado(p, i)"
-      [latitude]="p.latitud"
-      [longitude]="p.longitud">
-
-      <agm-info-window>
-        <strong>
-          <div>ID: {{p.id}}</div>
-          <div>Nombre: {{p.nombre}}</div>
-          <div>Superficie: {{p.superficie}}</div>
-          <div>Provincia: {{p.provincia}}</div>
-          <div>Ecorregion: {{p.ecorregion}}</div>
-          <div>Año De Creacion: {{p.anoDeCreacion}}</div>
-          <div>Descripcion: {{p.descripcion}}</div>
-          <div>Link: {{p.link}}</div>
-        </strong>
-      </agm-info-window>
-      </agm-marker>
+        <agm-info-window>
+          <strong>
+            <div>Nombre: {{a.nombrecient}}</div>
+          </strong>
+        </agm-info-window>
+        </agm-marker>
 
       </agm-map>
     </div>
     </div>
   </div>
-  </main>
+</main>

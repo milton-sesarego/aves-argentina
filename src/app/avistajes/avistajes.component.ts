@@ -1,6 +1,11 @@
-import { Component, OnInit, Input , Output} from '@angular/core';
+import { Component, OnInit, OnDestroy, Input, Output, EventEmitter } from '@angular/core'
 import { Observable } from 'rxjs';
 import { Avistaje } from './avistaje';
+import { marker } from './marker.image'
+import { proj, View } from 'openlayers'
+import { HttpClient } from '@angular/common/http'
+import { Subscription } from 'rxjs'
+import { GeoLocationService } from './geo-location.service'
 
 @Component({
   // tslint:disable-next-line: component-selector

@@ -16,10 +16,13 @@ import { AvesComponent } from './aves/aves.component';
 import { VistaAveComponent } from './aves/vista-ave/vista-ave.component';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { AvesSearchService } from './aves/aves-search.service';
+
 import { WikiSearchService } from './aves/wiki-search.service';
 import { AvistajesComponent } from './avistajes/avistajes.component';
 import { VistaAvistajeComponent } from './avistajes/vista-avistaje/vista-avistaje.component';
+import { AvistajesSearchService } from './avistajes/avistajes-search.service';
 import { AgmCoreModule } from '@agm/core';
+import { AngularOpenlayersModule } from 'ngx-openlayers';
 
 @NgModule({
   imports:      [
@@ -35,7 +38,8 @@ import { AgmCoreModule } from '@agm/core';
   Ng2SearchPipeModule,
   AgmCoreModule.forRoot({
     apiKey: ''
-  })
+  }),
+  AngularOpenlayersModule
 ],
   declarations: [
     AppComponent,
@@ -46,7 +50,7 @@ import { AgmCoreModule } from '@agm/core';
     VistaAvistajeComponent
   ],
   bootstrap:    [ AppComponent ],
-  providers: [ AngularFirestore, AvesSearchService, WikiSearchService ]
+  providers: [ AngularFirestore, AvesSearchService, WikiSearchService , AvistajesSearchService]
 })
 export class AppModule { }
 

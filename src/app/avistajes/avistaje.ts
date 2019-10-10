@@ -1,14 +1,14 @@
 export interface Avistaje {
-  thumbnail: string;
+  /*thumbnail: string;
   imagen: string;
-  nombrecient: string;
   nombrecomun: string;
   familia: string;
   estado: string;
   descripcion: string;
-  link: string;
+  link: string;*/
 
   latitud: string;
   longitud: string;
+  nombrecient: string;
   fecha: string;
 }
