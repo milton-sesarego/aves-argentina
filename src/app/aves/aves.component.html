@@ -1,0 +1,16 @@
+
+
+<div class="container">
+  <br />
+  <div class="filter">
+    <input class="form-control" type="text" name="search"
+    [(ngModel)]="searchText" autocomplete="off" placeholder="Filtrar">
+  </div>
+
+  <ng-container>
+    <vista-ave
+      *ngFor="let ave of aves$ | async | filter:searchText"
+      [ave]="ave">
+    </vista-ave>
+  </ng-container>
+</div>

@@ -1,8 +1,9 @@
-import { Component, OnInit , ViewChild, TemplateRef} from '@angular/core';
-import { Router } from '@angular/router';
+import { Component, OnInit , ViewChild, TemplateRef, Output} from '@angular/core';
 import { Observable, from, Subject } from 'rxjs';
 import { mergeMap, switchMap, map } from 'rxjs/operators';
 import { Ave } from './aves/ave';
+import { AvesSearchService } from './aves/aves-search.service';
+import { AvesComponent } from './aves/aves.component';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -13,6 +14,8 @@ import { Ave } from './aves/ave';
 
 export class AppComponent implements OnInit  {
   titulo = 'Aves de Argentina';
+
+  aves$: Observable<Ave[]>;
 
   @ViewChild('Explorar', {static: true})
   Explorar: TemplateRef<any>;
@@ -35,7 +38,7 @@ export class AppComponent implements OnInit  {
   };
 
   constructor(
-    private router: Router) {}
+    private avesSearchService: AvesSearchService) {}
 
   ngOnInit() {
     this.allTabs = [
@@ -46,6 +49,6 @@ export class AppComponent implements OnInit  {
   }
 
   navegarAAves() {
-    this.router.navigate(['/aves/buscar']);
+    this.aves$ = this.avesSearchService.fetchAves();
   }
 }

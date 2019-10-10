@@ -1,50 +1,54 @@
-
+<!--
 <mat-toolbar color="primary">
     <mat-toolbar-row>
       <h1><span class="titulo">{{titulo}}</span></h1>
     </mat-toolbar-row>
-</mat-toolbar>
+</mat-toolbar>-->
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+  <a class="navbar-brand" href="#">{{ titulo }}</a>
+  <div class="collapse" id="navbarsExampleDefault">
+  </div>
+</nav>
 
 <tabs [tabsName]="allTabs"></tabs>
-  <ng-template #Explorar>
 
-    <router-outlet></router-outlet>
+<ng-template #Explorar>
+    <lista-aves [aves$]="aves$"></lista-aves>
+  <mat-toolbar>
+    <mat-toolbar-row>
+      <button mat-raised-button  class="optionButton center"
+      type="button" (click)="navegarAAves()">Explorar</button>
+    </mat-toolbar-row>
+  </mat-toolbar>
+</ng-template>
 
-    <mat-toolbar>
-      <mat-toolbar-row>
-        <button mat-raised-button  class="optionButton center"
-        type="button" (click)="navegarAAves()">Explorar</button>
-      </mat-toolbar-row>
-    </mat-toolbar>
+<ng-template #MisAvistajes>
+  <mapa-avistajes></mapa-avistajes>
+</ng-template>
 
-  </ng-template>
-
-  <ng-template #MisAvistajes>
-    <h1>...</h1>
-  </ng-template>
-
-  <ng-template #AcercaDe>
+<ng-template #AcercaDe>
   <div *ngIf="profile">
-  <mat-card>
-    <mat-card-header>
-      <img mat-card-avatar class="profile" src={{profile.thumbnail}}/>
-      <mat-card-title-group>
-        <mat-card-title>
-          <i>{{profile.nombrecient}}</i>
-        </mat-card-title>
-        <mat-card-title>
-          {{profile.nombrecomun}}
-        </mat-card-title>
-        <mat-card-title>
-          {{profile.familia}}
-        </mat-card-title>
-        <mat-card-subtitle>
-          <p>{{profile.descripcion}} <a href={{profile.link}} target="_blank">LinkedIn</a></p>
-        </mat-card-subtitle>
-      </mat-card-title-group>
-    </mat-card-header>
-  </mat-card>
-</div>
+    <mat-card>
+      <mat-card-header>
+        <img mat-card-avatar class="profile" src={{profile.thumbnail}}/>
+        <mat-card-title-group>
+          <mat-card-title>
+            <i>{{profile.nombrecient}}</i>
+          </mat-card-title>
+          <mat-card-title>
+            {{profile.nombrecomun}}
+          </mat-card-title>
+          <mat-card-title>
+            {{profile.familia}}
+          </mat-card-title>
+          <mat-card-subtitle>
+            <p>{{profile.descripcion}} <a href={{profile.link}} target="_blank">LinkedIn</a></p>
+          </mat-card-subtitle>
+        </mat-card-title-group>
+      </mat-card-header>
+    </mat-card>
+  </div>
 </ng-template>
 
 

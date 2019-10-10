@@ -1,0 +1,36 @@
+<main role="main" class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="mapa">
+      <agm-map
+      [latitude]="latitud"
+      [longitude]="longitud"
+      [zoom]="zoom"
+      [zoomControl]="false">
+
+      <agm-marker
+      *ngFor="let p of (parques$ | async); index as i"
+
+      (parqueClick)="parqueCliqueado(p, i)"
+      [latitude]="p.latitud"
+      [longitude]="p.longitud">
+
+      <agm-info-window>
+        <strong>
+          <div>ID: {{p.id}}</div>
+          <div>Nombre: {{p.nombre}}</div>
+          <div>Superficie: {{p.superficie}}</div>
+          <div>Provincia: {{p.provincia}}</div>
+          <div>Ecorregion: {{p.ecorregion}}</div>
+          <div>Año De Creacion: {{p.anoDeCreacion}}</div>
+          <div>Descripcion: {{p.descripcion}}</div>
+          <div>Link: {{p.link}}</div>
+        </strong>
+      </agm-info-window>
+      </agm-marker>
+
+      </agm-map>
+    </div>
+    </div>
+  </div>
+  </main>

@@ -5,11 +5,12 @@ import { Ave } from './ave';
 import { map, switchMap, mergeMap, merge, take } from 'rxjs/operators';
 import { WikiSearchService } from './wiki-search.service';
 import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
-
+import dataset from './dataset/dataset.json';
 
 @Injectable()
 export class AvesSearchService {
-
+  private from = 0;
+  private offset = 10;
   constructor(
     private afs: AngularFirestore,
     private http: HttpClient,
@@ -37,12 +38,13 @@ export class AvesSearchService {
   }
 
   fetchAves(): Observable<Ave[]> {
-    const url = './dataset/aves.json';
-    return this.http.get<Object[]>(url)
+
+    return of(dataset)
       .pipe(
         map(response => {
           const aves: Ave[] = [];
-          const subresponse = response.slice(0, 10);
+          const subresponse = response.slice(this.from, this.from + this.offset);
+          this.from += this.offset;
           subresponse.forEach((a) => {
             this.wikiSearchService.fetchWiki(a["Nombre_Cientifico"])
               .subscribe(res => {
