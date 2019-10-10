@@ -1,0 +1,6434 @@
+[
+  {
+    "Nombre_Cientifico": "Accipiter bicolor",
+    "Nombre_Comun": "Esparvero Variado",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Accipiter poliogaster",
+    "Nombre_Comun": "Esparvero Grande",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Accipiter striatus",
+    "Nombre_Comun": "Esparvero Comun",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Accipiter superciliosus",
+    "Nombre_Comun": "Esparvero Chico",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Acridotheres cristatellus",
+    "Nombre_Comun": "Estornino Crestado",
+    "Familia": "STURNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Actitis macularius",
+    "Nombre_Comun": "Playerito Manchado",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Adelomyia melanogenys",
+    "Nombre_Comun": "Picaflor Yungueño",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aegolius funereus",
+    "Nombre_Comun": "",
+    "Familia": "STRIGIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Aegolius harrisii",
+    "Nombre_Comun": "Lechucita Canela",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aeronautes andecolus",
+    "Nombre_Comun": "Vencejo Blanco",
+    "Familia": "APODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aeronautes montivagus",
+    "Nombre_Comun": "Vencejo Montañes",
+    "Familia": "APODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Agelaioides badius",
+    "Nombre_Comun": "Tordo Musico",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Agelasticus cyanopus",
+    "Nombre_Comun": "Varillero Negro",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Agelasticus thilius",
+    "Nombre_Comun": "Varillero Ala Amarilla",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Agriornis albicauda",
+    "Nombre_Comun": "Gaucho Andino",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Agriornis lividus",
+    "Nombre_Comun": "Gaucho Grande",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Agriornis micropterus",
+    "Nombre_Comun": "Gaucho Comun",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Agriornis montanus",
+    "Nombre_Comun": "Gaucho Serrano",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Agriornis murinus",
+    "Nombre_Comun": "Gaucho Chico",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aimophila ruficeps",
+    "Nombre_Comun": "",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Alectrurus risora",
+    "Nombre_Comun": "Yetapa de Collar",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Alectrurus tricolor",
+    "Nombre_Comun": "Yetapa Chico",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Alopochelidon fucata",
+    "Nombre_Comun": "Golondrina Cabeza Rojiza",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Amaurospiza moesta",
+    "Nombre_Comun": "Reinamora Enana",
+    "Familia": "CARDINALIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Amazilia brevirostris",
+    "Nombre_Comun": "Picaflor de Vientre Blanco",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Amazilia chionogaster",
+    "Nombre_Comun": "Picaflor Vientre Blanco",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Amazilia lactea",
+    "Nombre_Comun": "Picaflor Pecho Azul",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Amazilia versicolor",
+    "Nombre_Comun": "Picaflor Esmeralda",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Amazona aestiva",
+    "Nombre_Comun": "Loro Hablador",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Amazona pretrei",
+    "Nombre_Comun": "Charao",
+    "Familia": "PSITTACIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Amazona tucumana",
+    "Nombre_Comun": "Loro Alisero",
+    "Familia": "PSITTACIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Amazona vinacea",
+    "Nombre_Comun": "Loro Vinoso",
+    "Familia": "PSITTACIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Amazonetta brasiliensis",
+    "Nombre_Comun": "Pato Cutiri",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Amblyramphus holosericeus",
+    "Nombre_Comun": "Federal",
+    "Familia": "ICTERIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Ammodramus humeralis",
+    "Nombre_Comun": "Cachilo Ceja Amarilla",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anabacerthia amaurotis",
+    "Nombre_Comun": "Ticotico Ceja Blanca",
+    "Familia": "FURNARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anabacerthia lichtensteini",
+    "Nombre_Comun": "Ticotico Ocraceo",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anairetes flavirostris",
+    "Nombre_Comun": "Cachudito Pico Amarillo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anairetes parulus",
+    "Nombre_Comun": "Cachudito Pico Negro",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anas bahamensis",
+    "Nombre_Comun": "Pato Gargantilla",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anas cyanoptera",
+    "Nombre_Comun": "Pato Colorado",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anas discors",
+    "Nombre_Comun": "Pato Media Luna",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anas flavirostris",
+    "Nombre_Comun": "Pato Barcino",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anas georgica",
+    "Nombre_Comun": "Pato Maicero",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anas platalea",
+    "Nombre_Comun": "Pato Cuchara",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anas puna",
+    "Nombre_Comun": "Pato Puneño",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anas sibilatrix",
+    "Nombre_Comun": "Pato Overo",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anas versicolor",
+    "Nombre_Comun": "Pato Capuchino",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anhinga anhinga",
+    "Nombre_Comun": "Aninga",
+    "Familia": "ANHINGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anodorhynchus glaucus",
+    "Nombre_Comun": "Guacamayo Violáceo",
+    "Familia": "PSITTACIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Anthracothorax nigricollis",
+    "Nombre_Comun": "Picaflor Vientre Negro",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anthus antarcticus",
+    "Nombre_Comun": "Cachirla Grande",
+    "Familia": "MOTACILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anthus bogotensis",
+    "Nombre_Comun": "Cachirla Andina",
+    "Familia": "MOTACILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anthus chacoensis",
+    "Nombre_Comun": "Cachirla Trinadora",
+    "Familia": "MOTACILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anthus correndera",
+    "Nombre_Comun": "Cachirla Comun",
+    "Familia": "MOTACILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anthus furcatus",
+    "Nombre_Comun": "Cachirla Uña Corta",
+    "Familia": "MOTACILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anthus hellmayri",
+    "Nombre_Comun": "Cachirla Palida",
+    "Familia": "MOTACILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anthus lutescens",
+    "Nombre_Comun": "Cachirla Chica",
+    "Familia": "MOTACILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Anthus nattereri",
+    "Nombre_Comun": "Cachirla Dorada",
+    "Familia": "MOTACILLIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Antrostomus rufus",
+    "Nombre_Comun": "Atajacaminos Colorado",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Antrostomus sericocaudatus",
+    "Nombre_Comun": "Atajacaminos Oscuro",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Anumbius annumbi",
+    "Nombre_Comun": "Leñatero",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aphantochroa cirrochloris",
+    "Nombre_Comun": "Picaflor Sombrío",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aphrastura spinicauda",
+    "Nombre_Comun": "Rayadito",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aphriza virgata",
+    "Nombre_Comun": "Playero de Rompiente",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aphrodroma brevirostris",
+    "Nombre_Comun": "Petrel Pizarra",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Aptenodytes forsteri",
+    "Nombre_Comun": "Pingüino Emperador",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aptenodytes patagonicus",
+    "Nombre_Comun": "Pingüino Rey",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Ara chloropterus",
+    "Nombre_Comun": "Guacamayo Rojo",
+    "Familia": "PSITTACIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Ara militaris",
+    "Nombre_Comun": "Guacamayo Verde",
+    "Familia": "PSITTACIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Aramides cajaneus",
+    "Nombre_Comun": "Chiricote",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aramides saracura",
+    "Nombre_Comun": "Saracura",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aramides ypecaha",
+    "Nombre_Comun": "Ipacaa",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aramus guarauna",
+    "Nombre_Comun": "Carau",
+    "Familia": "ARAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Aratinga nenday",
+    "Nombre_Comun": "Ñanday",
+    "Familia": "PSITTACIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ardea alba",
+    "Nombre_Comun": "Garza Blanca",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ardea cocoi",
+    "Nombre_Comun": "Garza Mora",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ardenna creatopus",
+    "Nombre_Comun": "Pardela de Patas Rojas",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ardenna gravis",
+    "Nombre_Comun": "Pardela Cabeza Negra",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Ardenna grisea",
+    "Nombre_Comun": "Pardela Oscura",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Arenaria interpres",
+    "Nombre_Comun": "Vuelvepiedras",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Arremon flavirostris",
+    "Nombre_Comun": "Cerquero de Collar",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Arremon torquatus",
+    "Nombre_Comun": "Cerquero Vientre Blanco",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Arundinicola leucocephala",
+    "Nombre_Comun": "Lavandera",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asemospiza cobscura",
+    "Nombre_Comun": "Espiguero Pardo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asemospiza fuliginosa",
+    "Nombre_Comun": "Espiguero Negro",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asio clamator",
+    "Nombre_Comun": "Lechuzon Orejudo",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asio flammeus",
+    "Nombre_Comun": "Lechuzon de Campo",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asio stygius",
+    "Nombre_Comun": "Lechuzon Negruzco",
+    "Familia": "STRIGIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asthenes anthoides",
+    "Nombre_Comun": "Espartillero Austral",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asthenes baeri",
+    "Nombre_Comun": "Canastero Chaqueño",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asthenes dorbignyi",
+    "Nombre_Comun": "Canastero Rojizo",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asthenes heterura",
+    "Nombre_Comun": "Canastero Andino",
+    "Familia": "FURNARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asthenes hudsoni",
+    "Nombre_Comun": "Espartillero Pampeano",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Asthenes maculicauda",
+    "Nombre_Comun": "Espartillero Estriado",
+    "Familia": "FURNARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asthenes modesta",
+    "Nombre_Comun": "Canastero Palido",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asthenes pyrrholeuca",
+    "Nombre_Comun": "Canastero Coludo",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Asthenes sclateri",
+    "Nombre_Comun": "Espartillero Serrano",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Athene cunicularia",
+    "Nombre_Comun": "Lechucita Vizcachera",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Atlapetes citrinellus",
+    "Nombre_Comun": "Cerquero Amarillo",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Atlapetes fulviceps",
+    "Nombre_Comun": "Cerquero Cabeza Castaña",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Attagis gayi",
+    "Nombre_Comun": "Agachona Grande",
+    "Familia": "THINOCORIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Attagis malouinus",
+    "Nombre_Comun": "Agachona Patagonica",
+    "Familia": "THINOCORIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Attila phoenicurus",
+    "Nombre_Comun": "Burlisto Cabeza Gris",
+    "Familia": "TYRANNIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Automolus leucophthalmus",
+    "Nombre_Comun": "Ticotico Ojo Blanco",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Bartramia longicauda",
+    "Nombre_Comun": "Batitu",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Baryphthengus ruficapillus",
+    "Nombre_Comun": "Yeruva",
+    "Familia": "MOMOTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Basileuterus culicivorus",
+    "Nombre_Comun": "Arañero Coronado Chico",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Batara cinerea",
+    "Nombre_Comun": "Batara Gigante",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Biatas nigropectus",
+    "Nombre_Comun": "Batara Pecho Negro",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Bolborhynchus orbygnesius",
+    "Nombre_Comun": "Catita Andina",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Bombycilla cedrorum",
+    "Nombre_Comun": "",
+    "Familia": "BOMBYCILLIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Bombycilla garrulus",
+    "Nombre_Comun": "",
+    "Familia": "BOMBYCILLIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Botaurus pinnatus",
+    "Nombre_Comun": "Mirasol Grande",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Brotogeris chiriri",
+    "Nombre_Comun": "Catita Chiriri",
+    "Familia": "PSITTACIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Bubo magellanicus",
+    "Nombre_Comun": "Tucuquere",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Bubo virginianus",
+    "Nombre_Comun": "Ñacurutu",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Bubulcus ibis",
+    "Nombre_Comun": "Garcita Bueyera",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Busarellus nigricollis",
+    "Nombre_Comun": "Aguilucho Pampa",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Buteo albigula",
+    "Nombre_Comun": "Aguilucho Andino",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Buteo albonotatus",
+    "Nombre_Comun": "Aguilucho Jote",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Buteo brachyurus",
+    "Nombre_Comun": "Aguilucho Cola Corta",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Buteo nitidus",
+    "Nombre_Comun": "Aguilucho Gris",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Buteo platypterus",
+    "Nombre_Comun": "Aguilucho de Alas Anchas",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Buteo swainsoni",
+    "Nombre_Comun": "Aguilucho Langostero",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Buteo ventralis",
+    "Nombre_Comun": "Aguilucho Cola Rojiza",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Buteogallus coronatus",
+    "Nombre_Comun": "Aguila Coronada",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Buteogallus meridionalis",
+    "Nombre_Comun": "Aguilucho Colorado",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Buteogallus solitarius",
+    "Nombre_Comun": "Aguila Solitaria",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Buteogallus urubitinga",
+    "Nombre_Comun": "Aguila Negra",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Butorides striata",
+    "Nombre_Comun": "Garcita Azulada",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cacicus chrysopterus",
+    "Nombre_Comun": "Boyero Ala Amarilla",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cacicus haemorrhous",
+    "Nombre_Comun": "Boyero Cacique",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cacicus solitarius",
+    "Nombre_Comun": "Boyero Negro",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cairina moschata",
+    "Nombre_Comun": "Pato Real",
+    "Familia": "ANATIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calidris alba",
+    "Nombre_Comun": "Playerito Blanco",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calidris bairdii",
+    "Nombre_Comun": "Playerito Unicolor",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calidris canutus",
+    "Nombre_Comun": "Playero Rojizo",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Calidris fuscicollis",
+    "Nombre_Comun": "Playerito Rabadilla Blanca",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calidris himantopus",
+    "Nombre_Comun": "Playero Zancudo",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calidris melanotos",
+    "Nombre_Comun": "Playerito Pectoral",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calidris minutilla",
+    "Nombre_Comun": "Playerito Menor",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calidris pusilla",
+    "Nombre_Comun": "Playerito Enano",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calidris subruficollis",
+    "Nombre_Comun": "Playerito Canela",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Callipepla californica",
+    "Nombre_Comun": "Codorniz de California",
+    "Familia": "ODONTOPHORIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calliphlox amethystina",
+    "Nombre_Comun": "Picaflor Amatista",
+    "Familia": "TROCHILIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Callonetta leucophrys",
+    "Nombre_Comun": "Pato de Collar",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Calonectris diomedea",
+    "Nombre_Comun": "Pardela Grande",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Campephilus leucopogon",
+    "Nombre_Comun": "Carpintero Lomo Blanco",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Campephilus magellanicus",
+    "Nombre_Comun": "Carpintero Gigante",
+    "Familia": "PICIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Campephilus melanoleucos",
+    "Nombre_Comun": "Carpintero Garganta Negra",
+    "Familia": "PICIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Campephilus robustus",
+    "Nombre_Comun": "Carpintero Grande",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Camptostoma obsoletum",
+    "Nombre_Comun": "Piojito Silbon",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Campylorhamphus falcularius",
+    "Nombre_Comun": "Picapalo Oscuro",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Campylorhamphus trochilirostris",
+    "Nombre_Comun": "Picapalo Colorado",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Campylorhynchus brunneicapillus",
+    "Nombre_Comun": "",
+    "Familia": "TROGLODYTIDAE",
+    "Estado": ""
+  },
+  {
+    "Nombre_Cientifico": "Campylorhynchus turdinus",
+    "Nombre_Comun": "Ratona Grande",
+    "Familia": "TROGLODYTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Capsiempis flaveola",
+    "Nombre_Comun": "Mosqueta Ceja Amarilla",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Caracara plancus",
+    "Nombre_Comun": "Carancho",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Carduelis carduelis",
+    "Nombre_Comun": "Cardelino",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Carduelis chloris",
+    "Nombre_Comun": "Verderon",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cariama cristata",
+    "Nombre_Comun": "Chuña Patas Rojas",
+    "Familia": "CARIAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Casiornis rufus",
+    "Nombre_Comun": "Burlisto Castaño",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Catamblyrhynchus diadema",
+    "Nombre_Comun": "Diadema",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Catamenia analis",
+    "Nombre_Comun": "Piquitodeoro Comun",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Catamenia inornata",
+    "Nombre_Comun": "Piquitodeoro Grande",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cathartes aura",
+    "Nombre_Comun": "Jote Cabeza Colorada",
+    "Familia": "CATHARTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cathartes burrovianus",
+    "Nombre_Comun": "Jote de Cabeza Amarilla",
+    "Familia": "CATHARTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cathartes melambrotus",
+    "Nombre_Comun": "Jote Cola Larga",
+    "Familia": "CATHARTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Catharus dryas",
+    "Nombre_Comun": "Zorzalito Overo",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Catharus ustulatus",
+    "Nombre_Comun": "Zorzalito Boreal",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Catherpes mexicanus",
+    "Nombre_Comun": "",
+    "Familia": "TROGLODYTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Celeus flavescens",
+    "Nombre_Comun": "Carpintero Copete Amarillo",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Celeus galeatus",
+    "Nombre_Comun": "Carpintero Cara Canela",
+    "Familia": "PICIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Celeus lugubris",
+    "Nombre_Comun": "Carpintero Copete Pajizo",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Certhiaxis cinnamomeus",
+    "Nombre_Comun": "Curutie Colorado",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chaetura cinereiventris",
+    "Nombre_Comun": "Vencejo Chico",
+    "Familia": "APODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chaetura meridionalis",
+    "Nombre_Comun": "Vencejo de Tormenta",
+    "Familia": "APODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chamaeza campanisona",
+    "Nombre_Comun": "Tovaca Comun",
+    "Familia": "FORMICARIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chamaeza ruficauda",
+    "Nombre_Comun": "Tovaca Colorada",
+    "Familia": "FORMICARIIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Charadrius alticola",
+    "Nombre_Comun": "Chorlito Puneño",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Charadrius collaris",
+    "Nombre_Comun": "Chorlito de Collar",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Charadrius falklandicus",
+    "Nombre_Comun": "Chorlito Doble Collar",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Charadrius modestus",
+    "Nombre_Comun": "Chorlito Pecho Canela",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Charadrius semipalmatus",
+    "Nombre_Comun": "Chorlito Palmado",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Charitospiza eucosma",
+    "Nombre_Comun": "Afrechero Canela",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chauna torquata",
+    "Nombre_Comun": "Chaja",
+    "Familia": "ANHIMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chionis albus",
+    "Nombre_Comun": "Paloma Antartica",
+    "Familia": "CHIONIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Chiroxiphia caudata",
+    "Nombre_Comun": "Bailarin Azul",
+    "Familia": "PIPRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chlidonias niger",
+    "Nombre_Comun": "Gaviotin Negro",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chloephaga picta",
+    "Nombre_Comun": "Cauquen Común",
+    "Familia": "ANATIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Chloephaga poliocephala",
+    "Nombre_Comun": "Cauquen Real",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chloephaga hybrida",
+    "Nombre_Comun": "Caranca",
+    "Familia": "ANATIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Chloephaga rubidiceps",
+    "Nombre_Comun": "Cauquen Colorado",
+    "Familia": "ANATIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Chloroceryle aenea",
+    "Nombre_Comun": "Martin Pescador Enano",
+    "Familia": "ALCEDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chloroceryle amazona",
+    "Nombre_Comun": "Martin Pescador Mediano",
+    "Familia": "ALCEDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chloroceryle americana",
+    "Nombre_Comun": "Martin Pescador Chico",
+    "Familia": "ALCEDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chlorophonia cyanea",
+    "Nombre_Comun": "Tangara Bonito",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chlorospingus flavopectus",
+    "Nombre_Comun": "Frutero Yungueño",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chlorostilbon lucidus",
+    "Nombre_Comun": "Picaflor Comun",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chondrohierax uncinatus",
+    "Nombre_Comun": "Milano Pico Garfio",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chordeiles acutipennis",
+    "Nombre_Comun": "Añapero Alas Cortas",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Chordeiles minor",
+    "Nombre_Comun": "Añapero Boreal",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chordeiles nacunda",
+    "Nombre_Comun": "Ñacunda",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chordeiles pusillus",
+    "Nombre_Comun": "Añapero Chico",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Chroicocephalus cirrocephalus",
+    "Nombre_Comun": "Gaviota Capucho Gris",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chroicocephalus maculipennis",
+    "Nombre_Comun": "Gaviota Capucho Cafe",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chroicocephalus serranus",
+    "Nombre_Comun": "Gaviota Andina",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chrysolampis mosquitus",
+    "Nombre_Comun": "Picaflor Pecho Naranja",
+    "Familia": "TROCHILIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Chrysomus ruficapillus",
+    "Nombre_Comun": "Varillero Congo",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Chunga burmeisteri",
+    "Nombre_Comun": "Chuña Patas Negras",
+    "Familia": "CARIAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ciccaba huhula",
+    "Nombre_Comun": "Lechuza Negra",
+    "Familia": "STRIGIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ciccaba virgata",
+    "Nombre_Comun": "Lechuza Estriada",
+    "Familia": "STRIGIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ciconia maguari",
+    "Nombre_Comun": "Cigüeña Americana",
+    "Familia": "CICONIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cinclodes albiventris",
+    "Nombre_Comun": "Remolinera Andina",
+    "Familia": "FURNARIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Cinclodes antarcticus",
+    "Nombre_Comun": "Remolinera Negra",
+    "Familia": "FURNARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cinclodes atacamensis",
+    "Nombre_Comun": "Remolinera Castaña",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cinclodes comechingonus",
+    "Nombre_Comun": "Remolinera Serrana",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Cinclodes fuscus",
+    "Nombre_Comun": "Remolinera Comun",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cinclodes olrogi",
+    "Nombre_Comun": "Remolinera Chocolate",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Cinclodes oustaleti",
+    "Nombre_Comun": "Remolinera Chica",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cinclodes patagonicus",
+    "Nombre_Comun": "Remolinera Araucana",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cinclus schulzi",
+    "Nombre_Comun": "Mirlo de Agua",
+    "Familia": "CINCLIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Circus buffoni",
+    "Nombre_Comun": "Gavilan Planeador",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Circus cinereus",
+    "Nombre_Comun": "Gavilan Ceniciento",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cissopis leverianus",
+    "Nombre_Comun": "Frutero Overo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cistothorus platensis",
+    "Nombre_Comun": "Ratona Aperdizada",
+    "Familia": "TROGLODYTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Claravis pretiosa",
+    "Nombre_Comun": "Palomita Azulada",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Clibanornis dendrocolaptoides",
+    "Nombre_Comun": "Tacuarero",
+    "Familia": "FURNARIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Cnemotriccus fuscatus",
+    "Nombre_Comun": "Mosqueta Ceja Blanca",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Coccycua cinerea",
+    "Nombre_Comun": "Cuclillo Chico",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Coccyzus americanus",
+    "Nombre_Comun": "Cuclillo Pico Amarillo",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Coccyzus erythropthalmus",
+    "Nombre_Comun": "Cuclillo de Ojos Colorados",
+    "Familia": "CUCULIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Coccyzus euleri",
+    "Nombre_Comun": "Cuclillo Ceniciento",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Coccyzus melacoryphus",
+    "Nombre_Comun": "Cuclillo Canela",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cochlearius cochlearius",
+    "Nombre_Comun": "Garza Cucharona",
+    "Familia": "ARDEIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Coereba flaveola",
+    "Nombre_Comun": "Mielero",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colaptes campestris",
+    "Nombre_Comun": "Carpintero Campestre",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colaptes melanochloros",
+    "Nombre_Comun": "Carpintero Real",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colaptes pitius",
+    "Nombre_Comun": "Carpintero Pitio",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colaptes rubiginosus",
+    "Nombre_Comun": "Carpintero Dorado Gris",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colaptes rupicola",
+    "Nombre_Comun": "Carpintero Andino",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colibri coruscans",
+    "Nombre_Comun": "Colibri Grande",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colibri serrirostris",
+    "Nombre_Comun": "Colibri Mediano",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colibri thalassinus",
+    "Nombre_Comun": "Colibrí Chico",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colonia colonus",
+    "Nombre_Comun": "Yetapa Negro",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Colorhamphus parvirostris",
+    "Nombre_Comun": "Peutren",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Columba livia",
+    "Nombre_Comun": "Paloma Domestica",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Columbina minuta",
+    "Nombre_Comun": "Torcacita Enana",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Columbina picui",
+    "Nombre_Comun": "Torcacita Comun",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Columbina squammata",
+    "Nombre_Comun": "Torcacita Escamada",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Columbina talpacoti",
+    "Nombre_Comun": "Torcacita Colorada",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Conirostrum speciosum",
+    "Nombre_Comun": "Sai Comun",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Conopias trivirgatus",
+    "Nombre_Comun": "Benteveo Chico",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Conopophaga lineata",
+    "Nombre_Comun": "Chupadientes",
+    "Familia": "CONOPOPHAGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Contopus cinereus",
+    "Nombre_Comun": "Burlisto Chico",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Contopus fumigatus",
+    "Nombre_Comun": "Burlisto Copeton",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Contopus virens",
+    "Nombre_Comun": "Burlisto Boreal",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Coragyps atratus",
+    "Nombre_Comun": "Jote Cabeza Negra",
+    "Familia": "CATHARTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Coryphaspiza melanotis",
+    "Nombre_Comun": "Cachilo de Antifaz",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Coryphistera alaudina",
+    "Nombre_Comun": "Crestudo",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Coryphospingus cucullatus",
+    "Nombre_Comun": "Brasita de Fuego",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Corythopis delalandi",
+    "Nombre_Comun": "Mosquitero",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Coscoroba coscoroba",
+    "Nombre_Comun": "Coscoroba",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Coturnicops notatus",
+    "Nombre_Comun": "Burrito Enano",
+    "Familia": "RALLIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Cranioleuca obsoleta",
+    "Nombre_Comun": "Curutie Olivaceo",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cranioleuca pyrrhophia",
+    "Nombre_Comun": "Curutie Blanco",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Crax fasciolata",
+    "Nombre_Comun": "Muitu",
+    "Familia": "CRACCIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Crotophaga ani",
+    "Nombre_Comun": "Ano Chico",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Crotophaga major",
+    "Nombre_Comun": "Ano Grande",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Crotophaga sulcirostris",
+    "Nombre_Comun": "Ano Pico Surcado",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Crypturellus obsoletus",
+    "Nombre_Comun": "Tataupa Rojizo",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Crypturellus parvirostris",
+    "Nombre_Comun": "Tataupa Chico",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Crypturellus tataupa",
+    "Nombre_Comun": "Tataupa Comun",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Crypturellus undulatus",
+    "Nombre_Comun": "Tataupa Listado",
+    "Familia": "TINAMIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Culicivora caudacuta",
+    "Nombre_Comun": "Tachuri Coludo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Curaeus curaeus",
+    "Nombre_Comun": "Tordo Patagonico",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cyanocorax caeruleus",
+    "Nombre_Comun": "Urraca Azul",
+    "Familia": "CORVIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cyanocorax chrysops",
+    "Nombre_Comun": "Urraca Comun",
+    "Familia": "CORVIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cyanocorax cyanomelas",
+    "Nombre_Comun": "Urraca Morada",
+    "Familia": "CORVIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cyanoliseus patagonus",
+    "Nombre_Comun": "Loro Barranquero",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cyanoloxia brissonii",
+    "Nombre_Comun": "Reinamora Grande",
+    "Familia": "CARDINALIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cyanoloxia glaucocaerulea",
+    "Nombre_Comun": "Reinamora Chica",
+    "Familia": "CARDINALIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Cyclarhis gujanensis",
+    "Nombre_Comun": "Juan Chiviro",
+    "Familia": "VIREONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cygnus melancoryphus",
+    "Nombre_Comun": "Cisne Cuello Negro",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Cypseloides fumigatus",
+    "Nombre_Comun": "Vencejo Ahumado Chico",
+    "Familia": "APODIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Cypseloides rothschildi",
+    "Nombre_Comun": "Vencejo Pardo",
+    "Familia": "APODIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Cypseloides senex",
+    "Nombre_Comun": "Vencejo de Cascada",
+    "Familia": "APODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dacnis cayana",
+    "Nombre_Comun": "Sai Azul",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Daption capense",
+    "Nombre_Comun": "Petrel Damero",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dendrocincla turdina",
+    "Nombre_Comun": "Arapasu",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dendrocolaptes picumnus",
+    "Nombre_Comun": "Trepador Colorado",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dendrocolaptes platyrostris",
+    "Nombre_Comun": "Trepador Oscuro",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dendrocygna autumnalis",
+    "Nombre_Comun": "Siriri Vientre Negro",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dendrocygna bicolor",
+    "Nombre_Comun": "Siriri Colorado",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dendrocygna viduata",
+    "Nombre_Comun": "Siriri Pampa",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Diglossa carbonaria",
+    "Nombre_Comun": "Payador Negro",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Diglossa sittoides",
+    "Nombre_Comun": "Payador Canela",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Diomedea dabbenena",
+    "Nombre_Comun": "Albatros de Tristan",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Diomedea epomophora",
+    "Nombre_Comun": "Albatros Real",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Diomedea exulans",
+    "Nombre_Comun": "Albatros Errante",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Diuca diuca",
+    "Nombre_Comun": "Diuca Comun",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Diuca speculifera",
+    "Nombre_Comun": "Diuca de Alas Blancas",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dolichonyx oryzivorus",
+    "Nombre_Comun": "Charlatan",
+    "Familia": "ICTERIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Donacobius atricapilla",
+    "Nombre_Comun": "Angu",
+    "Familia": "DONACOBIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Donacospiza albifrons",
+    "Nombre_Comun": "Cachilo Canela",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dromococcyx pavoninus",
+    "Nombre_Comun": "Yasiyatere Chico",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dromococcyx phasianellus",
+    "Nombre_Comun": "Yasiyatere Grande",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Drymophila malura",
+    "Nombre_Comun": "Tiluchi Estriado",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Drymophila rubricollis",
+    "Nombre_Comun": "Tiluchi Colorado",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Drymornis bridgesii",
+    "Nombre_Comun": "Chinchero Grande",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dryobates frontalis",
+    "Nombre_Comun": "Carpintero Oliva Yungueño",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dryobates fumigatus",
+    "Nombre_Comun": "Carpintero Oliva Oscuro",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dryobates lignarius",
+    "Nombre_Comun": "Carpintero Bataraz Grande",
+    "Familia": "PICIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Dryobates mixtus",
+    "Nombre_Comun": "Carpintero Bataraz Chico",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dryobates passerinus",
+    "Nombre_Comun": "Carpintero Oliva Chico",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dryobates spilogaster",
+    "Nombre_Comun": "Carpintero Oliva Manchado",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dryobates villosus",
+    "Nombre_Comun": "",
+    "Familia": "PICIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Dryocopus lineatus",
+    "Nombre_Comun": "Carpintero Garganta Estriada",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dryocopus pileatus",
+    "Nombre_Comun": "",
+    "Familia": "PICIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Dryocopus schulzi",
+    "Nombre_Comun": "Carpintero Negro",
+    "Familia": "PICIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dysithamnus mentalis",
+    "Nombre_Comun": "Choca Amarilla",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Dysithamnus stictothorax",
+    "Nombre_Comun": "Choca Estriada",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Egretta caerulea",
+    "Nombre_Comun": "Garza Azul",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Egretta thula",
+    "Nombre_Comun": "Garcita Blanca",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elaenia albiceps",
+    "Nombre_Comun": "Fiofio Silbon",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elaenia chiriquensis",
+    "Nombre_Comun": "Fiofio Belicoso",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elaenia flavogaster",
+    "Nombre_Comun": "Fiofío Copeton",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elaenia mesoleuca",
+    "Nombre_Comun": "Fiofio Olivaceo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elaenia obscura",
+    "Nombre_Comun": "Fiofio Oscuro",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elaenia parvirostris",
+    "Nombre_Comun": "Fiofio Pico Corto",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elaenia sordida",
+    "Nombre_Comun": "",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Elaenia spectabilis",
+    "Nombre_Comun": "Fiofio Grande",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elaenia strepera",
+    "Nombre_Comun": "Fiofio Plomizo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elanoides forficatus",
+    "Nombre_Comun": "Milano Tijereta",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Elanus leucurus",
+    "Nombre_Comun": "Milano Blanco",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Eleothreptus anomalus",
+    "Nombre_Comun": "Atajacaminos Ala Negra",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Emberizoides herbicola",
+    "Nombre_Comun": "Coludo Grande",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Emberizoides ypiranganus",
+    "Nombre_Comun": "Coludo Chico",
+    "Familia": "THRAUPIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Embernagra platensis",
+    "Nombre_Comun": "Verdon",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Empidonax alnorum",
+    "Nombre_Comun": "Mosqueta Boreal",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Empidonomus aurantioatrocristatus",
+    "Nombre_Comun": "Tuquito Gris",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Empidonomus varius",
+    "Nombre_Comun": "Tuquito Rayado",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Enicognathus ferrugineus",
+    "Nombre_Comun": "Cachaña",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Enicognathus leptorhynchus",
+    "Nombre_Comun": "Choroy",
+    "Familia": "PSITTACIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Eriocnemis glaucopoides",
+    "Nombre_Comun": "Picaflor Frente Azul",
+    "Familia": "TROCHILIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Eudromia elegans",
+    "Nombre_Comun": "Martineta Comun",
+    "Familia": "TINAMIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Eudromia formosa",
+    "Nombre_Comun": "Martineta Chaqueña",
+    "Familia": "TINAMIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Eudyptes chrysocome",
+    "Nombre_Comun": "Pingüino Penacho Amarillo",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Eudyptes chrysolophus",
+    "Nombre_Comun": "Pingüino Frente Dorada",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Eudyptes robustus",
+    "Nombre_Comun": "Pingüino de las Snares",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Eudyptes sclateri",
+    "Nombre_Comun": "Pingüino Crestudo",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Eugralla paradoxa",
+    "Nombre_Comun": "Churrin Grande",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Eupetomena macroura",
+    "Nombre_Comun": "Picaflor Tijereta",
+    "Familia": "TROCHILIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Euphonia chalybea",
+    "Nombre_Comun": "Tangara Picudo",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Euphonia chlorotica",
+    "Nombre_Comun": "Tangara Comun",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Euphonia cyanocephala",
+    "Nombre_Comun": "Tangara Cabeza Celeste",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Euphonia pectoralis",
+    "Nombre_Comun": "Tangara Alcalde",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Euphonia violacea",
+    "Nombre_Comun": "Tangara Amarillo",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Eupsittula aurea",
+    "Nombre_Comun": "Calancate Frente Dorada",
+    "Familia": "PSITTACIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Euscarthmus meloryphus",
+    "Nombre_Comun": "Barullero",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Falco columbarius",
+    "Nombre_Comun": "",
+    "Familia": "FALCONIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Falco deiroleucus",
+    "Nombre_Comun": "Halcon Negro Grande",
+    "Familia": "FALCONIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Falco femoralis",
+    "Nombre_Comun": "Halcon Plomizo",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Falco peregrinus",
+    "Nombre_Comun": "Halcon Peregrino",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Falco rufigularis",
+    "Nombre_Comun": "Halcon Negro Chico",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Falco sparverius",
+    "Nombre_Comun": "Halconcito Colorado",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Florisuga fusca",
+    "Nombre_Comun": "Picaflor Negro",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fluvicola albiventer",
+    "Nombre_Comun": "Viudita Blanca",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fluvicola nengeta",
+    "Nombre_Comun": "Viudita Enmascarada",
+    "Familia": "TYRANNIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Forpus xanthopterygius",
+    "Nombre_Comun": "Catita Enana",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fregata magnificens",
+    "Nombre_Comun": "Ave Fragata",
+    "Familia": "FREGATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fregetta grallaria",
+    "Nombre_Comun": "Paiño Vientre Blanco",
+    "Familia": "HYDROBATIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fregetta tropica",
+    "Nombre_Comun": "Paiño Vientre Negro",
+    "Familia": "HYDROBATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fulica ardesiaca",
+    "Nombre_Comun": "Gallareta Andina",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fulica armillata",
+    "Nombre_Comun": "Gallareta Ligas Rojas",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fulica cornuta",
+    "Nombre_Comun": "Gallareta Cornuda",
+    "Familia": "RALLIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fulica gigantea",
+    "Nombre_Comun": "Gallareta Gigante",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fulica leucoptera",
+    "Nombre_Comun": "Gallareta Chica",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fulica rufifrons",
+    "Nombre_Comun": "Gallareta Escudete Rojo",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Fulmarus glacialoides",
+    "Nombre_Comun": "Petrel Plateado",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Furnarius cristatus",
+    "Nombre_Comun": "Hornerito Copeton",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Furnarius rufus",
+    "Nombre_Comun": "Hornero",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Galbula ruficauda",
+    "Nombre_Comun": "Yacamará",
+    "Familia": "GALBULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Gallinago andina",
+    "Nombre_Comun": "Becasina Andina",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Gallinago paraguaiae",
+    "Nombre_Comun": "Becasina Comun",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Gallinago stricklandii",
+    "Nombre_Comun": "Becasina Grande",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Gallinula galeata",
+    "Nombre_Comun": "Pollona Negra",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Gampsonyx swainsonii",
+    "Nombre_Comun": "Milano Chico",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Garrodia nereis",
+    "Nombre_Comun": "Paiño Gris",
+    "Familia": "HYDROBATIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Gelochelidon nilotica",
+    "Nombre_Comun": "Gaviotin Pico Grueso",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geositta antarctica",
+    "Nombre_Comun": "Caminera Patagonica",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Geositta cunicularia",
+    "Nombre_Comun": "Caminera Comun",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geositta isabellina",
+    "Nombre_Comun": "Caminera Grande",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geositta punensis",
+    "Nombre_Comun": "Caminera Puneña",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geositta rufipennis",
+    "Nombre_Comun": "Caminera Colorada",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geositta tenuirostris",
+    "Nombre_Comun": "Caminera Picuda",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geospizopsis plebejus",
+    "Nombre_Comun": "Yal Chico",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geospizopsis unicolor",
+    "Nombre_Comun": "Yal Plomizo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geothlypis aequinoctialis",
+    "Nombre_Comun": "Arañero Cara Negra",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geotrygon montana",
+    "Nombre_Comun": "Paloma Montera Castaña",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geotrygon violacea",
+    "Nombre_Comun": "Paloma Montera Violacea",
+    "Familia": "COLUMBIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Geranoaetus albicaudatus",
+    "Nombre_Comun": "Aguilucho Alas Largas",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geranoaetus melanoleucus",
+    "Nombre_Comun": "Aguila Mora",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geranoaetus polyosoma",
+    "Nombre_Comun": "Aguilucho Común",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Geranospiza caerulescens",
+    "Nombre_Comun": "Gavilan Patas Largas",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Glaucidium bolivianum",
+    "Nombre_Comun": "Cabure Yungueño",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Glaucidium brasilianum",
+    "Nombre_Comun": "Cabure Chico",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Glaucidium nana",
+    "Nombre_Comun": "Cabure Grande",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Gnorimopsar chopi",
+    "Nombre_Comun": "Chopi",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Grallaria albigula",
+    "Nombre_Comun": "Chululu Cabeza Rojiza",
+    "Familia": "GRALLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Grallaria varia",
+    "Nombre_Comun": "Chululu Pintado",
+    "Familia": "GRALLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Gubernatrix cristata",
+    "Nombre_Comun": "Cardenal Amarillo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Gubernetes yetapa",
+    "Nombre_Comun": "Yetapa Grande",
+    "Familia": "TYRANNIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Guira guira",
+    "Nombre_Comun": "Pirincho",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Habia rubica",
+    "Nombre_Comun": "Fueguero Morado",
+    "Familia": "CARDINALIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Haematopus ater",
+    "Nombre_Comun": "Ostrero Negro",
+    "Familia": "HAEMATOPODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Haematopus leucopodus",
+    "Nombre_Comun": "Ostrero Austral",
+    "Familia": "HAEMATOPODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Haematopus palliatus",
+    "Nombre_Comun": "Ostrero Comun",
+    "Familia": "HAEMATOPODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Halobaena caerulea",
+    "Nombre_Comun": "Petrel Azulado",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Haplospiza unicolor",
+    "Nombre_Comun": "Afrechero Plomizo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Harpagus diodon",
+    "Nombre_Comun": "Milano de Corbata",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Harpia harpyja",
+    "Nombre_Comun": "Harpia",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Heliobletus contaminatus",
+    "Nombre_Comun": "Picolezna Estriado",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Heliomaster furcifer",
+    "Nombre_Comun": "Picaflor de Barbijo",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Heliomaster longirostris",
+    "Nombre_Comun": "Picaflor Picudo",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Heliomaster squamosus",
+    "Nombre_Comun": "Picaflor de Garganta Escamada",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Heliornis fulica",
+    "Nombre_Comun": "Ipequi",
+    "Familia": "HELIORNITHIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Hemithraupis guira",
+    "Nombre_Comun": "Saira Dorada",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hemitriccus diops",
+    "Nombre_Comun": "Mosqueta de Anteojos",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hemitriccus margaritaceiventer",
+    "Nombre_Comun": "Mosqueta Ojo Dorado",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hemitriccus obsoletus",
+    "Nombre_Comun": "Mosqueta Ojo Grande",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Herpetotheres cachinnans",
+    "Nombre_Comun": "Guaicuru",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Herpsilochmus atricapillus",
+    "Nombre_Comun": "Tiluchi Plomizo",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Herpsilochmus rufimarginatus",
+    "Nombre_Comun": "Tiluchi Ala Rojiza",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Heteronetta atricapilla",
+    "Nombre_Comun": "Pato Cabeza Negra",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Himantopus mexicanus",
+    "Nombre_Comun": "Tero Real",
+    "Familia": "RECURVIROSTRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hirundinea ferruginea",
+    "Nombre_Comun": "Birro Comun",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hirundo rustica",
+    "Nombre_Comun": "Golondrina Tijerita",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hydropsalis maculicaudus",
+    "Nombre_Comun": "Atajacaminos Ceja Blanca",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Hydropsalis torquata",
+    "Nombre_Comun": "Atajacaminos Tijera",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hylocharis chrysura",
+    "Nombre_Comun": "Picaflor Bronceado",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hylocharis cyanus",
+    "Nombre_Comun": "Picaflor Lazulita",
+    "Familia": "TROCHILIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Hylocharis sapphirina",
+    "Nombre_Comun": "Picaflor Cola Castaña",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hylopezus nattereri",
+    "Nombre_Comun": "Chululu Chico",
+    "Familia": "GRALLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Hylophilus poicilotis",
+    "Nombre_Comun": "Chivi Coronado",
+    "Familia": "VIREONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hymenops perspicillatus",
+    "Nombre_Comun": "Pico de Plata",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Hypoedaleus guttatus",
+    "Nombre_Comun": "Batara Goteado",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Icterus croconotus",
+    "Nombre_Comun": "Matico",
+    "Familia": "ICTERIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Icterus galbula",
+    "Nombre_Comun": "",
+    "Familia": "ICTERIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Icterus pyrrhopterus",
+    "Nombre_Comun": "Boyerito",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ictinia mississippiensis",
+    "Nombre_Comun": "Milano Boreal",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ictinia plumbea",
+    "Nombre_Comun": "Milano Plomizo",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Idiopsar brachyurus",
+    "Nombre_Comun": "Yal Grande",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Idiopsar dorsalis",
+    "Nombre_Comun": "Comesebo Puneño",
+    "Familia": "THRAUPIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Inezia inornata",
+    "Nombre_Comun": "Piojito Picudo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ixobrychus exilis",
+    "Nombre_Comun": "Mirasol Chico",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ixobrychus involucris",
+    "Nombre_Comun": "Mirasol Comun",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Jabiru mycteria",
+    "Nombre_Comun": "Yabiru",
+    "Familia": "CICONIIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Jacana jacana",
+    "Nombre_Comun": "Jacana",
+    "Familia": "JACANIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Junco hyemalis",
+    "Nombre_Comun": "",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Knipolegus aterrimus",
+    "Nombre_Comun": "Viudita Comun",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Knipolegus cabanisi",
+    "Nombre_Comun": "Viudita Andina",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Knipolegus cyanirostris",
+    "Nombre_Comun": "Viudita Pico Celeste",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Knipolegus hudsoni",
+    "Nombre_Comun": "Viudita Chica",
+    "Familia": "TYRANNIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Knipolegus striaticeps",
+    "Nombre_Comun": "Viudita Chaqueña",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Larus atlanticus",
+    "Nombre_Comun": "Gaviota Cangrejera",
+    "Familia": "LARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Larus belcheri",
+    "Nombre_Comun": "Gaviota Peruana",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Larus dominicanus",
+    "Nombre_Comun": "Gaviota Cocinera",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Laterallus exilis",
+    "Nombre_Comun": "Burrito Pecho Gris",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Laterallus jamaicensis",
+    "Nombre_Comun": "Burrito Cuyano",
+    "Familia": "RALLIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Laterallus leucopyrrhus",
+    "Nombre_Comun": "Burrito Colorado",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Laterallus melanophaius",
+    "Nombre_Comun": "Burrito Comun",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lathrotriccus euleri",
+    "Nombre_Comun": "Mosqueta Parda",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Legatus leucophaius",
+    "Nombre_Comun": "Tuquito Chico",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leistes defilippii",
+    "Nombre_Comun": "Loica Pampeana",
+    "Familia": "ICTERIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Leistes loyca",
+    "Nombre_Comun": "Loica Comun",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leistes superciliaris",
+    "Nombre_Comun": "Pecho Colorado",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lepidocolaptes angustirostris",
+    "Nombre_Comun": "Chinchero Chico",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lepidocolaptes falcinellus",
+    "Nombre_Comun": "Chinchero Escamado",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leptasthenura aegithaloides",
+    "Nombre_Comun": "Coludito Cola Negra",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leptasthenura fuliginiceps",
+    "Nombre_Comun": "Coludito Canela",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leptasthenura platensis",
+    "Nombre_Comun": "Coludito Copeton",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leptasthenura setaria",
+    "Nombre_Comun": "Coludito de los Pinos",
+    "Familia": "FURNARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leptasthenura yanacensis",
+    "Nombre_Comun": "Coludito Yungueño",
+    "Familia": "FURNARIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Leptodon cayanensis",
+    "Nombre_Comun": "Milano Cabeza Gris",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leptopogon amaurocephalus",
+    "Nombre_Comun": "Mosqueta Corona Parda",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leptotila megalura",
+    "Nombre_Comun": "Yeruti Yungueña",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leptotila rufaxilla",
+    "Nombre_Comun": "Yeruti Colorada",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leptotila verreauxi",
+    "Nombre_Comun": "Yeruti Comun",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lessonia oreas",
+    "Nombre_Comun": "Sobrepuesto Andino",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lessonia rufa",
+    "Nombre_Comun": "Sobrepuesto",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leucochloris albicollis",
+    "Nombre_Comun": "Picaflor Garganta Blanca",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leucophaeus modestus",
+    "Nombre_Comun": "Gaviota Garuma",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leucophaeus pipixcan",
+    "Nombre_Comun": "Gaviota Chica",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Leucophaeus scoresbii",
+    "Nombre_Comun": "Gaviota Gris",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Limnoctites rectirostris",
+    "Nombre_Comun": "Pajonalera Pico Recto",
+    "Familia": "FURNARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Limnoctites sulphuriferus",
+    "Nombre_Comun": "Curutie Ocraceo",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Limnodromus griseus",
+    "Nombre_Comun": "Becasina Gris",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Limnornis curvirostris",
+    "Nombre_Comun": "Pajonalera Pico Curvo",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Limosa haemastica",
+    "Nombre_Comun": "Becasa de Mar",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lochmias nematura",
+    "Nombre_Comun": "Macuquito",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lophonetta specularioides",
+    "Nombre_Comun": "Pato Creston",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lophornis chalybeus",
+    "Nombre_Comun": "Coqueta Verde",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lophospingus griseocristatus",
+    "Nombre_Comun": "Soldadito Gris",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lophospingus pusillus",
+    "Nombre_Comun": "Soldadito Comun",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Lurocalis semitorquatus",
+    "Nombre_Comun": "Añapero Castaño",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Machetornis rixosa",
+    "Nombre_Comun": "Picabuey",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mackenziaena leachii",
+    "Nombre_Comun": "Batara Pintado",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mackenziaena severa",
+    "Nombre_Comun": "Batara Copeton",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Macronectes giganteus",
+    "Nombre_Comun": "Petrel Gigante Comun",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Macronectes halli",
+    "Nombre_Comun": "Petrel Gigante Oscuro",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Macropsalis forcipata",
+    "Nombre_Comun": "Atajacaminos Coludo",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Manacus manacus",
+    "Nombre_Comun": "Bailarín Blanco",
+    "Familia": "PIPRIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Margarornis squamiger",
+    "Nombre_Comun": "Ticotico Goteado",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mecocerculus hellmayri",
+    "Nombre_Comun": "Piojito de los Pinos",
+    "Familia": "TYRANNIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Mecocerculus leucophrys",
+    "Nombre_Comun": "Piojito Gargantilla",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Megaceryle torquata",
+    "Nombre_Comun": "Martin Pescador Grande",
+    "Familia": "ALCEDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Megarynchus pitangua",
+    "Nombre_Comun": "Pitangua",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Megascops atricapilla",
+    "Nombre_Comun": "Alilicucu Grande",
+    "Familia": "STRIGIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Megascops choliba",
+    "Nombre_Comun": "Alilicucu Comun",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Megascops hoyi",
+    "Nombre_Comun": "Alilicucu Yungeño",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Megascops kennicotti",
+    "Nombre_Comun": "",
+    "Familia": "STRIGIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Megascops sanctaecatarinae",
+    "Nombre_Comun": "Alilicucu Orejudo",
+    "Familia": "STRIGIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Melanerpes cactorum",
+    "Nombre_Comun": "Carpintero del Cardon",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Melanerpes candidus",
+    "Nombre_Comun": "Carpintero Blanco",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Melanerpes flavifrons",
+    "Nombre_Comun": "Carpintero Arcoiris",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Melanodera melanodera",
+    "Nombre_Comun": "Yal Austral",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Melanodera xanthogramma",
+    "Nombre_Comun": "Yal Andino",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Melanopareia maximiliani",
+    "Nombre_Comun": "Gallito de Collar",
+    "Familia": "MELANOPAREIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Merganetta armata",
+    "Nombre_Comun": "Pato de Torrente",
+    "Familia": "ANATIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mergus octosetaceus",
+    "Nombre_Comun": "Pato Serrucho",
+    "Familia": "ANATIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Mesembrinibis cayennensis",
+    "Nombre_Comun": "Tapicuru",
+    "Familia": "THRESKIORNITHIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Metriopelia aymara",
+    "Nombre_Comun": "Palomita Dorada",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Metriopelia ceciliae",
+    "Nombre_Comun": "Palomita Moteada",
+    "Familia": "COLUMBIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Metriopelia melanoptera",
+    "Nombre_Comun": "Palomita Cordillerana",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Metriopelia morenoi",
+    "Nombre_Comun": "Palomita Ojo Desnudo",
+    "Familia": "COLUMBIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Micrastur ruficollis",
+    "Nombre_Comun": "Halcon Montes Chico",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Micrastur semitorquatus",
+    "Nombre_Comun": "Halcon Montes Grande",
+    "Familia": "FALCONIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Microspingus cabanisi",
+    "Nombre_Comun": "Monterita Litoraleña",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Microspingus erythrophrys",
+    "Nombre_Comun": "Monterita Cejas Rojizas",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Microspingus melanoleucus",
+    "Nombre_Comun": "Monterita Cabeza Negra",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Microspingus torquatus",
+    "Nombre_Comun": "Monterita de Collar",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Microstilbon burmeisteri",
+    "Nombre_Comun": "Picaflor Enano",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Milvago chimachima",
+    "Nombre_Comun": "Chimachima",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Milvago chimango",
+    "Nombre_Comun": "Chimango",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mimus dorsalis",
+    "Nombre_Comun": "Calandria Castaña",
+    "Familia": "MIMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mimus patagonicus",
+    "Nombre_Comun": "Calandria Mora",
+    "Familia": "MIMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mimus saturninus",
+    "Nombre_Comun": "Calandria Grande",
+    "Familia": "MIMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mimus thenca",
+    "Nombre_Comun": "Tenca",
+    "Familia": "MIMIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Mimus triurus",
+    "Nombre_Comun": "Calandria Real",
+    "Familia": "MIMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mionectes rufiventris",
+    "Nombre_Comun": "Ladrillito",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Molothrus bonariensis",
+    "Nombre_Comun": "Tordo Renegrido",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Molothrus oryzivorus",
+    "Nombre_Comun": "Tordo Gigante",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Molothrus rufoaxillaris",
+    "Nombre_Comun": "Tordo Pico Corto",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Momotus momota",
+    "Nombre_Comun": "Burgo",
+    "Familia": "MOMOTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Morphnus guianensis",
+    "Nombre_Comun": "Aguila Monera",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Morus capensis",
+    "Nombre_Comun": "Alcatraz del Cabo",
+    "Familia": "SULIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Muscipipra vetula",
+    "Nombre_Comun": "Viudita Coluda",
+    "Familia": "TYRANNIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Muscisaxicola albilora",
+    "Nombre_Comun": "Dormilona Ceja Blanca",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Muscisaxicola capistratus",
+    "Nombre_Comun": "Dormilona Canela",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Muscisaxicola cinereus",
+    "Nombre_Comun": "Dormilona Cenicienta",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Muscisaxicola flavinucha",
+    "Nombre_Comun": "Dormilona Fraile",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Muscisaxicola frontalis",
+    "Nombre_Comun": "Dormilona Frente Negra",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Muscisaxicola juninensis",
+    "Nombre_Comun": "Dormilona Puneña",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Muscisaxicola maclovianus",
+    "Nombre_Comun": "Dormilona Cara Negra",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Muscisaxicola maculirostris",
+    "Nombre_Comun": "Dormilona Chica",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Muscisaxicola rufivertex",
+    "Nombre_Comun": "Dormilona Gris",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mustelirallus albicollis",
+    "Nombre_Comun": "Burrito Grande",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mustelirallus erythrops",
+    "Nombre_Comun": "Burrito Pico Rojo",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Mycteria americana",
+    "Nombre_Comun": "Tuyuyu",
+    "Familia": "CICONIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiarchus ferox",
+    "Nombre_Comun": "Burlisto Pico Negro",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiarchus swainsoni",
+    "Nombre_Comun": "Burlisto Pico Canela",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiarchus tuberculifer",
+    "Nombre_Comun": "Burlisto Corona Negra",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiarchus tyrannulus",
+    "Nombre_Comun": "Burlisto Cola Castaña",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myioborus brunniceps",
+    "Nombre_Comun": "Arañero Corona Rojiza",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myioborus miniatus",
+    "Nombre_Comun": "Arañero Garganta Negra",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiodynastes chrysocephalus",
+    "Nombre_Comun": "Benteveo de Barbijo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Myiodynastes maculatus",
+    "Nombre_Comun": "Benteveo Rayado",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiopagis caniceps",
+    "Nombre_Comun": "Fiofio Ceniciento",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiopagis viridicata",
+    "Nombre_Comun": "Fiofio Corona Dorada",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiophobus fasciatus",
+    "Nombre_Comun": "Mosqueta Estriada",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiopsitta monachus",
+    "Nombre_Comun": "Cotorra",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiornis auricularis",
+    "Nombre_Comun": "Mosqueta Enana",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiotheretes striaticollis",
+    "Nombre_Comun": "Birro Grande",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiothlypis bivittata",
+    "Nombre_Comun": "Arañero Coronado Grande",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiothlypis flaveola",
+    "Nombre_Comun": "Arañero Pico Palido",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiothlypis leucoblephara",
+    "Nombre_Comun": "Arañero Silbon",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiothlypis rivularis",
+    "Nombre_Comun": "Arañero Ribereño",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiothlypis signata",
+    "Nombre_Comun": "Arañero Ceja Amarilla",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myiozetetes similis",
+    "Nombre_Comun": "Benteveo Mediano",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Myrmorchilus strigilatus",
+    "Nombre_Comun": "Batara Estriado",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nemosia pileata",
+    "Nombre_Comun": "Frutero Cabeza Negra",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Neoxolmis rufiventris",
+    "Nombre_Comun": "Monjita Chocolate",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Netta erythrophthalma",
+    "Nombre_Comun": "Pato Castaño",
+    "Familia": "ANATIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Netta peposaca",
+    "Nombre_Comun": "Pato Picazo",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nomonyx dominicus",
+    "Nombre_Comun": "Pato Fierro",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nonnula rubecula",
+    "Nombre_Comun": "Chacuru Chico",
+    "Familia": "BUCCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Notharchus swainsoni",
+    "Nombre_Comun": "Chacuru Grande",
+    "Familia": "BUCCONIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Nothoprocta cinerascens",
+    "Nombre_Comun": "Inambu Montaraz",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nothoprocta ornata",
+    "Nombre_Comun": "Inambu Serrano",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nothoprocta pentlandii",
+    "Nombre_Comun": "Inambu Silbon",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nothura chacoensis",
+    "Nombre_Comun": "Inambu Chaqueño",
+    "Familia": "TINAMIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Nothura darwinii",
+    "Nombre_Comun": "Inambu Palido",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nothura maculosa",
+    "Nombre_Comun": "Inambu Comun",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Numenius borealis",
+    "Nombre_Comun": "Playerito Esquimal",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Numenius phaeopus",
+    "Nombre_Comun": "Playero Trinador",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nyctibius aethereus",
+    "Nombre_Comun": "Urutau Coludo",
+    "Familia": "NYCTIBIIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Nyctibius griseus",
+    "Nombre_Comun": "Urutau Comun",
+    "Familia": "NYCTIBIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nycticorax nycticorax",
+    "Nombre_Comun": "Garza Bruja",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nycticryphes semicollaris",
+    "Nombre_Comun": "Aguatero",
+    "Familia": "ROSTRATULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nyctidromus albicollis",
+    "Nombre_Comun": "Curiango",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nyctiphrynus ocellatus",
+    "Nombre_Comun": "Atajacaminos Ocelado",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nystalus chacuru",
+    "Nombre_Comun": "Chacuru Cara Negra",
+    "Familia": "BUCCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Nystalus maculatus",
+    "Nombre_Comun": "Durmili",
+    "Familia": "BUCCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Oceanites oceanicus",
+    "Nombre_Comun": "Paiño Comun",
+    "Familia": "HYDROBATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Oceanodroma leucorhoa",
+    "Nombre_Comun": "Paiño Boreal",
+    "Familia": "HYDROBATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ochetorhynchus andaecola",
+    "Nombre_Comun": "Bandurrita Cola Castaña",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ochetorhynchus phoenicurus",
+    "Nombre_Comun": "Bandurrita Patagonica",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ochetorhynchus ruficaudus",
+    "Nombre_Comun": "Bandurrita Pico Recto",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ochthoeca leucophrys",
+    "Nombre_Comun": "Pitajo Gris",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ochthoeca oenanthoides",
+    "Nombre_Comun": "Pitajo Canela",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Odontophorus capueira",
+    "Nombre_Comun": "Uru",
+    "Familia": "ODONTOPHORIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Oreomanes fraseri",
+    "Nombre_Comun": "Sai Grande",
+    "Familia": "THRAUPIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Oreopholus ruficollis",
+    "Nombre_Comun": "Chorlo Cabezon",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Oreotrochilus adela",
+    "Nombre_Comun": "Picaflor Colorado",
+    "Familia": "TROCHILIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Oreotrochilus estella",
+    "Nombre_Comun": "Picaflor Puneño",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Oreotrochilus leucopleurus",
+    "Nombre_Comun": "Picaflor Andino",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Oressochen melanopterus",
+    "Nombre_Comun": "Guayata",
+    "Familia": "ANATIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Oressochen jubatus",
+    "Nombre_Comun": "Ganso de Monte",
+    "Familia": "ANATIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Orochelidon andecola",
+    "Nombre_Comun": "Golondrina Andina",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ortalis canicollis",
+    "Nombre_Comun": "Charata",
+    "Familia": "CRACCIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Oxyruncus cristatus",
+    "Nombre_Comun": "Picoagudo",
+    "Familia": "OXYRUNCIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Oxyura ferruginea",
+    "Nombre_Comun": "Pato Zambullidor Grande",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Oxyura vittata",
+    "Nombre_Comun": "Pato Zambullidor Chico",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pachyptila belcheri",
+    "Nombre_Comun": "Prión Pico Fino",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pachyptila desolata",
+    "Nombre_Comun": "Prion Pico Grande",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pachyptila turtur",
+    "Nombre_Comun": "Prion Pico Corto",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pachyptila vittata",
+    "Nombre_Comun": "Prión de Pico Ancho",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pachyramphus castaneus",
+    "Nombre_Comun": "Anambe Castaño",
+    "Familia": "TITYRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pachyramphus polychopterus",
+    "Nombre_Comun": "Anambe Comun",
+    "Familia": "TITYRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pachyramphus validus",
+    "Nombre_Comun": "Anambe Grande",
+    "Familia": "TITYRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pachyramphus viridis",
+    "Nombre_Comun": "Anambe Verdoso",
+    "Familia": "TITYRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pagodroma nivea",
+    "Nombre_Comun": "Petrel Blanco",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pandion haliaetus",
+    "Nombre_Comun": "Aguila Pescadora",
+    "Familia": "PANDIONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Parabuteo leucorrhous",
+    "Nombre_Comun": "Taguato Negro",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Parabuteo unicinctus",
+    "Nombre_Comun": "Gavilan Mixto",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Paraclaravis geoffroyi",
+    "Nombre_Comun": "Palomita Morada",
+    "Familia": "COLUMBIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Pardirallus maculatus",
+    "Nombre_Comun": "Gallineta Overa",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pardirallus nigricans",
+    "Nombre_Comun": "Gallineta Negruzca",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pardirallus sanguinolentus",
+    "Nombre_Comun": "Gallineta Comun",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Parkesia noveboracensis",
+    "Nombre_Comun": "Arañero de Agua",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Paroaria capitata",
+    "Nombre_Comun": "Cardenilla",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Paroaria coronata",
+    "Nombre_Comun": "Cardenal Comun",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Passer domesticus",
+    "Nombre_Comun": "Gorrion",
+    "Familia": "PASSERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Patagioenas araucana",
+    "Nombre_Comun": "Paloma Araucana",
+    "Familia": "COLUMBIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Patagioenas cayennensis",
+    "Nombre_Comun": "Paloma Colorada",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Patagioenas fasciata",
+    "Nombre_Comun": "Paloma Nuca Blanca",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Patagioenas maculosa",
+    "Nombre_Comun": "Paloma Manchada",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Patagioenas picazuro",
+    "Nombre_Comun": "Paloma Picazuro",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Patagioenas speciosa",
+    "Nombre_Comun": "Paloma Trocal",
+    "Familia": "COLUMBIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Patagona gigas",
+    "Nombre_Comun": "Picaflor Gigante",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pelagodroma marina",
+    "Nombre_Comun": "Paiño Cara Blanca",
+    "Familia": "HYDROBATIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pelecanoides georgicus",
+    "Nombre_Comun": "Yunco Georgico",
+    "Familia": "PELECANOIDIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pelecanoides magellani",
+    "Nombre_Comun": "Yunco Magellanico",
+    "Familia": "PELECANOIDIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pelecanoides urinatrix",
+    "Nombre_Comun": "Yunco Comun",
+    "Familia": "PELECANOIDIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pelecanus thagus",
+    "Nombre_Comun": "Pelicano Pardo",
+    "Familia": "PELECANIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Penelope dabbenei",
+    "Nombre_Comun": "Pava de Monte Alisera",
+    "Familia": "CRACCIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Penelope montagnii",
+    "Nombre_Comun": "Pava de Monte Andina",
+    "Familia": "CRACCIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Penelope obscura",
+    "Nombre_Comun": "Pava de Monte Comun",
+    "Familia": "CRACCIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Penelope superciliaris",
+    "Nombre_Comun": "Yacupoi",
+    "Familia": "CRACCIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Petrochelidon pyrrhonota",
+    "Nombre_Comun": "Golondrina Rabadilla Canela",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phacellodomus maculipectus",
+    "Nombre_Comun": "Espinero Serrano",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phacellodomus ruber",
+    "Nombre_Comun": "Espinero Grande",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phacellodomus rufifrons",
+    "Nombre_Comun": "Espinero Frente Rojiza",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phacellodomus sibilatrix",
+    "Nombre_Comun": "Espinero Chico",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phacellodomus striaticeps",
+    "Nombre_Comun": "Espinero Andino",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phacellodomus striaticollis",
+    "Nombre_Comun": "Espinero Pecho Manchado",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phaeomyias murina",
+    "Nombre_Comun": "Piojito Pardo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phaethornis eurynome",
+    "Nombre_Comun": "Ermitaño Escamado",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phaethornis pretrei",
+    "Nombre_Comun": "Ermitaño Canela",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phaetusa simplex",
+    "Nombre_Comun": "Ati",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phalacrocorax atriceps",
+    "Nombre_Comun": "Cormoran Imperial",
+    "Familia": "PHALACROCORACIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Phalacrocorax bougainvillii",
+    "Nombre_Comun": "Guanay",
+    "Familia": "PHALACROCORACIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Phalacrocorax brasilianus",
+    "Nombre_Comun": "Bigua",
+    "Familia": "PHALACROCORACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phalacrocorax gaimardi",
+    "Nombre_Comun": "Cormoran Gris",
+    "Familia": "PHALACROCORACIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phalacrocorax magellanicus",
+    "Nombre_Comun": "Cormoran Cuello Negro",
+    "Familia": "PHALACROCORACIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phalaropus fulicarius",
+    "Nombre_Comun": "Falaropo Pico Grueso",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Phalaropus lobatus",
+    "Nombre_Comun": "Falaropo Pico Fino",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phalaropus tricolor",
+    "Nombre_Comun": "Falaropo Comun",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phalcoboenus albogularis",
+    "Nombre_Comun": "Matamico Blanco",
+    "Familia": "FALCONIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phalcoboenus australis",
+    "Nombre_Comun": "Matamico Grande",
+    "Familia": "FALCONIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Phalcoboenus megalopterus",
+    "Nombre_Comun": "Matamico Andino",
+    "Familia": "FALCONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phegornis mitchellii",
+    "Nombre_Comun": "Chorlito de Vincha",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pheucticus aureoventris",
+    "Nombre_Comun": "Rey del Bosque",
+    "Familia": "CARDINALIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phibalura flavirostris",
+    "Nombre_Comun": "Tesorito",
+    "Familia": "INCERTAE SEDIS ",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Philydor atricapillus",
+    "Nombre_Comun": "Ticotico Cabeza Negra",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Philydor rufum",
+    "Nombre_Comun": "Ticotico Grande",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phimosus infuscatus",
+    "Nombre_Comun": "Cuervillo Cara Pelada",
+    "Familia": "THRESKIORNITHIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phleocryptes melanops",
+    "Nombre_Comun": "Junquero",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phoebetria fusca",
+    "Nombre_Comun": "Albatros Oscuro",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phoebetria palpebrata",
+    "Nombre_Comun": "Albatros Manto Claro",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Phoenicoparrus andinus",
+    "Nombre_Comun": "Parina Grande",
+    "Familia": "PHOENICOPTERIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Phoenicoparrus jamesi",
+    "Nombre_Comun": "Parina Chica",
+    "Familia": "PHOENICOPTERIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Phoenicopterus chilensis",
+    "Nombre_Comun": "Flamenco Austral",
+    "Familia": "PHOENICOPTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phrygilus atriceps",
+    "Nombre_Comun": "Comesebo Cabeza Negra",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phrygilus carbonarius",
+    "Nombre_Comun": "Yal Carbonero",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phrygilus gayi",
+    "Nombre_Comun": "Comesebo Andino",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phrygilus patagonicus",
+    "Nombre_Comun": "Comesebo Patagonico",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phyllomyias burmeisteri",
+    "Nombre_Comun": "Mosqueta Pico Curvo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phyllomyias fasciatus",
+    "Nombre_Comun": "Mosqueta Olivacea",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phyllomyias sclateri",
+    "Nombre_Comun": "Mosqueta Corona Gris",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phyllomyias uropygialis",
+    "Nombre_Comun": "Mosqueta Rabadilla Canela",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phyllomyias virescens",
+    "Nombre_Comun": "Mosqueta Corona Oliva",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phylloscartes eximius",
+    "Nombre_Comun": "Mosqueta Media Luna",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phylloscartes paulista",
+    "Nombre_Comun": "Mosqueta Oreja Negra",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Phylloscartes sylviolus",
+    "Nombre_Comun": "Mosqueta Cara Canela",
+    "Familia": "TYRANNIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Phylloscartes ventralis",
+    "Nombre_Comun": "Mosqueta Comun",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phytotoma rara",
+    "Nombre_Comun": "Rara",
+    "Familia": "COTINGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Phytotoma rutila",
+    "Nombre_Comun": "Cortarramas",
+    "Familia": "COTINGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Piaya cayana",
+    "Nombre_Comun": "Tingazu",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Picoides arcticus",
+    "Nombre_Comun": "",
+    "Familia": "PICIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Piculus aurulentus",
+    "Nombre_Comun": "Carpintero Dorado Verdoso",
+    "Familia": "PICIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Piculus chrysochloros",
+    "Nombre_Comun": "Carpintero Dorado Comun",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Picumnus cirratus",
+    "Nombre_Comun": "Carpinterito Comun",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Picumnus dorbignyanus",
+    "Nombre_Comun": "Carpinterito Escamado",
+    "Familia": "PICIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Picumnus nebulosus",
+    "Nombre_Comun": "Carpinterito Ocraceo",
+    "Familia": "PICIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Picumnus temminckii",
+    "Nombre_Comun": "Carpinterito Cuello Canela",
+    "Familia": "PICIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pilherodius pileatus",
+    "Nombre_Comun": "Garcita Real",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pionopsitta pileata",
+    "Nombre_Comun": "Catita Cabeza Roja",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pionus maximiliani",
+    "Nombre_Comun": "Loro Maitaca",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pipile jacutinga",
+    "Nombre_Comun": "Yacutinga",
+    "Familia": "CRACCIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Pipra fasciicauda",
+    "Nombre_Comun": "Bailarin Naranja",
+    "Familia": "PIPRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pipraeidea bonariensis",
+    "Nombre_Comun": "Naranjero",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pipraeidea melanonota",
+    "Nombre_Comun": "Saira de Antifaz",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Piprites chloris",
+    "Nombre_Comun": "Bailarin Verde",
+    "Familia": "INCERTAE SEDIS ",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Piprites pileata",
+    "Nombre_Comun": "Bailarin CastaÃ±o",
+    "Familia": "INCERTAE SEDIS ",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Piranga flava",
+    "Nombre_Comun": "Fueguero Comun",
+    "Familia": "CARDINALIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pitangus sulphuratus",
+    "Nombre_Comun": "Benteveo Comun",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Platalea ajaja",
+    "Nombre_Comun": "Espatula Rosada",
+    "Familia": "THRESKIORNITHIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Platyrinchus leucoryphus",
+    "Nombre_Comun": "Picochato Chico",
+    "Familia": "TYRANNIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Platyrinchus mystaceus",
+    "Nombre_Comun": "Picochato Enano",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Plegadis chihi",
+    "Nombre_Comun": "Cuervillo de Cañada",
+    "Familia": "THRESKIORNITHIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Plegadis ridgwayi",
+    "Nombre_Comun": "Cuervillo Puneño",
+    "Familia": "THRESKIORNITHIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pluvialis dominica",
+    "Nombre_Comun": "Chorlo Pampa",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pluvialis squatarola",
+    "Nombre_Comun": "Chorlo Artico",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pluvianellus socialis",
+    "Nombre_Comun": "Chorlito Ceniciento",
+    "Familia": "PLUVIANELLIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Podiceps gallardoi",
+    "Nombre_Comun": "Maca Tobiano",
+    "Familia": "PODICIPEDIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Podiceps major",
+    "Nombre_Comun": "Maca Grande",
+    "Familia": "PODICIPEDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Podiceps occipitalis",
+    "Nombre_Comun": "Maca Plateado",
+    "Familia": "PODICIPEDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Podilymbus podiceps",
+    "Nombre_Comun": "Maca Pico Grueso",
+    "Familia": "PODICIPEDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Poecilotriccus plumbeiceps",
+    "Nombre_Comun": "Mosqueta Cabeza Canela",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Polioptila dumicola",
+    "Nombre_Comun": "Tacuarita Azul",
+    "Familia": "POLIOPTILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Polioptila lactea",
+    "Nombre_Comun": "Tacuarita Blanca",
+    "Familia": "POLIOPTILIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Polioxolmis rufipennis",
+    "Nombre_Comun": "Birro Gris",
+    "Familia": "TYRANNIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Polystictus pectoralis",
+    "Nombre_Comun": "Tachuri Canela",
+    "Familia": "TYRANNIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Polytmus guainumbi",
+    "Nombre_Comun": "Picaflor de Antifaz",
+    "Familia": "TROCHILIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Poospiza baeri",
+    "Nombre_Comun": "Monterita Serrana",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Poospiza boliviana",
+    "Nombre_Comun": "Monterita Quebradeña",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Poospiza nigrorufa",
+    "Nombre_Comun": "Sietevestidos Pampeano",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Poospiza ornata",
+    "Nombre_Comun": "Monterita Canela",
+    "Familia": "THRAUPIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Poospiza whitii",
+    "Nombre_Comun": "Sietevestidos Serrano",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Poospizopsis hypochondria",
+    "Nombre_Comun": "Monterita Pecho Gris",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Porphyrio flavirostris",
+    "Nombre_Comun": "Pollona Celeste",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Porphyrio martinicus",
+    "Nombre_Comun": "Pollona Azul",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Porphyriops melanops",
+    "Nombre_Comun": "Pollona Pintada",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Porphyrospiza alaudinus",
+    "Nombre_Comun": "Yal Platero",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Porzana flaviventer",
+    "Nombre_Comun": "Burrito Amarillo",
+    "Familia": "RALLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Porzana spiloptera",
+    "Nombre_Comun": "Burrito Negruzco",
+    "Familia": "RALLIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Primolius auricollis",
+    "Nombre_Comun": "Maracana Cuello Dorado",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Primolius maracana",
+    "Nombre_Comun": "Maracana Lomo Rojo",
+    "Familia": "PSITTACIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Procellaria aequinoctialis",
+    "Nombre_Comun": "Petrel Barba Blanca",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Procellaria cinerea",
+    "Nombre_Comun": "Petrel Ceniciento",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Procellaria conspicillata",
+    "Nombre_Comun": "Petrel de Anteojos",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Procellaria westlandica",
+    "Nombre_Comun": "Petrel Negro",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Procnias nudicollis",
+    "Nombre_Comun": "Pajaro Campana",
+    "Familia": "COTINGIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Progne chalybea",
+    "Nombre_Comun": "Golondrina Domestica",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Progne elegans",
+    "Nombre_Comun": "Golondrina Negra",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Progne subis",
+    "Nombre_Comun": "Golondrina Purpurea",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Progne tapera",
+    "Nombre_Comun": "Golondrina Parda",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Psarocolius decumanus",
+    "Nombre_Comun": "Yapu",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudasthenes patagonica",
+    "Nombre_Comun": "Canastero Patagonico",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudasthenes steinbachi",
+    "Nombre_Comun": "Canastero Castaño",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pseudastur polionotus",
+    "Nombre_Comun": "Aguilucho Blanco",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudocolopteryx acutipennis",
+    "Nombre_Comun": "Doradito Olivaceo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudocolopteryx citreola",
+    "Nombre_Comun": "Doradito Limón",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudocolopteryx dinelliana",
+    "Nombre_Comun": "Doradito Pardo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudocolopteryx flaviventris",
+    "Nombre_Comun": "Doradito Comun",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudocolopteryx sclateri",
+    "Nombre_Comun": "Doradito Copeton",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudoleistes guirahuro",
+    "Nombre_Comun": "Pecho Amarillo Grande",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudoleistes virescens",
+    "Nombre_Comun": "Pecho Amarillo Comun",
+    "Familia": "ICTERIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudosaltator rufiventris",
+    "Nombre_Comun": "Pepitero Colorado",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pseudoseisura gutturalis",
+    "Nombre_Comun": "Cacholote Pardo",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pseudoseisura lophotes",
+    "Nombre_Comun": "Cacholote Castaño",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Psilopsiagon aurifrons",
+    "Nombre_Comun": "Catita Serrana Chica",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Psilopsiagon aymara",
+    "Nombre_Comun": "Catita Serrana Grande",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Psilorhamphus guttatus",
+    "Nombre_Comun": "Gallito Overo",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Psittacara leucophthalmus",
+    "Nombre_Comun": "Calancate Ala Roja",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Psittacara mitratus",
+    "Nombre_Comun": "Calancate Cara Roja",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pterodroma arminjoniana",
+    "Nombre_Comun": "Petrel de Trinidad",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pterodroma incerta",
+    "Nombre_Comun": "Petrel Cabeza Parda",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Pterodroma inexpectata",
+    "Nombre_Comun": "Petrel Moteado",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pterodroma lessonii",
+    "Nombre_Comun": "Petrel Cabeza Blanca",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pterodroma macroptera",
+    "Nombre_Comun": "Petrel Apizarrado",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pterodroma mollis",
+    "Nombre_Comun": "Petrel Collar Gris",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pteroglossus bailloni",
+    "Nombre_Comun": "Arasari Banana",
+    "Familia": "RAMPHASTIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pteroglossus castanotis",
+    "Nombre_Comun": "Arasari Fajado",
+    "Familia": "RAMPHASTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pteroptochos castaneus",
+    "Nombre_Comun": "Huet-huet Castaño",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pteroptochos tarnii",
+    "Nombre_Comun": "Huet-huet Comun",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Puffinus assimilis",
+    "Nombre_Comun": "Pardela Chica",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Puffinus puffinus",
+    "Nombre_Comun": "Pardela Boreal",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pulsatrix koeniswaldiana",
+    "Nombre_Comun": "Lechuzon Mocho Chico",
+    "Familia": "STRIGIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pulsatrix perspicillata",
+    "Nombre_Comun": "Lechuzon Mocho Grande",
+    "Familia": "STRIGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pygarrhichas albogularis",
+    "Nombre_Comun": "Picolezna Patagonico",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Pygochelidon cyanoleuca",
+    "Nombre_Comun": "Golondrina Barranquera",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pygochelidon melanoleuca",
+    "Nombre_Comun": "Golondrina de Collar",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pygoscelis adeliae",
+    "Nombre_Comun": "Pingüino Ojo Blanco",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pygoscelis antarcticus",
+    "Nombre_Comun": "Pingüino de Barbijo",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pygoscelis papua",
+    "Nombre_Comun": "Pingüino de Vincha",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pyriglena leucoptera",
+    "Nombre_Comun": "Batara Negro",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pyrocephalus rubinus",
+    "Nombre_Comun": "Churrinche",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pyroderus scutatus",
+    "Nombre_Comun": "Yacutoro",
+    "Familia": "COTINGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pyrrhomyias cinnamomeus",
+    "Nombre_Comun": "Birro Chico",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pyrrhura frontalis",
+    "Nombre_Comun": "Chiripepe Cabeza Verde",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Pyrrhura molinae",
+    "Nombre_Comun": "Chiripepe Cabeza Parda",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rallus antarcticus",
+    "Nombre_Comun": "Gallineta Chica",
+    "Familia": "RALLIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Ramphastos dicolorus",
+    "Nombre_Comun": "Tucan Pico Verde",
+    "Familia": "RAMPHASTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ramphastos toco",
+    "Nombre_Comun": "Tucan Grande",
+    "Familia": "RAMPHASTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ramphocelus bresilius",
+    "Nombre_Comun": "Fueguero Escarlata",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ramphocelus carbo",
+    "Nombre_Comun": "Fueguero Oscuro",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Ramphotrigon megacephalum",
+    "Nombre_Comun": "Picochato Cabezon",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Recurvirostra andina",
+    "Nombre_Comun": "Avoceta Andina",
+    "Familia": "RECURVIROSTRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Regulus calendula",
+    "Nombre_Comun": "",
+    "Familia": "REGULIDAE(.)",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Rhea americana",
+    "Nombre_Comun": "Ñandu",
+    "Familia": "RHEIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rhea pennata",
+    "Nombre_Comun": "Choique",
+    "Familia": "RHEIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rhinocrypta lanceolata",
+    "Nombre_Comun": "Gallito Copeton",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rhopospina fruticeti",
+    "Nombre_Comun": "Yal Negro",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rhynchospiza strigiceps",
+    "Nombre_Comun": "Cachilo Corona Castaña",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rhynchotus maculicollis",
+    "Nombre_Comun": "Guaipo",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rhynchotus rufescens",
+    "Nombre_Comun": "Colorada",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Riparia riparia",
+    "Nombre_Comun": "Golondrina Zapadora",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rollandia rolland",
+    "Nombre_Comun": "Maca Comun",
+    "Familia": "PODICIPEDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rostrhamus sociabilis",
+    "Nombre_Comun": "Caracolero",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rupornis magnirostris",
+    "Nombre_Comun": "Taguato Común",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Rynchops niger",
+    "Nombre_Comun": "Rayador",
+    "Familia": "RYNCHOPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Saltator aurantiirostris",
+    "Nombre_Comun": "Pepitero de Collar",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Saltator coerulescens",
+    "Nombre_Comun": "Pepitero Gris",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Saltator fuliginosus",
+    "Nombre_Comun": "Pepitero Negro",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Saltator maxillosus",
+    "Nombre_Comun": "Pepitero Picudo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Saltator similis",
+    "Nombre_Comun": "Pepitero Verdoso",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Saltatricula multicolor",
+    "Nombre_Comun": "Pepitero Chico",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sappho sparganurus",
+    "Nombre_Comun": "Picaflor Cometa",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sarcoramphus papa",
+    "Nombre_Comun": "Jote Real",
+    "Familia": "CATHARTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sarkidiornis melanotos",
+    "Nombre_Comun": "Pato Crestudo",
+    "Familia": "ANATIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Satrapa icterophrys",
+    "Nombre_Comun": "Suiriri Amarillo",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sayornis nigricans",
+    "Nombre_Comun": "Viudita de Rio",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Scelorchilus rubecula",
+    "Nombre_Comun": "Chucao",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Schiffornis virescens",
+    "Nombre_Comun": "Bailarin Olivaceo",
+    "Familia": "TITYRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Schistochlamys ruficapillus",
+    "Nombre_Comun": "Frutero Canela",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Schoeniophylax phryganophilus",
+    "Nombre_Comun": "Chotoy",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sclerurus scansor",
+    "Nombre_Comun": "Raspahojas",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Scolopax minor",
+    "Nombre_Comun": "",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Scytalopus magellanicus",
+    "Nombre_Comun": "Churrin Andino",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Scytalopus pachecoi",
+    "Nombre_Comun": "Churrin Ceniciento",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Scytalopus superciliaris",
+    "Nombre_Comun": "Churrin Ceja Blanca",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Scytalopus zimmeri",
+    "Nombre_Comun": "Churrín Montano",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Selenidera maculirostris",
+    "Nombre_Comun": "Arasari Chico",
+    "Familia": "RAMPHASTIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sephanoides sephaniodes",
+    "Nombre_Comun": "Picaflor Rubi",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Serpophaga griseicapilla",
+    "Nombre_Comun": "Piojito Cabeza Gris",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Serpophaga munda",
+    "Nombre_Comun": "Piojito Vientre Blanco",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Serpophaga nigricans",
+    "Nombre_Comun": "Piojito Gris",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Serpophaga subcristata",
+    "Nombre_Comun": "Piojito Comun",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Setopagis parvula",
+    "Nombre_Comun": "Atajacaminos Chico",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Setophaga caerulescens",
+    "Nombre_Comun": "",
+    "Familia": "PARULIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Setophaga palmarum",
+    "Nombre_Comun": "",
+    "Familia": "PARULIDAE",
+    "Estado": ""
+  },
+  {
+    "Nombre_Cientifico": "Setophaga pitiayumi",
+    "Nombre_Comun": "Pitiayumi",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Setophaga striata",
+    "Nombre_Comun": "Arañero Estriado",
+    "Familia": "PARULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis auriventris",
+    "Nombre_Comun": "Jilguero Grande",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis citrina",
+    "Nombre_Comun": "Jilguero Cola Blanca",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis flaveola",
+    "Nombre_Comun": "Jilguero Dorado",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis lebruni",
+    "Nombre_Comun": "Jilguero Austral",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis lutea",
+    "Nombre_Comun": "Jilguero Puneño",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis luteocephala",
+    "Nombre_Comun": "Jilguero Corona Gris",
+    "Familia": "THRAUPIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis luteola",
+    "Nombre_Comun": "Misto",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis mendozae",
+    "Nombre_Comun": "Jilguero del Monte",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis olivascens",
+    "Nombre_Comun": "Jilguero Olivaceo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sicalis uropygialis",
+    "Nombre_Comun": "Jilguero Cara Gris",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sirystes sibilator",
+    "Nombre_Comun": "Suiriri Silbon",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sitta canadensis",
+    "Nombre_Comun": "",
+    "Familia": "SITTIDAE(.)",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Sittasomus griseicapillus",
+    "Nombre_Comun": "Tarefero",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Spartonoica maluroides",
+    "Nombre_Comun": "Espartillero Enano",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Speculanas specularis",
+    "Nombre_Comun": "Pato de Anteojos",
+    "Familia": "ANATIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Spheniscus magellanicus",
+    "Nombre_Comun": "Pingüino Patagonico",
+    "Familia": "SPHENISCIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Spinus atratus",
+    "Nombre_Comun": "Negrillo",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Spinus barbatus",
+    "Nombre_Comun": "Cabecitanegra Austral",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Spinus crassirostris",
+    "Nombre_Comun": "Cabecitanegra Picudo",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Spinus magellanicus",
+    "Nombre_Comun": "Cabecitanegra Comun",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Spinus uropygialis",
+    "Nombre_Comun": "Cabecitanegra Andino",
+    "Familia": "FRINGILLIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Spizaetus isidori",
+    "Nombre_Comun": "Aguila Poma",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Spizaetus melanoleucus",
+    "Nombre_Comun": "Aguila Viuda",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Spizaetus ornatus",
+    "Nombre_Comun": "Aguila Crestuda Real",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Spizaetus tyrannus",
+    "Nombre_Comun": "Aguila Crestuda Negra",
+    "Familia": "ACCIPITRIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Spizella breweri",
+    "Nombre_Comun": "Gorrión de Brewer",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Spizella pallida",
+    "Nombre_Comun": "",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Spizella pusilla",
+    "Nombre_Comun": "",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Spiziapteryx circumcincta",
+    "Nombre_Comun": "Halconcito Gris",
+    "Familia": "FALCONIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila angolensis",
+    "Nombre_Comun": "Curio",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila caerulescens",
+    "Nombre_Comun": "Corbatita Comun",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila cinnamomea",
+    "Nombre_Comun": "Capuchino Corona Gris",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila collaris",
+    "Nombre_Comun": "Corbatita Domino",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila falcirostris",
+    "Nombre_Comun": "Corbatita Picudo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila frontalis",
+    "Nombre_Comun": "Corbatita Olivaceo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila hypochroma",
+    "Nombre_Comun": "Capuchino Castaño",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila hypoxantha",
+    "Nombre_Comun": "Capuchino Canela",
+    "Familia": "THRAUPIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila leucoptera",
+    "Nombre_Comun": "Corbatita Blanco",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila lineola",
+    "Nombre_Comun": "Corbatita Overo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila nigricollis",
+    "Nombre_Comun": "Corbatita Amarillo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila palustris",
+    "Nombre_Comun": "Capuchino Pecho Blanco",
+    "Familia": "THRAUPIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila pileata",
+    "Nombre_Comun": "Capuchino Boina Negra",
+    "Familia": "THRAUPIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila plumbea",
+    "Nombre_Comun": "Corbatita Plomizo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sporophila ruficollis",
+    "Nombre_Comun": "Capuchino Garganta Cafe",
+    "Familia": "THRAUPIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Stelgidopteryx ruficollis",
+    "Nombre_Comun": "Golondrina Ribereña",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stephanophorus diadematus",
+    "Nombre_Comun": "Frutero Azul",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stephanoxis loddigesii",
+    "Nombre_Comun": "Picaflor Copeton",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stercorarius antarcticus",
+    "Nombre_Comun": "Escua Antartica",
+    "Familia": "STERCORARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stercorarius chilensis",
+    "Nombre_Comun": "Escua Comun",
+    "Familia": "STERCORARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stercorarius longicaudus",
+    "Nombre_Comun": "Salteador Coludo",
+    "Familia": "STERCORARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stercorarius maccormicki",
+    "Nombre_Comun": "Escúa Polar",
+    "Familia": "STERCORARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stercorarius parasiticus",
+    "Nombre_Comun": "Salteador Chico",
+    "Familia": "STERCORARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stercorarius pomarinus",
+    "Nombre_Comun": "Salteador Grande",
+    "Familia": "STERCORARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Sterna hirundinacea",
+    "Nombre_Comun": "Gaviotin Sudamericano",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sterna hirundo",
+    "Nombre_Comun": "Gaviotin Golondrina",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sterna paradisaea",
+    "Nombre_Comun": "Gaviotin Artico",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sterna trudeaui",
+    "Nombre_Comun": "Gaviotin Lagunero",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sterna vittata",
+    "Nombre_Comun": "Gaviotin Antartico",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sternula antillarum",
+    "Nombre_Comun": "Gaviotin Chico Boreal",
+    "Familia": "LARIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sternula superciliaris",
+    "Nombre_Comun": "Gaviotin Chico Comun",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stigmatura budytoides",
+    "Nombre_Comun": "Calandrita",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stilpnia cayana",
+    "Nombre_Comun": "Saira Pecho Negro",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Stilpnia preciosa",
+    "Nombre_Comun": "Saira Castaña",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Streptoprocne biscutata",
+    "Nombre_Comun": "Vencejo Nuca Blanca",
+    "Familia": "APODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Streptoprocne zonaris",
+    "Nombre_Comun": "Vencejo de Collar",
+    "Familia": "APODIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Strix chacoensis",
+    "Nombre_Comun": "Lechuza Bataraz Chaqueña",
+    "Familia": "STRIGIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Strix hylophila",
+    "Nombre_Comun": "Lechuza Listada",
+    "Familia": "STRIGIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Strix rufipes",
+    "Nombre_Comun": "Lechuza Bataraz Austral",
+    "Familia": "STRIGIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Sturnella magna",
+    "Nombre_Comun": "",
+    "Familia": "ICTERIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Sturnus vulgaris",
+    "Nombre_Comun": "Estornino Pinto",
+    "Familia": "STURNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sublegatus modestus",
+    "Nombre_Comun": "Suiriri Pico Corto",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Suiriri suiriri",
+    "Nombre_Comun": "Suiriri Comun",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Sula leucogaster",
+    "Nombre_Comun": "Piquero Pardo",
+    "Familia": "SULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Surnia ulula",
+    "Nombre_Comun": "",
+    "Familia": "STRIGIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Sylviorthorhynchus desmursii",
+    "Nombre_Comun": "Colilarga",
+    "Familia": "FURNARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Synallaxis albescens",
+    "Nombre_Comun": "Pijui Cola Parda",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Synallaxis azarae",
+    "Nombre_Comun": "Pijui Cejas Canelas",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Synallaxis cinerascens",
+    "Nombre_Comun": "Pijui Negruzco",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Synallaxis frontalis",
+    "Nombre_Comun": "Pijui Frente Gris",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Synallaxis ruficapilla",
+    "Nombre_Comun": "Pijui Corona Rojiza",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Synallaxis scutata",
+    "Nombre_Comun": "Pijui Canela",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Synallaxis spixi",
+    "Nombre_Comun": "Pijui Plomizo",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Syndactyla rufosuperciliata",
+    "Nombre_Comun": "Ticotico Comun",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Syrigma sibilatrix",
+    "Nombre_Comun": "Chiflon",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Systellura longirostris",
+    "Nombre_Comun": "Atajacaminos Ñañarca",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachuris rubrigastra",
+    "Nombre_Comun": "Tachuri Sietecolores",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachybaptus dominicus",
+    "Nombre_Comun": "Maca Gris",
+    "Familia": "PODICIPEDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachycineta albiventer",
+    "Nombre_Comun": "Golondrina Ala Blanca",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachycineta leucopyga",
+    "Nombre_Comun": "Golondrina Patagonica",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachycineta leucorrhoa",
+    "Nombre_Comun": "Golondrina Ceja Blanca",
+    "Familia": "HIRUNDINIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachyeres brachypterus",
+    "Nombre_Comun": "Quetro Malvinero",
+    "Familia": "ANATIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachyeres leucocephalus",
+    "Nombre_Comun": "Quetro de Cabeza Blanca",
+    "Familia": "ANATIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachyeres patachonicus",
+    "Nombre_Comun": "Quetro Volador",
+    "Familia": "ANATIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachyeres pteneres",
+    "Nombre_Comun": "Quetro Austral",
+    "Familia": "ANATIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachyphonus coronatus",
+    "Nombre_Comun": "Frutero Coronado",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tachyphonus rufus",
+    "Nombre_Comun": "Frutero Negro",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tangara seledon",
+    "Nombre_Comun": "Saira Arcoiris",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tapera naevia",
+    "Nombre_Comun": "Crespin",
+    "Familia": "CUCULIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Taraba major",
+    "Nombre_Comun": "Chororo",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tarphonomus certhioides",
+    "Nombre_Comun": "Bandurrita Chaqueña",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tarphonomus harterti",
+    "Nombre_Comun": "Bandurrita Boliviana",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Teledromas fuscus",
+    "Nombre_Comun": "Gallito Arena",
+    "Familia": "RHINOCRYPTIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Terenura maculata",
+    "Nombre_Comun": "Tiluchi Enano",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Tersina viridis",
+    "Nombre_Comun": "Tersina",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thalassarche bulleri",
+    "Nombre_Comun": "Albatros del Pacífico",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Thalassarche cauta",
+    "Nombre_Comun": "Albatros Corona Blanca",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Thalassarche chlororhynchos",
+    "Nombre_Comun": "Albatros Pico Fino",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Thalassarche chrysostoma",
+    "Nombre_Comun": "Albatros Cabeza Gris",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Thalassarche melanophris",
+    "Nombre_Comun": "Albatros Ceja Negra",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Thalassarche salvini",
+    "Nombre_Comun": "Albatros de Salvin",
+    "Familia": "DIOMEDEIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Thalasseus maximus",
+    "Nombre_Comun": "Gaviotin Real",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thalasseus sandvicensis",
+    "Nombre_Comun": "Gaviotin Pico Amarillo",
+    "Familia": "LARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thalassoica antarctica",
+    "Nombre_Comun": "Petrel Antartico",
+    "Familia": "PROCELLARIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Thalurania furcata",
+    "Nombre_Comun": "Picaflor Zafiro",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thalurania glaucopis",
+    "Nombre_Comun": "Picaflor Corona Violacea",
+    "Familia": "TROCHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thamnophilus caerulescens",
+    "Nombre_Comun": "Choca Comun",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thamnophilus doliatus",
+    "Nombre_Comun": "Choca Listada",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thamnophilus ruficapillus",
+    "Nombre_Comun": "Choca Corona Rojiza",
+    "Familia": "THAMNOPHILIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thectocercus acuticaudatus",
+    "Nombre_Comun": "Calancate Comun",
+    "Familia": "PSITTACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Theristicus caerulescens",
+    "Nombre_Comun": "Bandurria Mora",
+    "Familia": "THRESKIORNITHIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Theristicus caudatus",
+    "Nombre_Comun": "Bandurria Boreal",
+    "Familia": "THRESKIORNITHIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Theristicus melanopis",
+    "Nombre_Comun": "Bandurria Austral",
+    "Familia": "THRESKIORNITHIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thinocorus orbignyianus",
+    "Nombre_Comun": "Agachona de Collar",
+    "Familia": "THINOCORIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thinocorus rumicivorus",
+    "Nombre_Comun": "Agachona Chica",
+    "Familia": "THINOCORIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thlypopsis pyrrhocoma",
+    "Nombre_Comun": "Pioro",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thlypopsis ruficeps",
+    "Nombre_Comun": "Tangara Alisero",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thlypopsis sordida",
+    "Nombre_Comun": "Tangara Gris",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thraupis palmarum",
+    "Nombre_Comun": "Celestino Olivaceo",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Thraupis sayaca",
+    "Nombre_Comun": "Celestino Comun",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tigrisoma fasciatum",
+    "Nombre_Comun": "Hoco Oscuro",
+    "Familia": "ARDEIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Tigrisoma lineatum",
+    "Nombre_Comun": "Hoco Colorado",
+    "Familia": "ARDEIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tinamotis ingoufi",
+    "Nombre_Comun": "Quiula Patagonica",
+    "Familia": "TINAMIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tinamotis pentlandii",
+    "Nombre_Comun": "Quiula Puneña",
+    "Familia": "TINAMIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tinamus solitarius",
+    "Nombre_Comun": "Macuco",
+    "Familia": "TINAMIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tityra cayana",
+    "Nombre_Comun": "Tuere Grande",
+    "Familia": "TITYRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tityra inquisitor",
+    "Nombre_Comun": "Tuere Chico",
+    "Familia": "TITYRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tityra semifasciata",
+    "Nombre_Comun": "Tuere Enmascarado",
+    "Familia": "TITYRIDAE",
+    "Estado": "IC - Insuficientemente conocida"
+  },
+  {
+    "Nombre_Cientifico": "Todirostrum cinereum",
+    "Nombre_Comun": "Mosqueta Pico Pala",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tolmomyias sulphurescens",
+    "Nombre_Comun": "Picochato Grande",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Trichothraupis melanops",
+    "Nombre_Comun": "Frutero Corona Amarilla",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tringa flavipes",
+    "Nombre_Comun": "Pitotoy Chico",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tringa melanoleuca",
+    "Nombre_Comun": "Pitotoy Grande",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tringa semipalmata",
+    "Nombre_Comun": "Playero Ala Blanca",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tringa solitaria",
+    "Nombre_Comun": "Pitotoy Solitario",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Troglodytes aedon",
+    "Nombre_Comun": "Ratona Comun",
+    "Familia": "TROGLODYTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Troglodytes cobbi",
+    "Nombre_Comun": "Ratona Malvinera",
+    "Familia": "TROGLODYTIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Troglodytes solstitialis",
+    "Nombre_Comun": "Ratona Ceja Blanca",
+    "Familia": "TROGLODYTIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Trogon curucui",
+    "Nombre_Comun": "Surucua Aurora",
+    "Familia": "TROGONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Trogon rufus",
+    "Nombre_Comun": "Surucua Amarillo",
+    "Familia": "TROGONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Trogon surrucura",
+    "Nombre_Comun": "Surucua Comun",
+    "Familia": "TROGONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus albicollis",
+    "Nombre_Comun": "Zorzal Collar Blanco",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus amaurochalinus",
+    "Nombre_Comun": "Zorzal Chalchalero",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus chiguanco",
+    "Nombre_Comun": "Zorzal Chiguanco",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus falcklandii",
+    "Nombre_Comun": "Zorzal Patagonico",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus flavipes",
+    "Nombre_Comun": "Zorzal Azulado",
+    "Familia": "TURDIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus leucomelas",
+    "Nombre_Comun": "Zorzal Sabia",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus migratorius",
+    "Nombre_Comun": "",
+    "Familia": "TURDIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Turdus nigriceps",
+    "Nombre_Comun": "Zorzal Plomizo (nigriceps)",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus rufiventris",
+    "Nombre_Comun": "Zorzal Colorado",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus serranus",
+    "Nombre_Comun": "Zorzal Negro",
+    "Familia": "TURDIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Turdus subalaris",
+    "Nombre_Comun": "Zorzal Plomizo (subalaris)",
+    "Familia": "TURDIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Tympanuchus phasianellus",
+    "Nombre_Comun": "",
+    "Familia": "PHASIANIDAE",
+    "Estado": "EC - En peligro critico"
+  },
+  {
+    "Nombre_Cientifico": "Tyrannus melancholicus",
+    "Nombre_Comun": "Suiriri Real",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tyrannus savana",
+    "Nombre_Comun": "Tijereta",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tyrannus tyrannus",
+    "Nombre_Comun": "Suiriri Boreal",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Tyto alba",
+    "Nombre_Comun": "Lechuza de Campanario",
+    "Familia": "TYTONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Upucerthia dumetaria",
+    "Nombre_Comun": "Bandurrita Comun",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Upucerthia saturatior",
+    "Nombre_Comun": "Bandurrita de los Bosques Patagónicos",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Upucerthia validirostris",
+    "Nombre_Comun": "Bandurrita Andina",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Uropsalis lyra",
+    "Nombre_Comun": "Atajacaminos Lira",
+    "Familia": "CAPRIMULGIDAE",
+    "Estado": "AM - Amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Vanellus cayanus",
+    "Nombre_Comun": "Chorlo de Espolon",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Vanellus chilensis",
+    "Nombre_Comun": "Tero Comun",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Vanellus resplendens",
+    "Nombre_Comun": "Tero Serrano",
+    "Familia": "CHARADRIIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Vireo chivi",
+    "Nombre_Comun": "Chivi Comun",
+    "Familia": "VIREONIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Volatinia jacarina",
+    "Nombre_Comun": "Volatinero",
+    "Familia": "THRAUPIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Vultur gryphus",
+    "Nombre_Comun": "Condor Andino",
+    "Familia": "CATHARTIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Xanthopsar flavus",
+    "Nombre_Comun": "Tordo Amarillo",
+    "Familia": "ICTERIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Xenops minutus",
+    "Nombre_Comun": "Picolezna Chico",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xenops rutilans",
+    "Nombre_Comun": "Picolezna Rojizo",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xenopsaris albinucha",
+    "Nombre_Comun": "Tijerilla",
+    "Familia": "TITYRIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xenus cinereus",
+    "Nombre_Comun": "Playerito Pico Curvo",
+    "Familia": "SCOLOPACIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xiphocolaptes albicollis",
+    "Nombre_Comun": "Trepador Garganta Blanca",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xiphocolaptes major",
+    "Nombre_Comun": "Trepador Gigante",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xiphorhynchus fuscus",
+    "Nombre_Comun": "Chinchero Enano",
+    "Familia": "FURNARIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xolmis cinereus",
+    "Nombre_Comun": "Monjita Gris",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xolmis coronatus",
+    "Nombre_Comun": "Monjita Coronada",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xolmis dominicanus",
+    "Nombre_Comun": "Monjita Dominica",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Xolmis irupero",
+    "Nombre_Comun": "Monjita Blanca",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xolmis pyrope",
+    "Nombre_Comun": "Diucon",
+    "Familia": "TYRANNIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Xolmis rubetra",
+    "Nombre_Comun": "Monjita Castaña",
+    "Familia": "TYRANNIDAE",
+    "Estado": "VU - Vulnerable"
+  },
+  {
+    "Nombre_Cientifico": "Xolmis salinarum",
+    "Nombre_Comun": "Monjita Salinera",
+    "Familia": "TYRANNIDAE",
+    "Estado": "EN - En peligro"
+  },
+  {
+    "Nombre_Cientifico": "Zenaida auriculata",
+    "Nombre_Comun": "Torcaza Comun",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Zenaida meloda",
+    "Nombre_Comun": "Torcaza Ala Blanca",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Zentrygon frenata",
+    "Nombre_Comun": "Paloma Montera Grande",
+    "Familia": "COLUMBIDAE",
+    "Estado": "NA - No amenazada"
+  },
+  {
+    "Nombre_Cientifico": "Zonotrichia capensis",
+    "Nombre_Comun": "Chingolo",
+    "Familia": "EMBERIZIDAE",
+    "Estado": "NA - No amenazada"
+  }
+]

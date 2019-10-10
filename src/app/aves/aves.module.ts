@@ -7,7 +7,6 @@ import { AvesRoutingModule } from './aves-routing.module';
 import { AvesSearchService } from './aves-search.service';
 import { MaterialModule } from '../material';
 import { WikiSearchService } from './wiki-search.service';
-
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { FormsModule } from '@angular/forms';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
