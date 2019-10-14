@@ -1,29 +1,20 @@
-<main role="main" class="container">
-
 
   <div class="row">
     <div class="col-md-12">
-      <div class="mapa">
-      <agm-map
-      [latitude]="latitud"
-      [longitude]="longitud"
-      [zoom]="zoom"
-      [zoomControl]="false">
 
-        <agm-marker
-        *ngFor="let a of (avistajes$ | async); index as i"
-        [latitude]="a.latitud"
-        [longitude]="a.longitud">
+        <div style="height: 400px; width: 600px"
+        leaflet
+        [leafletOptions]="options"
+        (leafletMapReady)="onMapReady($event)">
+        </div>
+        <button (click)="addMarker()">Add markers</button>
+        <hr />
 
-        <agm-info-window>
-          <strong>
-            <div>Nombre: {{a.nombrecient}}</div>
-          </strong>
-        </agm-info-window>
-        </agm-marker>
+        <span *ngFor="let marker of markers" style="border:1px solid black; margin:5px;">
+          {{ marker.name }}
+        </span>
 
-      </agm-map>
-    </div>
     </div>
   </div>
-</main>
+
+

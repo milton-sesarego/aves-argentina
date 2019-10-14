@@ -16,14 +16,12 @@ import { AvesComponent } from './aves/aves.component';
 import { VistaAveComponent } from './aves/vista-ave/vista-ave.component';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { AvesSearchService } from './aves/aves-search.service';
-
 import { WikiSearchService } from './aves/wiki-search.service';
 import { AvistajesComponent } from './avistajes/avistajes.component';
 import { VistaAvistajeComponent } from './avistajes/vista-avistaje/vista-avistaje.component';
 import { AvistajesSearchService } from './avistajes/avistajes-search.service';
-import { AgmCoreModule } from '@agm/core';
-import { AngularOpenlayersModule } from 'ngx-openlayers';
-
+import { LeafletModule } from '@asymmetrik/ngx-leaflet';
+import { HTMLMarkerComponent } from './avistajes/html-marker.component';
 @NgModule({
   imports:      [
   BrowserModule,
@@ -36,10 +34,7 @@ import { AngularOpenlayersModule } from 'ngx-openlayers';
   AngularFireModule.initializeApp(environment.firebase),
   AngularFirestoreModule,
   Ng2SearchPipeModule,
-  AgmCoreModule.forRoot({
-    apiKey: ''
-  }),
-  AngularOpenlayersModule
+  LeafletModule.forRoot()
 ],
   declarations: [
     AppComponent,
@@ -47,7 +42,8 @@ import { AngularOpenlayersModule } from 'ngx-openlayers';
     AvesComponent,
     VistaAveComponent,
     AvistajesComponent,
-    VistaAvistajeComponent
+    VistaAvistajeComponent,
+    HTMLMarkerComponent
   ],
   bootstrap:    [ AppComponent ],
   providers: [ AngularFirestore, AvesSearchService, WikiSearchService , AvistajesSearchService]
