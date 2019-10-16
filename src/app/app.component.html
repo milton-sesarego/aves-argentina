@@ -4,33 +4,31 @@
       <h1><span class="titulo">{{titulo}}</span></h1>
     </mat-toolbar-row>
 </mat-toolbar>
-
-
-
-<tabs [tabsName]="allTabs"></tabs>
-
+<!--
 <mat-toolbar>
   <mat-toolbar-row>
     <button mat-raised-button  class="optionButton center"
     type="button" (click)="addAvistaje()">Crear Avistaje</button>
   </mat-toolbar-row>
 </mat-toolbar>
+-->
 
-<ng-template #Explorar>
-    <lista-aves [aves$]="aves$"></lista-aves>
-  <mat-toolbar>
-    <mat-toolbar-row>
-      <button mat-raised-button  class="optionButton center"
-      type="button" (click)="navegarAAves()">Explorar</button>
-    </mat-toolbar-row>
-  </mat-toolbar>
+  <ul class="nav nav-tabs">
+    <li role="presentation" routerLinkActive="active"
+    [routerLinkActiveOptions]="{exact:true}"><a routerLink="/">Explorar</a></li>
+    <li role="presentation" routerLinkActive="active"><a routerLink="/avistajes">Avistajes</a></li>
+    <li role="presentation" routerLinkActive="active"><a routerLink="/avistajes">Acerca de</a></li>
+  </ul>
+
+  <router-outlet></router-outlet>
+
+<!--
+<ng-template>
+    <mapa-avistajes [avistajes$]="avistajes$"
+    [showControlsZoom]="true"></mapa-avistajes>
 </ng-template>
 
-<ng-template #MisAvistajes>
-  <mapa-avistajes [avistajes$]="avistajes$"></mapa-avistajes>
-</ng-template>
-
-<ng-template #AcercaDe>
+<ng-template>
   <div *ngIf="profile">
     <mat-card>
       <mat-card-header>
@@ -54,6 +52,4 @@
   </div>
 </ng-template>
 
-
-
-
+-->

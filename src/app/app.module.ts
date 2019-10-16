@@ -4,24 +4,29 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { MaterialModule } from './material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { TabComponent } from './tab.component';
-import { MatTabsModule } from '@angular/material/tabs';
-import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { AppComponent } from './app.component';
+
+import { AvesComponent } from './aves/aves.component';
+import { VistaAveComponent } from './aves/vista-ave/vista-ave.component';
+import { AvesSearchService } from './aves/aves-search.service';
+import { WikiSearchService } from './aves/wiki-search.service';
+
+import { Ng2SearchPipeModule } from 'ng2-search-filter';
+
+import { AppRoutingModule } from './app.routing.module';
+import { Routes, RouterModule} from '@angular/router';
+
 import { environment } from '../environments/environment';
 import { AngularFireModule } from '@angular/fire';
 import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { AngularFirestore } from '@angular/fire/firestore';
-import { AppComponent } from './app.component';
-import { AvesComponent } from './aves/aves.component';
-import { VistaAveComponent } from './aves/vista-ave/vista-ave.component';
-import { Ng2SearchPipeModule } from 'ng2-search-filter';
-import { AvesSearchService } from './aves/aves-search.service';
-import { WikiSearchService } from './aves/wiki-search.service';
+
 import { AvistajesComponent } from './avistajes/avistajes.component';
 import { VistaAvistajeComponent } from './avistajes/vista-avistaje/vista-avistaje.component';
 import { AvistajesSearchService } from './avistajes/avistajes-search.service';
-import { LeafletModule } from '@asymmetrik/ngx-leaflet';
-import { HTMLMarkerComponent } from './avistajes/html-marker.component';
+
+import { AngularOpenlayersModule } from 'ngx-openlayers';
+
 @NgModule({
   imports:      [
   BrowserModule,
@@ -29,24 +34,20 @@ import { HTMLMarkerComponent } from './avistajes/html-marker.component';
   HttpClientModule,
   MaterialModule,
   BrowserAnimationsModule,
-  MatTabsModule,
-  FontAwesomeModule ,
+  Ng2SearchPipeModule,
+  AppRoutingModule,
   AngularFireModule.initializeApp(environment.firebase),
   AngularFirestoreModule,
-  Ng2SearchPipeModule,
-  LeafletModule.forRoot()
+  AngularOpenlayersModule
 ],
   declarations: [
     AppComponent,
-    TabComponent,
     AvesComponent,
-    VistaAveComponent,
-    AvistajesComponent,
-    VistaAvistajeComponent,
-    HTMLMarkerComponent
+    VistaAveComponent,AvistajesComponent,
+    VistaAvistajeComponent
   ],
   bootstrap:    [ AppComponent ],
-  providers: [ AngularFirestore, AvesSearchService, WikiSearchService , AvistajesSearchService]
+  providers: [ AvesSearchService, WikiSearchService,AngularFirestore, AvistajesSearchService ]
 })
 export class AppModule { }
 

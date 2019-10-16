@@ -22,7 +22,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": ["./node_modules/leaflet/dist/leaflet.css",
+            "styles": ["./node_modules/openlayers/dist/ol.css",
               "src/styles.css"
             ],
             "scripts": []

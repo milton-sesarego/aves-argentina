@@ -1,6 +1,7 @@
 import { Component, OnInit, Input , Output} from '@angular/core';
 import { Observable } from 'rxjs';
 import { Ave } from './ave';
+import { AvesSearchService } from './aves-search.service';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -11,11 +12,15 @@ import { Ave } from './ave';
 export class AvesComponent implements OnInit {
   searchText;
 
-  @Input() aves$: Observable<Ave[]>;
+  aves$: Observable<Ave[]>;
 
-  constructor() { }
+  constructor(private avesSearchService: AvesSearchService) { }
 
   ngOnInit() {
+    this.aves$ = this.avesSearchService.fetchAves();
+  }
+
+  navegarAAves() {
   }
 
 }

@@ -4,15 +4,6 @@ import { HttpClient } from '@angular/common/http';
 import { Avistaje } from './avistaje';
 import { map, switchMap, mergeMap, merge, take } from 'rxjs/operators';
 import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
-import { LatLngExpression} from 'leaflet';
-
-export class Marker {
-  id: number;
-  name: string;
-  description: string;
-  position: LatLngExpression;
-}
-
 
 @Injectable()
 export class AvistajesSearchService {
@@ -21,30 +12,6 @@ export class AvistajesSearchService {
     private afs: AngularFirestore,
     private http: HttpClient,
   ) { }
-
-
-  markers: Marker[] = [
-    {
-      id: 1,
-      name: 'Marker name 1',
-      description: 'descr 1',
-      position: [ 46.879966, -121.726909 ]
-    },
-    {
-      id: 2,
-      name: 'Marker name 2',
-      description: 'descr 2',
-      position: [ 46.000966, -123.726909 ]
-    }
-  ];
-
-  getMarkers() {
-    return this.markers;
-  }
-
-  getMarkerById(id) {
-    return this.markers.filter((entry) => entry.id === id)[0];
-  }
 
   addAvistaje() {
     this.afs.collection('avistajes').add(
