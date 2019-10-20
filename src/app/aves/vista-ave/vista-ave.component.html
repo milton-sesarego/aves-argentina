@@ -1,30 +1,47 @@
-<div *ngIf="ave">
-      <mat-card>
-        <mat-card-header>
-          <img mat-card-avatar src="{{ave.thumbnail}}"/>
-          <mat-card-title-group>
-            <mat-card-title>
+<!--<div *ngIf="ave">
+  <div class="card">
+    <div class="card-body">
+          <img src="{{ave.thumbnail}}"/>
+          <div>
+            <div class="card-subtitle mb-2 text-muted">
               <i>{{ave.nombrecient}}</i>
-            </mat-card-title>
-            <mat-card-title>
+            </div>
+            <div class="card-title">
               {{ave.nombrecomun}}
-            </mat-card-title>
-            <mat-card-title>
+            </div>
+            <div>
               {{ave.familia}}
-            </mat-card-title>
-            <mat-card-title>
+            </div>
+            <div>
               {{ave.estado}}
-            </mat-card-title>
-            <mat-card-subtitle>
-              <p>{{ave.descripcion}} <a class="wikilink" href="{{ave.link}}" target="_blank">Wikipedia</a></p>
-            </mat-card-subtitle>
-          </mat-card-title-group>
-      </mat-card-header>
+            </div>
+            <div>
+              <p class="card-text">{{ave.descripcion}} <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a></p>
+            </div>
+          </div>
+        </div>
 
-      <mat-toolbar-row>
-        <!--<a mat-raised-button class="button" href="{{ave.imagen}}" target="_blank">Imagen</a>-->
+      <div>
         <button mat-raised-button  class="optionButton button"
         >Añadir</button>
-      </mat-toolbar-row>
-   </mat-card>
+      </div>
+      </div>
+</div>-->
+
+
+<div class="card" style="width: 20rem;">
+    <div class="card-body">
+        <h5 class="card-subtitle mb-2 text-muted"><i>{{ave.nombrecient}}</i></h5>
+        <h5 class="card-title">{{ave.nombrecomun}}</h5>
+    </div>
+    <img src="{{ave.thumbnail}}" class="card-img-top" alt="...">
+    <div class="card-body">
+      <p class="card-text text-muted">
+        {{ave.descripcion}} <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a>
+      </p>
+      <p class="card-text"><small class="text-muted">{{ave.familia}}</small></p>
+    </div>
+    <div class="card-footer">
+        <a class="card-link">Añadir a Avistajes</a>
+    </div>
 </div>

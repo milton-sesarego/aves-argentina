@@ -1,31 +1,12 @@
-/* Add application styles & imports to this file! */
-@import '@angular/material/prebuilt-themes/indigo-pink.css';
+@import '~bootstrap/dist/css/bootstrap.min.css';
 
-.wikilink{
-  color:#405065;
-  text-decoration: none;
+.card-img-top {
+
+  height: 200px !important;
+  width: auto !important;
+  object-fit: contain !important;
 }
 
-.titulo {
-  font-size: 2em !important;
-  font-weight: bold !important;
-}
-
-mat-card {
-  margin: 10px;
-}
-
-.mat-card-avatar {
-    height: auto !important;
-    width: 200px !important;
-    border-radius: 0px 0px !important;
-    object-fit: contain !important;
-}
-
-.material-icons{
-  vertical-align: middle;
-}
-
-.material-icons{
-  user-select: none;
+.card{
+  margin: 10px !important;
 }

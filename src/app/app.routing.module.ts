@@ -17,7 +17,7 @@ const appRoutes: Routes = [
   {path: 'aves', component: AvesComponent},
   {path: 'avistajes', component: AvistajesComponent},
   {path: '**', redirectTo: 'aves', pathMatch: 'full'}
-]
+];
 
 @NgModule({
 imports: [

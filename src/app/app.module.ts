@@ -2,7 +2,6 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
-import { MaterialModule } from './material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppComponent } from './app.component';
 
@@ -27,27 +26,30 @@ import { AvistajesSearchService } from './avistajes/avistajes-search.service';
 
 import { AngularOpenlayersModule } from 'ngx-openlayers';
 
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+
 @NgModule({
   imports:      [
   BrowserModule,
   FormsModule,
   HttpClientModule,
-  MaterialModule,
   BrowserAnimationsModule,
   Ng2SearchPipeModule,
   AppRoutingModule,
   AngularFireModule.initializeApp(environment.firebase),
   AngularFirestoreModule,
-  AngularOpenlayersModule
+  AngularOpenlayersModule,
+  NgbModule
 ],
   declarations: [
     AppComponent,
     AvesComponent,
-    VistaAveComponent,AvistajesComponent,
+    VistaAveComponent,
+    AvistajesComponent,
     VistaAvistajeComponent
   ],
   bootstrap:    [ AppComponent ],
-  providers: [ AvesSearchService, WikiSearchService,AngularFirestore, AvistajesSearchService ]
+  providers: [ AvesSearchService, WikiSearchService, AngularFirestore, AvistajesSearchService ]
 })
 export class AppModule { }
 

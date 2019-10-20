@@ -1,6 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { Ave } from '../ave';
-import { faEye } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -10,7 +9,6 @@ import { faEye } from '@fortawesome/free-solid-svg-icons';
 })
 export class VistaAveComponent implements OnInit {
   @Input() ave: Ave;
-  faEye = faEye;
   constructor() { }
   ngOnInit() {
   }

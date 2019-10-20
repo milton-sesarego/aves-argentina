@@ -1,23 +1,25 @@
 
 
 <div class="container">
-  <br />
-  <div class="filter">
-    <input class="form-control" type="text" name="search"
-    [(ngModel)]="searchText" autocomplete="off" placeholder="Filtrar">
-  </div>
 
+  <form>
+    <div class="filter form-group">
+      <input class="form-control" type="text" name="search"
+      [(ngModel)]="searchText" autocomplete="off" placeholder="Filtrar">
+    </div>
+  </form>
   <ng-container>
-    <vista-ave
-      *ngFor="let ave of aves$ | async | filter:searchText"
-      [ave]="ave">
-    </vista-ave>
+    <div class="card-deck">
+      <vista-ave
+        *ngFor="let ave of aves$ | async | filter:searchText"
+        [ave]="ave">
+      </vista-ave>
+    </div>
   </ng-container>
+
+  <button class="optionButton"
+  type="button" (click)="navegarAAves()">Explorar</button>
+
 </div>
 
-<mat-toolbar>
-  <mat-toolbar-row>
-    <button mat-raised-button  class="optionButton center"
-    type="button" (click)="navegarAAves()">Explorar</button>
-  </mat-toolbar-row>
-</mat-toolbar>
+
