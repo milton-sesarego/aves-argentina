@@ -16,7 +16,7 @@ export class AvistajesSearchService {
   fetchAvistajes(): Observable<Avistaje[]> {
       const avistajesRef = this.afs.collection('avistajes', ref => ref
       .orderBy('Nombre_Cientifico', 'desc')
-      .limit(5))
+      .limit(50))
       .valueChanges();
 
       const aves: Avistaje[] = [];
