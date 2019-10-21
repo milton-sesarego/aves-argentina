@@ -23,14 +23,19 @@ import { AngularFirestore } from '@angular/fire/firestore';
 import { AvistajesComponent } from './avistajes/avistajes.component';
 import { VistaAvistajeComponent } from './avistajes/vista-avistaje/vista-avistaje.component';
 import { AvistajesSearchService } from './avistajes/avistajes-search.service';
+import { AvistajeAddComponent } from './avistaje-add/avistaje-add.component';
+
+import { AddService } from './add.service';
 
 import { AngularOpenlayersModule } from 'ngx-openlayers';
+import { LeafletModule } from '@asymmetrik/ngx-leaflet';
 
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   imports:      [
   BrowserModule,
+  LeafletModule.forRoot(),
   FormsModule,
   HttpClientModule,
   BrowserAnimationsModule,
@@ -46,10 +51,11 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     AvesComponent,
     VistaAveComponent,
     AvistajesComponent,
-    VistaAvistajeComponent
+    VistaAvistajeComponent,
+    AvistajeAddComponent
   ],
   bootstrap:    [ AppComponent ],
-  providers: [ AvesSearchService, WikiSearchService, AngularFirestore, AvistajesSearchService ]
+  providers: [ AddService, AvesSearchService, WikiSearchService, AngularFirestore, AvistajesSearchService ]
 })
 export class AppModule { }
 

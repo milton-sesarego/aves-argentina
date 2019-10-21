@@ -11,11 +11,13 @@ import { AvesComponent } from './aves/aves.component';
 import { VistaAveComponent } from './aves/vista-ave/vista-ave.component';
 import { AvesSearchService } from './aves/aves-search.service';
 import { WikiSearchService } from './aves/wiki-search.service';
+import { AvistajeAddComponent } from './avistaje-add/avistaje-add.component';
 
 const appRoutes: Routes = [
-  {path: '', redirectTo: 'aves',  pathMatch: 'full'},
+  {path: '', redirectTo: 'aves', pathMatch: 'full'},
   {path: 'aves', component: AvesComponent},
   {path: 'avistajes', component: AvistajesComponent},
+  {path: 'add_avistaje', component: AvistajeAddComponent},
   {path: '**', redirectTo: 'aves', pathMatch: 'full'}
 ];
 

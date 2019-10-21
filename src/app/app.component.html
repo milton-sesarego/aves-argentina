@@ -6,16 +6,15 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" (click)="navegar('/')">Explorar <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" (click)="navegar('/avistajes')">Avistajes</a>
-      <a class="nav-item nav-link" (click)="navegar('/avistajes')">Acerca de</a>
+      <a class="nav-item nav-link cursor-point" (click)="navegar('/')">Explorar</a>
+      <a class="nav-item nav-link cursor-point" (click)="navegar('/avistajes')">Avistajes</a>
+      <a class="nav-item nav-link cursor-point" (click)="navegar('/avistajes')">Acerca de</a>
     </div>
   </div>
 </nav>
-<div class="card-body">
-  <router-outlet></router-outlet>
+<div class="container">
+  <router-outlet (activate)="onActivate($event)"></router-outlet>
 </div>
-
 <!--
 <ng-template>
     <mapa-avistajes [avistajes$]="avistajes$"

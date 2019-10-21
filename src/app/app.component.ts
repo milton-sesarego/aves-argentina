@@ -4,6 +4,7 @@ import { mergeMap, switchMap, map } from 'rxjs/operators';
 import { Avistaje } from './avistajes/avistaje';
 import { AvistajesSearchService } from './avistajes/avistajes-search.service';
 import { Router } from '@angular/router';
+import { AddService } from './add.service';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -26,23 +27,20 @@ export class AppComponent implements OnInit  {
 
   avistajes$: Observable<Avistaje[]>;
 
-  isOpen = false;
-  isDropdownOpen = false;
-
-  toggleNavbar() {
-    this.isOpen = !this.isOpen;
-  }
-
-  toggleDropDown() {
-    this.isDropdownOpen = !this.isDropdownOpen;
-  }
+  message: string;
 
   constructor(
     private avistajesSearchService: AvistajesSearchService,
+    private addService: AddService,
     private router: Router
     ) {}
 
   ngOnInit() {
+    this.addService.currentMessage.subscribe(message => {
+      this.message = message;
+      console.log(this.message);
+      this.navegar('/add_avistaje');
+    });
     this.avistajes$ = this.avistajesSearchService.fetchAvistajes();
   }
 
@@ -52,5 +50,9 @@ export class AppComponent implements OnInit  {
 
   navegar(destino: string) {
     this.router.navigate([destino]);
+  }
+
+  onActivate(componentReference) {
+    console.log(componentReference);
   }
 }

@@ -1,7 +1,8 @@
-import { Component, OnInit, Input , Output} from '@angular/core';
+import { Component, OnInit, Input , EventEmitter, Output} from '@angular/core';
 import { Observable } from 'rxjs';
 import { Ave } from './ave';
 import { AvesSearchService } from './aves-search.service';
+import { AddService } from '../add.service';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -14,7 +15,9 @@ export class AvesComponent implements OnInit {
 
   aves$: Observable<Ave[]>;
 
-  constructor(private avesSearchService: AvesSearchService) { }
+  constructor(private avesSearchService: AvesSearchService,
+              private addService: AddService
+    ) { }
 
   ngOnInit() {
     this.aves$ = this.avesSearchService.fetchAves();
@@ -23,4 +26,7 @@ export class AvesComponent implements OnInit {
   navegarAAves() {
   }
 
+  procesarRecibido(mensaje: string) {
+    this.addService.changeMessage(mensaje);
+  }
 }

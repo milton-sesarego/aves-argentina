@@ -1,9 +1,8 @@
-import { Component, OnInit, OnDestroy, Input, Output, EventEmitter  } from '@angular/core'
+import { Component, OnInit, Input } from '@angular/core';
 import { Observable } from 'rxjs';
 import { Avistaje } from './avistaje';
 import { AvistajesSearchService } from './avistajes-search.service';
-import { marker } from './marker.image';
-import { proj, View } from 'openlayers';
+import { icon, latLng, Map, marker, Marker, polyline, tileLayer } from 'leaflet';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -13,40 +12,53 @@ import { proj, View } from 'openlayers';
 })
 
 export class AvistajesComponent implements OnInit {
-
   @Input() avistajes$: Observable<Avistaje[]>;
+  map;
 
-  @Input()
-  latitude = -34.0000000
-  @Input()
-  longitude = -64.0000000
-  @Input()
-  latitudePointer = -34.0000000
-  @Input()
-  longitudePointer = -64.0000000
-  @Input()
-  showControlsZoom: boolean
-  @Input()
-  titleZoomIn = 'Zoom in'
-  @Input()
-  titleZoomOut = 'Zoom out'
-  @Input()
-  opacity = 1
-  @Input()
-  zoom = 8
-  markerImage = marker
+  punto = marker([ -40.9141145, -71.5863958 ], {
+    icon: icon({
+      iconSize: [ 25, 41 ],
+      iconAnchor: [ 13, 41 ],
+      iconUrl: 'leaflet/marker-icon.png',
+      shadowUrl: 'leaflet/marker-shadow.png'
+    })
+  });
+
+  options = {
+    layers: [
+      tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors'
+      })
+    ],
+    zoom: 5,
+    center: latLng([ -34.0000000 , -64.0000000 ])
+  };
 
   constructor(private dataService: AvistajesSearchService,
     ) {}
 
   ngOnInit() {
-    console.log("asd")
   }
 
-  increaseZoom() {
-    this.zoom++
+  onMapReady(map: Map) {
+    this.map = map;
+    this.addMarker();
   }
-  decreaseZoom() {
-    this.zoom--
+
+  addMarker() {
+    this.dataService.fetchAvistajes().subscribe(arr => {
+      arr.forEach(entry => {
+        const m = marker(entry.posicion,
+          {
+            icon: icon({
+              iconSize: [ 25, 41 ],
+              iconAnchor: [ 13, 41 ],
+              iconUrl: 'leaflet/marker-icon.png',
+              shadowUrl: 'leaflet/marker-shadow.png'
+            })
+          });
+        m.addTo(this.map);
+      });
+    });
   }
 }

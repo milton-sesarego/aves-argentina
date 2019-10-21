@@ -10,7 +10,7 @@ export class AvistajesSearchService {
 
   constructor(
     private afs: AngularFirestore,
-    private http: HttpClient,
+    private http: HttpClient
   ) { }
 
   addAvistaje() {
@@ -43,10 +43,8 @@ export class AvistajesSearchService {
               aves.push({
                 fecha: a['timestamp'],
                 nombrecient: a['Nombre_Cientifico'],
-                latitud: a['Latitud'],
-                longitud: a['Longitud']
+                posicion: [ a['Latitud'], a['Longitud'] ]
               });
-
             });
           return aves;
           })
