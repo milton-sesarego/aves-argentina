@@ -1,21 +1,22 @@
 import { Injectable } from '@angular/core';
 import { Observable, from, of, BehaviorSubject  } from 'rxjs';
+import { Ave } from './aves/ave';
 
 @Injectable()
 export class AddService {
-  mensaje;
-  private messageSource = new BehaviorSubject('default message');
+  ave: Ave;
+  private messageSource = new BehaviorSubject('');
   currentMessage = this.messageSource.asObservable();
 
   constructor(
   ) { }
 
-  changeMessage(message: string) {
-    this.mensaje = message;
-    this.messageSource.next(message);
+  changeMessage(ave: Ave) {
+    this.ave = ave;
+    this.messageSource.next('nuevo');
   }
 
   getMensaje() {
-    return this.mensaje;
+    return this.ave;
   }
 }

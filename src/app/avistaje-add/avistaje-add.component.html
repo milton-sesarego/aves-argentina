@@ -1,12 +1,51 @@
-<div class="map"
-leaflet
-[leafletOptions]="options"
-(leafletMapReady)="onMapReady($event)"
->
+<div class="card-deck d-flex justify-content-center">
+  <vista-ave
+  [ave]="ave"
+  [showFooter]="false">
+  </vista-ave>
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">Haga click en el mapa para añadir la ubicación del avistaje</h5>
+
+      <div class="map"
+        leaflet
+        [leafletOptions]="options"
+        (leafletMapReady)="onMapReady($event)"
+        >
+      </div>
+    </div>
+
+    <div class="card-body">
+      <form>
+        <div class="form-group">
+
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text">Latitud-Longitud</span>
+            </div>
+            <input type="text" aria-label="Latitud" class="form-control" placeholder={{lat}} readonly>
+            <input type="text" aria-label="Longitud" class="form-control" placeholder={{lon}} readonly>
+          </div>
+
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text">Comentario (opcional)</span>
+            </div>
+            <textarea class="form-control" aria-label="With textarea"></textarea>
+          </div>
+          <div class="card-footer">
+            <div class="form-group form-check">
+              <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
+              <label class="form-check-label" for="exampleCheck1">Afirmo que los datos ingresados son verdaderos</label>
+            </div>
+
+            <button type="submit" class="btn btn-dark float-right" (click)="addAvistaje()">Continuar</button>
+            <button type="submit" class="btn btn-dark float-right" (click)="backClicked()">Cancelar</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
 </div>
-
-<h1>Añadir avistaje</h1>
-{{nombrecient}}
-
-
 

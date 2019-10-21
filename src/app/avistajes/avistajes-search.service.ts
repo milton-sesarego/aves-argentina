@@ -1,8 +1,8 @@
 import { Injectable } from '@angular/core';
-import { Observable, from, of } from 'rxjs';
+import { Observable } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 import { Avistaje } from './avistaje';
-import { map, switchMap, mergeMap, merge, take } from 'rxjs/operators';
+import { map } from 'rxjs/operators';
 import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
 
 @Injectable()
@@ -12,22 +12,6 @@ export class AvistajesSearchService {
     private afs: AngularFirestore,
     private http: HttpClient
   ) { }
-
-  addAvistaje() {
-    this.afs.collection('avistajes').add(
-      {
-        id: this.afs.createId(),
-        Latitud: '-40.9541145',
-        Longitud: '-71.5363958',
-        Nombre_Cientifico: 'Adelomyia melanogenys',
-        timestamp: new Date().getTime()
-      }
-    ).then(response => {
-      console.log(response);
-    }).catch(error => {
-      console.log(error);
-    });
-  }
 
   fetchAvistajes(): Observable<Avistaje[]> {
       const avistajesRef = this.afs.collection('avistajes', ref => ref

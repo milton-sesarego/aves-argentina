@@ -12,7 +12,6 @@ import { AddService } from '../add.service';
 })
 export class AvesComponent implements OnInit {
   searchText;
-
   aves$: Observable<Ave[]>;
 
   constructor(private avesSearchService: AvesSearchService,
@@ -26,7 +25,7 @@ export class AvesComponent implements OnInit {
   navegarAAves() {
   }
 
-  procesarRecibido(mensaje: string) {
-    this.addService.changeMessage(mensaje);
+  procesarRecibido(ave: Ave) {
+    this.addService.changeMessage(ave);
   }
 }

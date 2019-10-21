@@ -10,7 +10,7 @@ import dataset from './dataset/dataset.json';
 @Injectable()
 export class AvesSearchService {
   private from = 0;
-  private offset = 10;
+  private offset = 20;
   constructor(
     private afs: AngularFirestore,
     private http: HttpClient,
@@ -38,7 +38,6 @@ export class AvesSearchService {
   }
 
   fetchAves(): Observable<Ave[]> {
-
     return of(dataset)
       .pipe(
         map(response => {

@@ -11,6 +11,10 @@
   box-shadow: 0 10px 40px 0 #B0C1D9;
 }
 
+.btn{
+  margin: 5px;
+}
+
 html, body {
   height: 100%;
   margin: 0;
@@ -18,7 +22,6 @@ html, body {
 }
 
 .filter{
-  margin-top: 20px;
   max-width: 800px;
 }
 
@@ -31,4 +34,11 @@ html, body {
 
 .cursor-point{
   cursor: pointer;
+}
+
+.container{
+  margin: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  display:block;
 }

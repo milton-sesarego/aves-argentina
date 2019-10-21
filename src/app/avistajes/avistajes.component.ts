@@ -37,6 +37,7 @@ export class AvistajesComponent implements OnInit {
   constructor(private dataService: AvistajesSearchService,
     ) {}
 
+
   ngOnInit() {
   }
 
@@ -57,6 +58,7 @@ export class AvistajesComponent implements OnInit {
               shadowUrl: 'leaflet/marker-shadow.png'
             })
           });
+        m.bindPopup('<strong>'+entry.nombrecient+'</strong>').openPopup();
         m.addTo(this.map);
       });
     });

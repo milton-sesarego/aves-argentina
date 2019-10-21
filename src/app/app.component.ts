@@ -38,14 +38,11 @@ export class AppComponent implements OnInit  {
   ngOnInit() {
     this.addService.currentMessage.subscribe(message => {
       this.message = message;
-      console.log(this.message);
-      this.navegar('/add_avistaje');
+      if (this.message !== '') {
+        this.navegar('/add_avistaje');
+      }
     });
     this.avistajes$ = this.avistajesSearchService.fetchAvistajes();
-  }
-
-  addAvistaje() {
-    this.avistajesSearchService.addAvistaje();
   }
 
   navegar(destino: string) {

@@ -1,4 +1,4 @@
-<div class="container">
+
   <form>
     <div class="filter center form-group">
       <input class="form-control" type="text" name="search"
@@ -10,7 +10,7 @@
     <vista-ave
       (propagar)="procesarRecibido($event)"
       *ngFor="let ave of aves$ | async | filter:searchText"
-      [ave]="ave">
+      [ave]="ave"
+      [showFooter]="true">
     </vista-ave>
   </div>
-</div>

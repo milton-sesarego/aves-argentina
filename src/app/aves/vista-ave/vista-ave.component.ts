@@ -9,15 +9,15 @@ import { Ave } from '../ave';
 })
 export class VistaAveComponent implements OnInit {
   @Input() ave: Ave;
-
-  @Output() propagar = new EventEmitter<string>();
+  @Input() showFooter: boolean;
+  @Output() propagar = new EventEmitter<Ave>();
 
   constructor() { }
 
   ngOnInit() {
   }
 
-  onAdd(nombrecient: string) {
-    this.propagar.emit(nombrecient);
+  onAdd(ave: Ave) {
+    this.propagar.emit(ave);
   }
 }

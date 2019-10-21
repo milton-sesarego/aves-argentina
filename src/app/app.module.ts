@@ -24,6 +24,7 @@ import { AvistajesComponent } from './avistajes/avistajes.component';
 import { VistaAvistajeComponent } from './avistajes/vista-avistaje/vista-avistaje.component';
 import { AvistajesSearchService } from './avistajes/avistajes-search.service';
 import { AvistajeAddComponent } from './avistaje-add/avistaje-add.component';
+import { AddAvistajeService } from './avistaje-add/add-avistaje.service';
 
 import { AddService } from './add.service';
 
@@ -53,9 +54,10 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     AvistajesComponent,
     VistaAvistajeComponent,
     AvistajeAddComponent
+
   ],
   bootstrap:    [ AppComponent ],
-  providers: [ AddService, AvesSearchService, WikiSearchService, AngularFirestore, AvistajesSearchService ]
+  providers: [ AddAvistajeService, AddService, AvesSearchService, WikiSearchService, AngularFirestore, AvistajesSearchService ]
 })
 export class AppModule { }
 
