@@ -1,8 +1,10 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable , of, Subject} from 'rxjs';
 import { Avistaje } from './avistaje';
+import { Router } from '@angular/router';
 import { AvistajesSearchService } from './avistajes-search.service';
-import { icon, latLng, Map, marker, Marker, polyline, tileLayer } from 'leaflet';
+import { icon, latLng, Map, marker, Marker, tooltip, tileLayer } from 'leaflet';
+import { delay } from 'rxjs/operators';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -13,17 +15,8 @@ import { icon, latLng, Map, marker, Marker, polyline, tileLayer } from 'leaflet'
 
 export class AvistajesComponent implements OnInit {
   @Input() avistajes$: Observable<Avistaje[]>;
-  map;
-
-  punto = marker([ -40.9141145, -71.5863958 ], {
-    icon: icon({
-      iconSize: [ 25, 41 ],
-      iconAnchor: [ 13, 41 ],
-      iconUrl: 'leaflet/marker-icon.png',
-      shadowUrl: 'leaflet/marker-shadow.png'
-    })
-  });
-
+  map: Map;
+  avistajeSelect: Avistaje;
   options = {
     layers: [
       tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -34,11 +27,16 @@ export class AvistajesComponent implements OnInit {
     center: latLng([ -34.0000000 , -64.0000000 ])
   };
 
-  constructor(private dataService: AvistajesSearchService,
+  constructor(
+    private dataService: AvistajesSearchService,
+    private router: Router
     ) {}
 
-
   ngOnInit() {
+  }
+
+  navegar(destino: string) {
+    this.router.navigate([destino]);
   }
 
   onMapReady(map: Map) {
@@ -57,9 +55,28 @@ export class AvistajesComponent implements OnInit {
               iconUrl: 'leaflet/marker-icon.png',
               shadowUrl: 'leaflet/marker-shadow.png'
             })
-          });
-        m.bindPopup('<strong>'+entry.nombrecient+'</strong>').openPopup();
+          }
+        );
+        //m.bindPopup('<strong>' + entry.nombrecient + '</strong>').openPopup();
         m.addTo(this.map);
+
+        const t = tooltip({
+          permanent: true,
+          direction: 'center',
+          offset: [0, 60],
+          className: 'text'
+        })
+        .setContent(entry.nombrecient)
+        .setLatLng( entry.posicion );
+        t.addTo(this.map);
+
+        m.on('click', function() {
+            of(true).pipe(delay(300)).subscribe(data => {
+              this.dataService.showData(entry);
+              this.avistajeSelect = entry;
+            });
+          }.bind(this)
+        );
       });
     });
   }

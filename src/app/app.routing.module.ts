@@ -17,12 +17,21 @@ const appRoutes: Routes = [
   {path: '', redirectTo: 'aves', pathMatch: 'full'},
   {path: 'aves', component: AvesComponent},
   {path: 'avistajes', component: AvistajesComponent},
+  {path: 'avistajes', component: VistaAvistajeComponent,
+    outlet: 'sidebar-avistaje'},
+  /*children: [
+    {
+    path:  'avistaje_sidebar',
+    component:  VistaAvistajeComponent
+    }]
+  },*/
   {path: 'add_avistaje', component: AvistajeAddComponent},
   {path: '**', redirectTo: 'aves', pathMatch: 'full'}
 ];
 
 @NgModule({
 imports: [
+      // RouterModule.forRoot(appRoutes),
       RouterModule.forRoot(appRoutes)
 ],
 

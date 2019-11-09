@@ -2,13 +2,15 @@
 
 .card-img-top {
   height: 200px !important;
-  width: auto !important;
+  /*min-width: 150px !important;*/
+  /*width: auto !important;*/
   object-fit: contain !important;
 }
 
 .card{
   margin: 5px !important;
   box-shadow: 0 10px 40px 0 #B0C1D9;
+  width: 275px;
 }
 
 .btn{
@@ -37,8 +39,9 @@ html, body {
 }
 
 .container{
-  margin: 20px;
+  margin: 25px;
   margin-right: auto;
   margin-left: auto;
-  display:block;
+  max-width: 95% !important;
+  /*display:block;*/
 }

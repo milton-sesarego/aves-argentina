@@ -27,8 +27,6 @@ export class AppComponent implements OnInit  {
 
   avistajes$: Observable<Avistaje[]>;
 
-  message: string;
-
   constructor(
     private avistajesSearchService: AvistajesSearchService,
     private addService: AddService,
@@ -36,9 +34,8 @@ export class AppComponent implements OnInit  {
     ) {}
 
   ngOnInit() {
-    this.addService.currentMessage.subscribe(message => {
-      this.message = message;
-      if (this.message !== '') {
+    this.addService.currentMessage.subscribe(evento => {
+      if (evento.action == 'add') {
         this.navegar('/add_avistaje');
       }
     });
@@ -50,6 +47,6 @@ export class AppComponent implements OnInit  {
   }
 
   onActivate(componentReference) {
-    console.log(componentReference);
+    console.log("change");
   }
 }

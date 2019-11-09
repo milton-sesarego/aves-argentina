@@ -1,17 +1,32 @@
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">{{titulo}}</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-      <a class="nav-item nav-link cursor-point" (click)="navegar('/')">Explorar</a>
-      <a class="nav-item nav-link cursor-point" (click)="navegar('/avistajes')">Avistajes</a>
-      <a class="nav-item nav-link cursor-point" (click)="navegar('/avistajes')">Acerca de</a>
+<nav class="navbar navbar-dark bg-dark navbar-expand-sm">
+  <div class="container-fluid px-0">
+    <div class="row w-100">
+      <div class="col-10">
+        <div class="collapse justify-content navbar-collapse" [ngClass]="{ 'show': isShown }" id="navbarTogglerDemo03">
+          <a class="navbar-brand" href="#">{{titulo}}</a>
+          <ul class="navbar-nav mt-2 mt-lg-0">
+            <li class="nav-item">
+              <a class="nav-link cursor-point" (click)="navegar('/')">Explorar</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-item nav-link cursor-point" (click)="navegar('/avistajes')">Avistajes</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-item nav-link cursor-point" (click)="navegar('/avistajes')">Acerca de</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-2">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation" (click)="isShown = !isShown" >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
     </div>
   </div>
 </nav>
+
 <div class="container">
   <router-outlet (activate)="onActivate($event)"></router-outlet>
 </div>

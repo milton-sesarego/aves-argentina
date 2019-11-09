@@ -1,8 +1,9 @@
-import { Component, OnInit, Input} from '@angular/core';
+import { Component, OnInit, ChangeDetectorRef, Input} from '@angular/core';
 import { AddService } from '../add.service';
 import { icon, latLng, Map, marker, tileLayer } from 'leaflet';
 import { Ave } from '../aves/ave';
 import { Location } from '@angular/common';
+import { Router } from '@angular/router';
 import { AddAvistajeService } from './add-avistaje.service';
 
 @Component({
@@ -39,6 +40,8 @@ export class AvistajeAddComponent implements OnInit {
   @Input() ave: Ave;
 
   constructor(private addService: AddService,
+              private cdr: ChangeDetectorRef,
+              private router: Router,
               private location: Location,
               private addAvistajeService: AddAvistajeService) {}
 
@@ -52,6 +55,11 @@ export class AvistajeAddComponent implements OnInit {
 
   addAvistaje() {
     this.addAvistajeService.addAvistaje(this.lat, this.lon, this.ave.nombrecient);
+    this.navegar('/avistajes');
+  }
+
+  navegar(destino: string) {
+    this.router.navigate([destino]);
   }
 
   onMapReady(map: Map) {
@@ -65,6 +73,7 @@ export class AvistajeAddComponent implements OnInit {
       this.myMarker = marker([e.latlng.lat, e.latlng.lng], this.markerOptions).addTo(this.map);
       this.lat = e.latlng.lat;
       this.lon = e.latlng.lng;
+      this.cdr.detectChanges();
     });
   }
 

@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable , BehaviorSubject} from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 import { Avistaje } from './avistaje';
 import { map } from 'rxjs/operators';
@@ -13,25 +13,37 @@ export class AvistajesSearchService {
     private http: HttpClient
   ) { }
 
+  avistajeDefault = {
+    posicion: null,
+    nombrecient: 'nombre cientifico',
+    fecha: null
+  };
+
+  dataChange = new BehaviorSubject<Avistaje>(this.avistajeDefault);
+
+  showData(data) {
+    this.dataChange.next(data);
+  }
+  getData(): Observable<Avistaje> {
+      return this.dataChange.asObservable();
+  }
+
   fetchAvistajes(): Observable<Avistaje[]> {
-      const avistajesRef = this.afs.collection('avistajes', ref => ref
-      .orderBy('Nombre_Cientifico', 'desc')
-      .limit(50))
-      .valueChanges();
+    const avistajesRef = this.afs.collection('avistajes', ref => ref
+    .orderBy('Nombre_Cientifico', 'desc')
+    .limit(5))
+    .valueChanges();
 
-      const aves: Avistaje[] = [];
-
-      return avistajesRef.pipe(
-        map(res => {
-          res.forEach((a) => {
-              aves.push({
-                fecha: a['timestamp'],
-                nombrecient: a['Nombre_Cientifico'],
-                posicion: [ a['Latitud'], a['Longitud'] ]
-              });
-            });
-          return aves;
-          })
-        );
-    }
+    return avistajesRef.pipe(
+      map(res => {
+        return res.map(a => {
+          return {
+            fecha: a['timestamp'],
+            nombrecient: a['Nombre_Cientifico'],
+            posicion: [ a['Latitud'], a['Longitud'] ]
+          };
+        });
+      })
+    );
+  }
 }
