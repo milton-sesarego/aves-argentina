@@ -14,6 +14,10 @@ export class AvesComponent implements OnInit {
   searchText;
   aves$: Observable<Ave[]>;
 
+  key: string = 'nombrecient';
+  reverse: boolean = false;
+  p: number = 1;
+
   constructor(private avesSearchService: AvesSearchService,
               private addService: AddService
     ) { }
@@ -22,9 +26,19 @@ export class AvesComponent implements OnInit {
     this.aves$ = this.avesSearchService.fetchAves();
   }
 
-  navegarAAves() {
+  sort(key){
+    this.key = key;
+    this.reverse = !this.reverse;
   }
-
+/*
+  get aves(): Ave[] {
+    return this.avesList
+      .map((ave, i) =>
+        ({id: i + 1, ...ave})
+      )
+      .slice((this.page - 1) * this.pageSize, (this.page - 1) * this.pageSize + this.pageSize);
+  }
+*/
   procesarRecibido(ave: Ave) {
     this.addService.changeMessage(ave);
   }

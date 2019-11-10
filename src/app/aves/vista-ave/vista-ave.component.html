@@ -34,12 +34,13 @@
         <h5 class="card-subtitle mb-2 text-muted"><i>{{ave.nombrecient}}</i></h5>
         <h5 class="card-title">{{ave.nombrecomun}}</h5>
     </div>
-    <img src="{{ave.thumbnail}}" class="card-img-top" alt="Imágen de Wikipedia">
+    <img src="{{ave.thumbnail}}" class="card-img-top center" alt="Imágen de Wikipedia">
     <div class="card-body">
-      <p class="card-text text-muted">
-        {{ave.descripcion}} <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a>
-      </p>
       <p class="card-text"><small class="text-muted">{{ave.familia}}</small></p>
+      <div class="card-text text-muted descripcion" [class.show]="show">
+        {{ave.descripcion}} <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a>
+      </div>
+      <button type="button" class="btn btn-light center" (click)="show = !show">{{ show ? 'Ver menos': 'Ver más' }}</button>
     </div>
     <div class="card-footer" *ngIf="showFooter">
         <button type="button" class="btn btn-dark" (click)="onAdd(ave)">Agregar</button>

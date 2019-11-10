@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { FormsModule } from '@angular/forms';
+import { FormsModule , ReactiveFormsModule} from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppComponent } from './app.component';
@@ -11,6 +11,8 @@ import { AvesSearchService } from './aves/aves-search.service';
 import { WikiSearchService } from './aves/wiki-search.service';
 
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
+import { Ng2OrderModule } from 'ng2-order-pipe';
+import {NgxPaginationModule} from 'ngx-pagination';
 
 import { AppRoutingModule } from './app.routing.module';
 import { Routes, RouterModule} from '@angular/router';
@@ -26,6 +28,8 @@ import { AvistajesSearchService } from './avistajes/avistajes-search.service';
 import { AvistajeAddComponent } from './avistaje-add/avistaje-add.component';
 import { AddAvistajeService } from './avistaje-add/add-avistaje.service';
 
+import { AcercaDeComponent } from './acerca-de/acerca-de.component';
+
 import { AddService } from './add.service';
 
 import { AngularOpenlayersModule } from 'ngx-openlayers';
@@ -38,9 +42,12 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
   BrowserModule,
   LeafletModule.forRoot(),
   FormsModule,
+  ReactiveFormsModule,
   HttpClientModule,
   BrowserAnimationsModule,
   Ng2SearchPipeModule,
+  Ng2OrderModule,
+  NgxPaginationModule,
   AppRoutingModule,
   AngularFireModule.initializeApp(environment.firebase),
   AngularFirestoreModule,
@@ -49,6 +56,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 ],
   declarations: [
     AppComponent,
+    AcercaDeComponent,
     AvesComponent,
     VistaAveComponent,
     AvistajesComponent,

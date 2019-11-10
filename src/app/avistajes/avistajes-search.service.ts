@@ -7,6 +7,7 @@ import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firest
 
 @Injectable()
 export class AvistajesSearchService {
+  avistaje: Avistaje;
 
   constructor(
     private afs: AngularFirestore,
@@ -22,6 +23,7 @@ export class AvistajesSearchService {
   dataChange = new BehaviorSubject<Avistaje>(this.avistajeDefault);
 
   showData(data) {
+    this.avistaje = data;
     this.dataChange.next(data);
   }
   getData(): Observable<Avistaje> {
@@ -31,7 +33,7 @@ export class AvistajesSearchService {
   fetchAvistajes(): Observable<Avistaje[]> {
     const avistajesRef = this.afs.collection('avistajes', ref => ref
     .orderBy('Nombre_Cientifico', 'desc')
-    .limit(5))
+    .limit(50))
     .valueChanges();
 
     return avistajesRef.pipe(

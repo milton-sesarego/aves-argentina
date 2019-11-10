@@ -4,13 +4,53 @@
       <input class="form-control" type="text" name="search"
       [(ngModel)]="searchText" autocomplete="off" placeholder="Filtrar">
     </div>
+    <pagination-controls class="center" (pageChange)="p = $event"></pagination-controls>
   </form>
+
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col" (click)="sort('nombrecient')">Nombre Científico
+          <span class="glyphicon sort-icon" *ngIf="key =='nombrecient'" [ngClass]="{'glyphicon-chevron-up':reverse,'glyphicon-chevron-down':!reverse}"></span>
+        </th>
+        <th scope="col" (click)="sort('nombrecomun')">Nombre Común
+          <span class="glyphicon sort-icon" *ngIf="key =='nombrecomun'" [ngClass]="{'glyphicon-chevron-up':reverse,'glyphicon-chevron-down':!reverse}"></span>
+        </th>
+      </tr>
+    </thead>
+  </table>
+<!--
+    </thead>
+    <tbody>
+    <tr *ngFor="let ave of avesList | orderBy: key : reverse | filter:searchText | paginate: { itemsPerPage: 10, currentPage: p };">
+      <td>
+        {{ ave.nombrecient }}
+      </td>
+      <td>{{ ave.nombrecomun }}</td>
+    </tr>
+    </tbody>
+  </table>-->
 
   <div class="card-deck d-flex justify-content-center">
     <vista-ave
       (propagar)="procesarRecibido($event)"
-      *ngFor="let ave of aves$ | async | filter:searchText"
+      *ngFor="let ave of aves$ | async | orderBy: key : reverse | filter:searchText | paginate: { itemsPerPage: 10, currentPage: p };"
       [ave]="ave"
       [showFooter]="true">
     </vista-ave>
   </div>
+
+
+
+<!--
+  <div class="d-flex justify-content-between p-2">
+    <ngb-pagination [collectionSize]="collectionSize" [(page)]="page" [pageSize]="pageSize">
+    </ngb-pagination>
+
+    <select class="custom-select" style="width: auto" [(ngModel)]="pageSize">
+      <option [ngValue]="5">5 items por página</option>
+      <option [ngValue]="10">10 items por página</option>
+      <option [ngValue]="15">15 items por página</option>
+    </select>
+  </div>
+-->

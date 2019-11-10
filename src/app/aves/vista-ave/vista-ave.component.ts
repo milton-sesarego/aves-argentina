@@ -1,4 +1,5 @@
 import { Component, OnInit, Input, EventEmitter , Output } from '@angular/core';
+import { FormBuilder, FormGroup, FormControl } from '@angular/forms';
 import { Ave } from '../ave';
 
 @Component({
@@ -11,10 +12,15 @@ export class VistaAveComponent implements OnInit {
   @Input() ave: Ave;
   @Input() showFooter: boolean;
   @Output() propagar = new EventEmitter<Ave>();
+  form: FormGroup;
+  show = false;
 
-  constructor() { }
+  constructor(private fb: FormBuilder) { }
 
   ngOnInit() {
+    this.form = this.fb.group({
+      selectedT: []
+    });
   }
 
   onAdd(ave: Ave) {

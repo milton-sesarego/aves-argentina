@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Observable, from, of } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 import { Ave } from './ave';
-import { map, switchMap, mergeMap, merge, take } from 'rxjs/operators';
+import { map, switchMap, mergeAll, merge, take } from 'rxjs/operators';
 import { WikiSearchService } from './wiki-search.service';
 import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
 import dataset from './dataset/dataset.json';
@@ -10,7 +10,8 @@ import dataset from './dataset/dataset.json';
 @Injectable()
 export class AvesSearchService {
   private from = 0;
-  private offset = 20;
+  private offset = 100;
+  aves: Ave[] = [];
   constructor(
     private afs: AngularFirestore,
     private http: HttpClient,
@@ -22,32 +23,26 @@ export class AvesSearchService {
     return 'https://es.wikipedia.org/wiki/' + tempTitle;
   }
 
-  addAvistaje() {
-    this.afs.collection('avistajes').add(
-      {
-        id: this.afs.createId(),
-        name: "nombretest",
-        place: "placetest",
-        timestamp: new Date().getTime()
-      }
-    ).then(response => {
-      console.log(response);
-    }).catch(error => {
-      console.log(error);
-    });
+  fetchAve(nombrecient: string): Ave {
+    return this.aves.filter(x => x.nombrecient === nombrecient)[0];
   }
 
   fetchAves(): Observable<Ave[]> {
+    if (this.aves.length > 0) {
+      console.log('i\'ve been here before');
+      return of(this.aves);
+    }
+
     return of(dataset)
       .pipe(
         map(response => {
-          const aves: Ave[] = [];
+          this.aves = [];
           const subresponse = response.slice(this.from, this.from + this.offset);
           this.from += this.offset;
           subresponse.forEach((a) => {
             this.wikiSearchService.fetchWiki(a["Nombre_Cientifico"])
               .subscribe(res => {
-                aves.push({
+                this.aves.push({
                   thumbnail: res["thumbnail"]["source"],
                   imagen: res["originalimage"]["source"],
                   nombrecient: a["Nombre_Cientifico"],
@@ -59,19 +54,19 @@ export class AvesSearchService {
                 });
               },
               err => {
-                aves.push({
-                  thumbnail: '',
+                this.aves.push({
+                  thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/6/62/MissingNo.png',
                   imagen: '',
                   nombrecient: a['Nombre_Cientifico'],
                   nombrecomun: a['Nombre_Comun'],
                   familia: a['Familia'],
                   estado: a['Estado'],
-                  descripcion: '',
+                  descripcion: 'No hay descripción disponible',
                   link: this.wikiURL(a['Nombre_Cientifico'])
                 });
               });
           });
-          return aves;
+          return this.aves;
         })
       );
   }

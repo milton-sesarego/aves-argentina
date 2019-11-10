@@ -51,6 +51,18 @@ export class AvistajeAddComponent implements OnInit {
 
   ngOnInit() {
     this.ave = this.addService.getMensaje();
+    if (this.ave == null) {
+      this.ave = {
+        thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/6/62/MissingNo.png',
+        imagen: '',
+        nombrecient: 'MissingNo.',
+        nombrecomun: 'MissingNo.',
+        familia: 'Null',
+        estado: 'Null',
+        descripcion: '',
+        link: ''
+      };
+    }
   }
 
   addAvistaje() {

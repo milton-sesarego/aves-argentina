@@ -1,10 +1,12 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { ChangeDetectorRef, Component, OnInit, Input } from '@angular/core';
 import { Observable , of, Subject} from 'rxjs';
 import { Avistaje } from './avistaje';
 import { Router } from '@angular/router';
 import { AvistajesSearchService } from './avistajes-search.service';
 import { icon, latLng, Map, marker, Marker, tooltip, tileLayer } from 'leaflet';
 import { delay } from 'rxjs/operators';
+import { AvesSearchService } from '../aves/aves-search.service';
+import { Ave } from '../aves/ave';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -17,6 +19,8 @@ export class AvistajesComponent implements OnInit {
   @Input() avistajes$: Observable<Avistaje[]>;
   map: Map;
   avistajeSelect: Avistaje;
+  ave: Ave;
+
   options = {
     layers: [
       tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -29,7 +33,9 @@ export class AvistajesComponent implements OnInit {
 
   constructor(
     private dataService: AvistajesSearchService,
-    private router: Router
+    private avesSearchService: AvesSearchService,
+    private router: Router,
+    private cdr: ChangeDetectorRef
     ) {}
 
   ngOnInit() {

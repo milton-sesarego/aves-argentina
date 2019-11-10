@@ -1,4 +1,5 @@
 export interface Ave {
+  id?: number;
   thumbnail: string;
   imagen: string;
   nombrecient: string;
