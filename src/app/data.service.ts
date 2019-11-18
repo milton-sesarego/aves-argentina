@@ -58,6 +58,7 @@ export class DataService {
         res.map(a => {
           this.completeWiki(a);
         });
+        console.log(this.aves);
       });
   }
 
