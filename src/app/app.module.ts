@@ -7,12 +7,11 @@ import { AppComponent } from './app.component';
 
 import { AvesComponent } from './aves/aves.component';
 import { VistaAveComponent } from './aves/vista-ave/vista-ave.component';
-import { AvesSearchService } from './aves/aves-search.service';
-import { WikiSearchService } from './aves/wiki-search.service';
+import { DataService } from './data.service';
 
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { Ng2OrderModule } from 'ng2-order-pipe';
-import {NgxPaginationModule} from 'ngx-pagination';
+import { NgxPaginationModule } from 'ngx-pagination';
 
 import { AppRoutingModule } from './app.routing.module';
 import { Routes, RouterModule} from '@angular/router';
@@ -24,9 +23,7 @@ import { AngularFirestore } from '@angular/fire/firestore';
 
 import { AvistajesComponent } from './avistajes/avistajes.component';
 import { VistaAvistajeComponent } from './avistajes/vista-avistaje/vista-avistaje.component';
-import { AvistajesSearchService } from './avistajes/avistajes-search.service';
 import { AvistajeAddComponent } from './avistaje-add/avistaje-add.component';
-import { AddAvistajeService } from './avistaje-add/add-avistaje.service';
 
 import { AcercaDeComponent } from './acerca-de/acerca-de.component';
 
@@ -65,7 +62,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
   ],
   bootstrap:    [ AppComponent ],
-  providers: [ AddAvistajeService, AddService, AvesSearchService, WikiSearchService, AngularFirestore, AvistajesSearchService ]
+  providers: [ AddService, DataService, AngularFirestore ]
 })
 export class AppModule { }
 

@@ -4,19 +4,15 @@
       <h5 class="card-title">{{ave.nombrecomun}}</h5>
   </div>
   <img src="{{ave.thumbnail}}" class="card-img-top center" alt="Imágen de Wikipedia">
-  <div class="card-body">
+  <div class="card-body" *ngIf="notNull">
     <p class="card-text"><small class="text-muted">{{ave.familia}}</small></p>
-    <div class="card-text text-muted descripcion" [class.show]="show">
-      {{ave.descripcion}} <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a>
-    </div>
-    <button type="button" class="btn btn-light center" (click)="show = !show">{{ show ? 'Ver menos': 'Ver más' }}</button>
+    <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a>
   </div>
 
-  <div class="card-footer" *ngIf="showFooter">
-      <p class="card-text"><small class="text-muted">{{avistaje.fecha}}</small></p>
-      <div class="card-text text-muted descripcion" [class.show]="show">
-        {{ave.descripcion}} <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a>
-      </div>
-      <button type="button" class="btn btn-light center" (click)="show = !show">{{ show ? 'Ver menos': 'Ver más' }}</button>
+  <div class="card-footer" *ngIf="notNull">
+      <p class="card-text"><small class="text-muted">Actualizado: {{avistaje.fecha.toDate()}}</small></p>
+      <p class="card-text text-muted">
+        Comentario: {{avistaje.comentario}}
+      </p>
   </div>
 </div>

@@ -17,7 +17,6 @@ export class AddService {
   ) { }
 
   changeMessage(ave: Ave) {
-    console.log(ave);
     this.current_ave = ave;
     const evento = {
       ave_select: ave,
@@ -25,7 +24,6 @@ export class AddService {
       message: 'mensaje'
     };
     this.messageSource.next(evento);
-    console.log(evento);
   }
 
   getMensaje() {

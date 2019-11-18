@@ -1,8 +1,7 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { Observable, from, Subject } from 'rxjs';
-import { mergeMap, switchMap, map } from 'rxjs/operators';
 import { Avistaje } from './avistajes/avistaje';
-import { AvistajesSearchService } from './avistajes/avistajes-search.service';
+import { DataService } from './data.service';
 import { Router } from '@angular/router';
 import { AddService } from './add.service';
 
@@ -19,18 +18,18 @@ export class AppComponent implements OnInit  {
   avistajes$: Observable<Avistaje[]>;
 
   constructor(
-    private avistajesSearchService: AvistajesSearchService,
+    private dataService: DataService,
     private addService: AddService,
     private router: Router
     ) {}
 
   ngOnInit() {
     this.addService.currentMessage.subscribe(evento => {
-      if (evento.action == 'add') {
+      if (evento.action === 'add') {
         this.navegar('/add_avistaje');
       }
     });
-    this.avistajes$ = this.avistajesSearchService.fetchAvistajes();
+    this.avistajes$ = this.dataService.fetchAvistajes();
   }
 
   navegar(destino: string) {
@@ -38,6 +37,6 @@ export class AppComponent implements OnInit  {
   }
 
   onActivate(componentReference) {
-    console.log("change");
+
   }
 }

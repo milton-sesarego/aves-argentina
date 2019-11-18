@@ -1,7 +1,7 @@
 import { Component, OnInit, Input , EventEmitter, Output} from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable, of } from 'rxjs';
 import { Ave } from './ave';
-import { AvesSearchService } from './aves-search.service';
+import { DataService } from '../data.service';
 import { AddService } from '../add.service';
 
 @Component({
@@ -18,27 +18,20 @@ export class AvesComponent implements OnInit {
   reverse: boolean = false;
   p: number = 1;
 
-  constructor(private avesSearchService: AvesSearchService,
+  constructor(private dataService: DataService,
               private addService: AddService
-    ) { }
+    ) {
+      this.aves$ = this.dataService.getAves();
+    }
 
   ngOnInit() {
-    this.aves$ = this.avesSearchService.fetchAves();
   }
 
-  sort(key){
+  sort(key) {
     this.key = key;
     this.reverse = !this.reverse;
   }
-/*
-  get aves(): Ave[] {
-    return this.avesList
-      .map((ave, i) =>
-        ({id: i + 1, ...ave})
-      )
-      .slice((this.page - 1) * this.pageSize, (this.page - 1) * this.pageSize + this.pageSize);
-  }
-*/
+
   procesarRecibido(ave: Ave) {
     this.addService.changeMessage(ave);
   }

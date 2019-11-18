@@ -2,7 +2,7 @@
 
 .card-img-top {
   height: 200px !important;
-  max-width: 250px !important;
+  width: 100% !important;
   /*min-width: 150px !important;*/
   /*width: auto !important;*/
   object-fit: contain !important;
@@ -11,7 +11,11 @@
 .card{
   margin: 5px !important;
   box-shadow: 0 10px 40px 0 #B0C1D9;
-  width: 275px;
+  padding: 5px;
+}
+
+.card-title, .card-subtitle{
+  font-size: 1.15rem;
 }
 
 .descripcion {

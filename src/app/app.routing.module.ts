@@ -1,16 +1,9 @@
 
-import {NgModule} from '@angular/core';
-import {Routes, RouterModule} from '@angular/router';
+import { NgModule} from '@angular/core';
+import { Routes, RouterModule} from '@angular/router';
 import { AppComponent } from './app.component';
-
 import { AvistajesComponent } from './avistajes/avistajes.component';
-import { VistaAvistajeComponent } from './avistajes/vista-avistaje/vista-avistaje.component';
-import { AvistajesSearchService } from './avistajes/avistajes-search.service';
-
 import { AvesComponent } from './aves/aves.component';
-import { VistaAveComponent } from './aves/vista-ave/vista-ave.component';
-import { AvesSearchService } from './aves/aves-search.service';
-import { WikiSearchService } from './aves/wiki-search.service';
 import { AvistajeAddComponent } from './avistaje-add/avistaje-add.component';
 import { AcercaDeComponent } from './acerca-de/acerca-de.component';
 

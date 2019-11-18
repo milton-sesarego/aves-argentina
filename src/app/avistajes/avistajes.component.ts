@@ -2,11 +2,8 @@ import { ChangeDetectorRef, Component, OnInit, Input } from '@angular/core';
 import { Observable , of, Subject} from 'rxjs';
 import { Avistaje } from './avistaje';
 import { Router } from '@angular/router';
-import { AvistajesSearchService } from './avistajes-search.service';
 import { icon, latLng, Map, marker, Marker, tooltip, tileLayer } from 'leaflet';
-import { delay } from 'rxjs/operators';
-import { AvesSearchService } from '../aves/aves-search.service';
-import { Ave } from '../aves/ave';
+import { DataService } from '../data.service';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -18,8 +15,6 @@ import { Ave } from '../aves/ave';
 export class AvistajesComponent implements OnInit {
   @Input() avistajes$: Observable<Avistaje[]>;
   map: Map;
-  avistajeSelect: Avistaje;
-  ave: Ave;
 
   options = {
     layers: [
@@ -32,8 +27,7 @@ export class AvistajesComponent implements OnInit {
   };
 
   constructor(
-    private dataService: AvistajesSearchService,
-    private avesSearchService: AvesSearchService,
+    private dataService: DataService,
     private router: Router,
     private cdr: ChangeDetectorRef
     ) {}
@@ -77,10 +71,7 @@ export class AvistajesComponent implements OnInit {
         t.addTo(this.map);
 
         m.on('click', function() {
-            of(true).pipe(delay(300)).subscribe(data => {
-              this.dataService.showData(entry);
-              this.avistajeSelect = entry;
-            });
+            this.dataService.setSelected(entry);
           }.bind(this)
         );
       });

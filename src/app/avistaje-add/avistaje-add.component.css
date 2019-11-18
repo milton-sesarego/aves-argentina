@@ -1,14 +1,11 @@
-
 .map {
   position: relative !important;
-  height: 250px !important;
-  width: 100%;
+  width: 100%; height: 300px;
   margin: 2px;
   padding: 2px;
-  box-shadow: 0 10px 40px 0 #B0C1D9;;
+  box-shadow: 0 10px 40px 0 #B0C1D9;
 }
 
-.card-body{
-  min-width: 300px !important;
-  flex: 0 0 auto !important;
+.mapcard{
+  max-height: 650px;
 }

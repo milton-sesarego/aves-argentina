@@ -1,33 +1,3 @@
-<!--<div *ngIf="ave">
-  <div class="card">
-    <div class="card-body">
-          <img src="{{ave.thumbnail}}"/>
-          <div>
-            <div class="card-subtitle mb-2 text-muted">
-              <i>{{ave.nombrecient}}</i>
-            </div>
-            <div class="card-title">
-              {{ave.nombrecomun}}
-            </div>
-            <div>
-              {{ave.familia}}
-            </div>
-            <div>
-              {{ave.estado}}
-            </div>
-            <div>
-              <p class="card-text">{{ave.descripcion}} <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a></p>
-            </div>
-          </div>
-        </div>
-
-      <div>
-        <button mat-raised-button  class="optionButton button"
-        >Añadir</button>
-      </div>
-      </div>
-</div>-->
-
 
 <div class="card">
     <div class="card-body">
@@ -40,7 +10,7 @@
       <div class="card-text text-muted descripcion" [class.show]="show">
         {{ave.descripcion}} <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a>
       </div>
-      <button type="button" class="btn btn-light center" (click)="show = !show">{{ show ? 'Ver menos': 'Ver más' }}</button>
+      <button type="button" class="btn btn-light btn-sm center" (click)="show = !show">{{ show ? 'Ver menos': 'Ver más' }}</button>
     </div>
     <div class="card-footer" *ngIf="showFooter">
         <button type="button" class="btn btn-dark" (click)="onAdd(ave)">Agregar</button>

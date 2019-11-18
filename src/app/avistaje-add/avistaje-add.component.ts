@@ -4,7 +4,7 @@ import { icon, latLng, Map, marker, tileLayer } from 'leaflet';
 import { Ave } from '../aves/ave';
 import { Location } from '@angular/common';
 import { Router } from '@angular/router';
-import { AddAvistajeService } from './add-avistaje.service';
+import { DataService } from '../data.service';
 
 @Component({
   // tslint:disable-next-line: component-selector
@@ -16,8 +16,10 @@ import { AddAvistajeService } from './add-avistaje.service';
 export class AvistajeAddComponent implements OnInit {
   map;
   myMarker;
-  @Input() lat = "latitud";
-  @Input() lon = "longitud";
+  lat = "latitud";
+  lon = "longitud";
+  comentario;
+
   options = {
     layers: [
       tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -34,7 +36,8 @@ export class AvistajeAddComponent implements OnInit {
       iconAnchor: [ 13, 41 ],
       iconUrl: 'leaflet/marker-icon.png',
       shadowUrl: 'leaflet/marker-shadow.png'
-    })
+    }),
+    interactive: false
   };
 
   @Input() ave: Ave;
@@ -43,7 +46,7 @@ export class AvistajeAddComponent implements OnInit {
               private cdr: ChangeDetectorRef,
               private router: Router,
               private location: Location,
-              private addAvistajeService: AddAvistajeService) {}
+              private dataService: DataService) {}
 
   backClicked() {
     this.location.back();
@@ -66,7 +69,7 @@ export class AvistajeAddComponent implements OnInit {
   }
 
   addAvistaje() {
-    this.addAvistajeService.addAvistaje(this.lat, this.lon, this.ave.nombrecient);
+    this.dataService.addAvistaje(this.lat, this.lon, this.ave.nombrecient, this.comentario);
     this.navegar('/avistajes');
   }
 
@@ -78,9 +81,8 @@ export class AvistajeAddComponent implements OnInit {
     this.map = map;
 
     this.map.on('click', e => {
-      console.log(e.latlng); // get the coordinates
-      if (this.myMarker) { // check
-        this.map.removeLayer(this.myMarker); // remove
+      if (this.myMarker) {
+        this.map.removeLayer(this.myMarker);
       }
       this.myMarker = marker([e.latlng.lat, e.latlng.lng], this.markerOptions).addTo(this.map);
       this.lat = e.latlng.lat;
