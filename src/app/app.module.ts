@@ -14,7 +14,6 @@ import { Ng2OrderModule } from 'ng2-order-pipe';
 import { NgxPaginationModule } from 'ngx-pagination';
 
 import { AppRoutingModule } from './app.routing.module';
-import { Routes, RouterModule} from '@angular/router';
 
 import { environment } from '../environments/environment';
 import { AngularFireModule } from '@angular/fire';
@@ -24,8 +23,6 @@ import { AngularFirestore } from '@angular/fire/firestore';
 import { AvistajesComponent } from './avistajes/avistajes.component';
 import { VistaAvistajeComponent } from './avistajes/vista-avistaje/vista-avistaje.component';
 import { AvistajeAddComponent } from './avistaje-add/avistaje-add.component';
-
-import { AcercaDeComponent } from './acerca-de/acerca-de.component';
 
 import { AddService } from './add.service';
 
@@ -53,7 +50,6 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 ],
   declarations: [
     AppComponent,
-    AcercaDeComponent,
     AvesComponent,
     VistaAveComponent,
     AvistajesComponent,

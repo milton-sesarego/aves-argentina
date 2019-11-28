@@ -18,7 +18,7 @@ export class AvistajeAddComponent implements OnInit {
   myMarker;
   lat = "latitud";
   lon = "longitud";
-  comentario;
+  comentario = "";
 
   options = {
     layers: [

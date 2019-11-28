@@ -10,7 +10,8 @@
       <div class="card-text text-muted descripcion" [class.show]="show">
         {{ave.descripcion}} <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a>
       </div>
-      <button type="button" class="btn btn-light btn-sm center" (click)="show = !show">{{ show ? 'Ver menos': 'Ver más' }}</button>
+      <button type="button" class="btn btn-light btn-sm center" (click)="show = !show">
+        {{ show ? 'Ver menos': 'Ver más' }}</button>
     </div>
     <div class="card-footer" *ngIf="showFooter">
         <button type="button" class="btn btn-dark" (click)="onAdd(ave)">Agregar</button>

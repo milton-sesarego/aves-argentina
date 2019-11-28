@@ -46,7 +46,6 @@ export class DataService {
 
   // Avistajes
   avistaje: Avistaje;
-
   dataChange = new ReplaySubject<any>(1);
 
   constructor(
@@ -58,7 +57,6 @@ export class DataService {
         res.map(a => {
           this.completeWiki(a);
         });
-        console.log(this.aves);
       });
   }
 
@@ -70,13 +68,12 @@ export class DataService {
   }
 
   getData(): Observable<any> {
-      return this.dataChange.asObservable();
+    return this.dataChange.asObservable();
   }
 
   fetchAvistajes(): Observable<Avistaje[]> {
     const avistajesRef = this.afs.collection('avistajes', ref => ref
-    .orderBy('Nombre_Cientifico', 'desc')
-    .limit(50))
+    .orderBy('Nombre_Cientifico', 'desc').limit(50))
     .valueChanges();
 
     return avistajesRef.pipe(
@@ -114,15 +111,11 @@ export class DataService {
 
   fetchAve(nombrecient: string): Ave {
     const ave = this.aves.filter(x => x.nombrecient === nombrecient)[0];
-    if (ave.thumbnail == null) {
-      this.completeWiki(ave);
-    }
+    if (ave.thumbnail == null) { this.completeWiki(ave); }
     return ave;
   }
 
-  getAves(): Observable<Ave[]> {
-    return of(this.aves);
-  }
+  getAves(): Observable<Ave[]> { return of(this.aves); }
 
   fetchAves(): Observable<Ave[]> {
     return of(dataset)
@@ -130,9 +123,7 @@ export class DataService {
         map(response => {
           this.aves = [];
           response.forEach((a) => {
-            if (a["Nombre_Comun"].length === 0) {
-              a["Nombre_Comun"] = '-';
-            }
+            if (a["Nombre_Comun"].length === 0) { a["Nombre_Comun"] = '-'; }
             this.aves.push({
               thumbnail: null,
               imagen: null,
@@ -173,5 +164,4 @@ export class DataService {
     const tempTitle = term.replace(' ', '_') + '?redirect=true';
     return this.http.get<WikiSummary>(this.baseUrl + tempTitle);
   }
-
 }

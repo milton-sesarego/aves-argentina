@@ -9,10 +9,12 @@
     <a class="card-link" href="{{ave.link}}" target="_blank">Wikipedia</a>
   </div>
 
-  <div class="card-footer" *ngIf="notNull">
+  <div class="card-footer">
+    <div *ngIf="notNull">
       <p class="card-text"><small class="text-muted">Actualizado: {{avistaje.fecha.toDate()}}</small></p>
       <p class="card-text text-muted">
         Comentario: {{avistaje.comentario}}
       </p>
+    </div>
   </div>
 </div>

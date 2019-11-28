@@ -15,8 +15,6 @@ import { AddService } from './add.service';
 export class AppComponent implements OnInit  {
   titulo = 'Aves de Argentina';
 
-  avistajes$: Observable<Avistaje[]>;
-
   constructor(
     private dataService: DataService,
     private addService: AddService,
@@ -29,7 +27,6 @@ export class AppComponent implements OnInit  {
         this.navegar('/add_avistaje');
       }
     });
-    this.avistajes$ = this.dataService.fetchAvistajes();
   }
 
   navegar(destino: string) {

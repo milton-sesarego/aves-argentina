@@ -13,7 +13,6 @@ import { DataService } from '../data.service';
 })
 
 export class AvistajesComponent implements OnInit {
-  @Input() avistajes$: Observable<Avistaje[]>;
   map: Map;
 
   options = {
@@ -35,10 +34,6 @@ export class AvistajesComponent implements OnInit {
   ngOnInit() {
   }
 
-  navegar(destino: string) {
-    this.router.navigate([destino]);
-  }
-
   onMapReady(map: Map) {
     this.map = map;
     this.addMarker();
@@ -57,7 +52,6 @@ export class AvistajesComponent implements OnInit {
             })
           }
         );
-        //m.bindPopup('<strong>' + entry.nombrecient + '</strong>').openPopup();
         m.addTo(this.map);
 
         const t = tooltip({
@@ -65,14 +59,13 @@ export class AvistajesComponent implements OnInit {
           direction: 'center',
           offset: [0, 60],
           className: 'text'
-        })
-        .setContent(entry.nombrecient)
-        .setLatLng( entry.posicion );
+        }).setContent(entry.nombrecient).setLatLng( entry.posicion );
         t.addTo(this.map);
 
+        let that = this;
         m.on('click', function() {
-            this.dataService.setSelected(entry);
-          }.bind(this)
+            that.dataService.setSelected(entry);
+          }
         );
       });
     });

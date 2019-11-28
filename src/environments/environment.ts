@@ -2,11 +2,16 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyDhUuk4BqaeaWZt4xEt7KJdHbvIUJqN9S8',
-    authDomain: 'aves-7bcb2.firebaseapp.com',
-    databaseURL: 'https://aves-7bcb2.firebaseio.com',
-    projectId: 'aves-7bcb2',
-    storageBucket: 'aves-7bcb2.appspot.com',
-    messagingSenderId: '744166071336',
+    apiKey: '<>', //<-- COMPLETAR TODO, SINO EL MAPA NO MUESTRA LOS AVISTAJES
+    authDomain: '<>',
+    databaseURL: '<>',
+    projectId: '<>',
+    storageBucket: '<>',
+    messagingSenderId: '<>',
   }
 };
+
+/*
+Un buen tutorial para crear una base de datos con Firestore y llenar los campos de arriba:
+https://medium.com/angular-chile/angular-6-y-firestore-b7f270adcc96
+*/

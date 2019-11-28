@@ -34,7 +34,8 @@
   <div class="card-deck d-flex justify-content-center">
     <vista-ave
       (propagar)="procesarRecibido($event)"
-      *ngFor="let ave of aves$ | async | orderBy: key : reverse | filter:searchText | paginate: { itemsPerPage: 10, currentPage: p };"
+      *ngFor="let ave of aves$ | async | orderBy: key : reverse | filter:searchText
+              | paginate: { itemsPerPage: 10, currentPage: p };"
       [ave]="ave"
       [showFooter]="true">
     </vista-ave>
